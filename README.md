@@ -1,12 +1,11 @@
 # **BountyHound**
 
-**BountyHound** is your daily tracker for top GitHub repositories related to **bug bounty**. By monitoring and curating trending repositories, BountyHound ensures you stay up-to-date with the latest tools, frameworks, and research in the bug bounty domain.
+**BountyHound** is your **FULLY AUTOMATED WEEKLY (THURSDAY) tracker for top GitHub repositories related to **bug bounty**. By monitoring and curating trending repositories, BountyHound ensures you stay up-to-date with the latest tools, frameworks, and research in the bug bounty domain.
 
 ---
 
 ## **How It Works**
 
-- **Multiple Queries**: Searching separately for "bugbounty", "bug-bounty", and "bug bounty".
 - **Automated Updates**: GitHub Actions automatically fetches and updates this list.
 - **Key Metrics**: Repositories with their stars, forks, descriptions, and last updated date.
 
@@ -16,7 +15,7 @@
 
 | Metric                     | Value                   |
 |----------------------------|-------------------------|
-| Execution Date             | 2024-12-29 21:17:01 |
+| Execution Date             | 2024-12-29 21:22:54 |
 | Repositories Analyzed      | 1976       |
 | Pages Processed            | 40      |
 
@@ -1776,8 +1775,8 @@
 | [bountymeterPY](https://github.com/rohsec/bountymeterPY) | 4       | 1       | [PYTHON] Bounty Meter is a command-line utility to... | 2023-04-20   |
 | [LulzSec_Dorks](https://github.com/LulzSecToolkit/LulzSec_Dorks) | 4       | 0       | Google Dorks for Bug Bounty | Find Sensitive Infor... | 2024-12-06   |
 | [mrecon](https://github.com/techghoshal/mrecon) | 4       | 0       | Your Bug Bounty Recon and Vulnerability Detection ... | 2023-05-31   |
-| [bbsearch](https://github.com/xeroceph/bbsearch) | 4       | 0       | Quick domain scanner for security.txt bug bounty f... | 2023-02-20   |
 | [ShodanDorkList](https://github.com/b4dboy17/ShodanDorkList) | 4       | 0       | useful shodan dorks for Bug Bounty Hunter & Penetr... | 2023-01-27   |
+| [bbsearch](https://github.com/xeroceph/bbsearch) | 4       | 0       | Quick domain scanner for security.txt bug bounty f... | 2023-02-20   |
 | [URL-Responder](https://github.com/codie-shiv/URL-Responder) | 4       | 3       | A handy tool for bug bounty hunters/pentesters to ... | 2022-11-14   |
 | [check-list](https://github.com/khanjanny/check-list) | 4       | 4       | This checklist may help you to have a good methodo... | 2023-12-18   |
 | [awesome-hacker-search-engines](https://github.com/drakyanerlanggarizkiwardhana/awesome-hacker-search-engines) | 4       | 2       | A curated list of awesome search engines useful du... | 2024-12-28   |
@@ -1969,8 +1968,8 @@
 | [argo-bounty-issue](https://github.com/spheronFdn/argo-bounty-issue) | 2       | 0       | 🐞ArGo Bug Bounty Program     | 2021-11-26   |
 | [Chaos-Mobile-BugBounty](https://github.com/rezadtech/Chaos-Mobile-BugBounty) | 2       | 2       | All tips for mobile securty are gathering in this ... | 2023-01-31   |
 | [HackingTips-BugBounty](https://github.com/Marcio861/HackingTips-BugBounty) | 2       | 0       | No description                  | 2022-09-29   |
-| [BugRamp](https://github.com/AnuraTheAmphibian/BugRamp) | 2       | 0       | An Open Source Bug Bounty Framework | 2024-08-19   |
 | [BugBountyCheckList](https://github.com/saansaan/BugBountyCheckList) | 2       | 1       | This is a bug bounty checklist for various approac... | 2023-08-22   |
+| [BugRamp](https://github.com/AnuraTheAmphibian/BugRamp) | 2       | 0       | An Open Source Bug Bounty Framework | 2024-08-19   |
 | [BugBountyRoadMap](https://github.com/Symbolexe/BugBountyRoadMap) | 2       | 0       | Bug Bounty RoadMap for You ;)   | 2024-07-01   |
 | [bugbountydomainlist](https://github.com/subhash0x/bugbountydomainlist) | 2       | 0       | bug bounty site list            | 2023-01-14   |
 | [bug-bounty](https://github.com/galoget/bug-bounty) | 2       | 1       | Useful stuff for Bug Bounty Hunters | 2022-11-22   |
