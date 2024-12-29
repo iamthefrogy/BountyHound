@@ -56,13 +56,12 @@ rm -f README.md
 cat <<EOF > README.md
 # **BountyHound**
 
-**BountyHound** is your daily tracker for top GitHub repositories related to **bug bounty**. By monitoring and curating trending repositories, BountyHound ensures you stay up-to-date with the latest tools, frameworks, and research in the bug bounty domain.
+**BountyHound** is your **FULLY AUTOMATED WEEKLY (THURSDAY) tracker for top GitHub repositories related to **bug bounty**. By monitoring and curating trending repositories, BountyHound ensures you stay up-to-date with the latest tools, frameworks, and research in the bug bounty domain.
 
 ---
 
 ## **How It Works**
 
-- **Multiple Queries**: Searching separately for "bugbounty", "bug-bounty", and "bug bounty".
 - **Automated Updates**: GitHub Actions automatically fetches and updates this list.
 - **Key Metrics**: Repositories with their stars, forks, descriptions, and last updated date.
 
