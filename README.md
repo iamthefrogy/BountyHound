@@ -1,6 +1,6 @@
 # **BountyHound**
 
-**BountyHound** is your **FULLY AUTOMATED WEEKLY (THURSDAY) tracker for top GitHub repositories related to **bug bounty**. By monitoring and curating trending repositories, BountyHound ensures you stay up-to-date with the latest tools, frameworks, and research in the bug bounty domain.
+**BountyHound** is your **FULLY AUTOMATED WEEKLY (MONDAY) tracker for top GitHub repositories related to **bug bounty**. By monitoring and curating trending repositories, BountyHound ensures you stay up-to-date with the latest tools, frameworks, and research in the bug bounty domain.
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Metric                     | Value                   |
 |----------------------------|-------------------------|
-| Execution Date             | 2024-12-29 21:22:54 |
+| Execution Date             | 2024-12-29 21:28:11 |
 | Repositories Analyzed      | 1976       |
 | Pages Processed            | 40      |
 
@@ -229,8 +229,8 @@
 | [ppmap](https://github.com/kleiton0x00/ppmap) | 500     | 75      | A scanner/exploitation tool written in GO, which l... | 2024-12-24   |
 | [awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) | 496     | 41      | Practical resources for offensive CI/CD security r... | 2024-12-20   |
 | [OneDorkForAll](https://github.com/HackShiv/OneDorkForAll) | 489     | 116     | An insane list of all dorks taken from everywhere ... | 2024-12-27   |
+| [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 484     | 69      | A heavily armed customizable phishing tool for edu... | 2024-12-29   |
 | [chiasmodon](https://github.com/chiasmod0n/chiasmodon) | 483     | 40      | Chiasmodon is an OSINT  tool designed to assist in... | 2024-12-29   |
-| [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 483     | 68      | A heavily armed customizable phishing tool for edu... | 2024-12-26   |
 | [Logsensor](https://github.com/Mr-Robert0/Logsensor) | 475     | 85      | A Powerful Sensor Tool to discover login panels, a... | 2024-12-28   |
 | [Subdominator](https://github.com/RevoltSecurities/Subdominator) | 474     | 91      | SubDominator helps you discover subdomains associa... | 2024-12-29   |
 | [Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) | 473     | 135     | This Repository is a collection of different ethic... | 2024-12-29   |
