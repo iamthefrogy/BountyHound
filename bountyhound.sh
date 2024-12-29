@@ -28,58 +28,36 @@ if [[ "$remaining" -eq 0 ]]; then
     exit 1
 fi
 
-# ------------------------------------------------------------------
-#        COOL REPO NAME: BountyHound
-# ------------------------------------------------------------------
+# Array of separate queries
+queries=( "bugbounty" "bug-bounty" "bug bounty" )
 
-# Hardcoded “topic” or rather our search query
-# We encode it manually: stars%3A%3E50+%28bugbounty+OR+bug-bounty+OR+%22bug+bounty%22%29+sort%3Astars
-encoded_query="stars%3A%3E50+%28bugbounty+OR+bug-bounty+OR+%22bug+bounty%22%29+sort%3Astars"
-
-# We'll fetch 5 results to get total_count, then we fetch 100 per page
-echo -e "${YELLOW}Fetching repository information for: ${GREEN}bugbounty, bug-bounty, bug bounty${NC}"
-response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-    "https://api.github.com/search/repositories?q=$encoded_query&per_page=5")
-
-# Validate the API response
-if ! echo "$response" | jq -e . > /dev/null 2>&1; then
-    echo -e "${RED}Error: Failed to fetch data from GitHub API. Please check your internet connection or GitHub token.${NC}"
-    exit 1
-fi
-
-# Extract total count and validate
-tpc=$(echo "$response" | jq -r '.total_count // 0')
-if [[ "$tpc" -eq 0 ]]; then
-    echo -e "${RED}No repositories found for bug bounty keywords.${NC}"
-    exit 1
-fi
-
-# Calculate pages needed (100 items per page)
-pg=$(( (tpc + 99) / 100 ))
-
-# Initialize counters
+# Counters
 repos_analyzed=0
 repos_retrieved=0
 pages_processed=0
-empty_pages=0
+
+# We'll track consecutive empty pages *per query.*
+# If a query hits 3 in a row, we skip the rest of its pages.
+# Then move on to the next query in the array.
+consecutive_empty_for_query=0
 
 # Remove any old README
 rm -f README.md
 
-# Write out the initial portion of README
+# Write out initial portion of README
 cat <<EOF > README.md
 # **BountyHound**
 
-**BountyHound** is your daily tracker for the top GitHub repositories related to **bug bounty**. By monitoring and curating trending repositories, BountyHound ensures you stay up-to-date with the latest tools, frameworks, and research in the bug bounty domain.
+**BountyHound** is your daily tracker for top GitHub repositories related to **bug bounty**. By monitoring and curating trending repositories, BountyHound ensures you stay up-to-date with the latest tools, frameworks, and research in the bug bounty domain.
 
 ---
 
 ## **How It Works**
 
-- **Automated Updates**: BountyHound leverages GitHub Actions to automatically fetch and update the list of top bug bounty repositories daily.
-- **Key Metrics Tracked**: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance.
-- **Focus on Bug Bounty**: Only repositories tagged or associated with bug bounty topics are included, ensuring highly focused and useful results.
-- **Rich Metadata**: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance.
+- **Multiple Queries**: We search separately for "bugbounty", "bug-bounty", and "bug bounty."
+- **Automated Updates**: Leveraging GitHub Actions to automatically fetch and update this list.
+- **Key Metrics**: Repositories with their stars, forks, descriptions, and last updated date.
+- **Duplicates**: If a repo appears in multiple queries, it will be listed multiple times.
 
 ---
 
@@ -91,7 +69,7 @@ cat <<EOF > README.md
 | Repositories Analyzed     | <REPOS_ANALYZED>       |
 | Repositories Retrieved    | <REPOS_RETRIEVED>      |
 | Pages Processed           | <PAGES_PROCESSED>      |
-| Consecutive Empty Pages   | <EMPTY_PAGES>          |
+| Duplicate Repos?         | Yes                     |
 
 ---
 
@@ -101,78 +79,129 @@ cat <<EOF > README.md
 |-------------------|---------|---------|---------------------------------|--------------|
 EOF
 
-# Iterate through each page
-for i in $(seq 1 "$pg"); do
-    pages_processed=$((pages_processed + 1))
+# Function to fetch & append results for a single query
+fetch_and_append() {
+    local query="$1"
 
-    page_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-        "https://api.github.com/search/repositories?q=$encoded_query&per_page=100&page=$i")
+    echo -e "${YELLOW}Fetching repository information for: ${GREEN}${query}${NC}"
+    
+    # 1) First fetch just 1 page (up to 5 items) to get total_count
+    local initial_response
+    initial_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+        "https://api.github.com/search/repositories?q=$(echo "$query" | sed 's/ /+/g')&sort=stars&order=desc&per_page=5")
 
-    # Check if the page has items
-    item_count=$(echo "$page_response" | jq '.items | length')
-    if [[ "$item_count" -eq 0 || "$item_count" == "null" ]]; then
-        empty_pages=$((empty_pages + 1))
-        # Stop if we see 3 consecutive empty pages
-        if [[ $empty_pages -ge 3 ]]; then
-            break
-        fi
-        continue
-    else
-        empty_pages=0
+    # Check validity
+    if ! echo "$initial_response" | jq -e . > /dev/null 2>&1; then
+        echo -e "${RED}Error: Failed to fetch data from GitHub API for '$query'.${NC}"
+        return
     fi
 
-    # Read items in the current shell so our counters update
-    while read -r line; do
-        repos_analyzed=$((repos_analyzed + 1))
+    local total_count
+    total_count=$(echo "$initial_response" | jq -r '.total_count // 0')
+    if [[ "$total_count" -eq 0 ]]; then
+        echo -e "${RED}No repositories found for '$query'.${NC}"
+        return
+    fi
 
-        name=$(echo "$line" | jq -r '.name // "Unknown"')
-        owner=$(echo "$line" | jq -r '.owner.login // "Unknown"')
-        stars=$(echo "$line" | jq -r '.stargazers_count // 0')
-        forks=$(echo "$line" | jq -r '.forks_count // 0')
-        desc=$(echo "$line" | jq -r '.description // "No description"')
-        updated=$(echo "$line" | jq -r '.updated_at // "1970-01-01T00:00:00Z"')
-        url=$(echo "$line" | jq -r '.html_url // "#"')
+    # Calculate pages needed
+    local pages
+    pages=$(( (total_count + 99) / 100 ))
 
-        repos_retrieved=$((repos_retrieved + 1))
+    # Reset consecutive empty pages *for this query*
+    consecutive_empty_for_query=0
 
-        short_desc=$(echo "$desc" | cut -c 1-50)
-        if [ ${#desc} -gt 50 ]; then
-          short_desc="$short_desc..."
-        fi
+    # 2) Loop over pages
+    for (( page=1; page<=pages; page++ )); do
+        pages_processed=$((pages_processed + 1))
 
-        # Convert updated date to YYYY-MM-DD (UTC)
-        if [[ "$OSTYPE" == "darwin"* ]]; then
-            updated_date=$(echo "$updated" | \
-                           awk '{print $1}' | \
-                           xargs -I {} date -u -jf "%Y-%m-%dT%H:%M:%SZ" {} "+%Y-%m-%d")
+        local response
+        response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/repositories?q=$(echo "$query" | sed 's/ /+/g')&sort=stars&order=desc&per_page=100&page=$page")
+
+        # Check if response is valid
+        local item_count
+        item_count=$(echo "$response" | jq '.items | length')
+        if [[ "$item_count" -eq 0 || "$item_count" == "null" ]]; then
+            consecutive_empty_for_query=$((consecutive_empty_for_query + 1))
+            if [[ $consecutive_empty_for_query -ge 3 ]]; then
+                # skip remaining pages for this query
+                echo -e "${YELLOW}Hit 3 consecutive empty pages for '$query'. Skipping further pages...${NC}"
+                break
+            fi
+            continue
         else
-            updated_date=$(date -d "$updated" "+%Y-%m-%d")
+            consecutive_empty_for_query=0
         fi
 
-        printf "| [%s](%s) | %-7s | %-7s | %-31s | %-12s |\n" \
-               "$name" "$url" "$stars" "$forks" "$short_desc" "$updated_date" \
-               >> README.md
+        # Append items to README
+        while read -r line; do
+            repos_analyzed=$((repos_analyzed + 1))
 
-    done < <(echo "$page_response" | jq -c '.items[]')
+            local name
+            local owner
+            local stars
+            local forks
+            local desc
+            local updated
+            local url
+
+            name=$(echo "$line" | jq -r '.name // "Unknown"')
+            owner=$(echo "$line" | jq -r '.owner.login // "Unknown"')
+            stars=$(echo "$line" | jq -r '.stargazers_count // 0')
+            forks=$(echo "$line" | jq -r '.forks_count // 0')
+            desc=$(echo "$line" | jq -r '.description // "No description"')
+            updated=$(echo "$line" | jq -r '.updated_at // "1970-01-01T00:00:00Z"')
+            url=$(echo "$line" | jq -r '.html_url // "#"')
+
+            repos_retrieved=$((repos_retrieved + 1))
+
+            local short_desc
+            short_desc=$(echo "$desc" | cut -c 1-50)
+            if [ ${#desc} -gt 50 ]; then
+                short_desc="$short_desc..."
+            fi
+
+            # Convert updated date to YYYY-MM-DD
+            if [[ "$OSTYPE" == "darwin"* ]]; then
+                updated_date=$(echo "$updated" | \
+                    awk '{print $1}' | \
+                    xargs -I {} date -u -jf "%Y-%m-%dT%H:%M:%SZ" {} "+%Y-%m-%d")
+            else
+                updated_date=$(date -d "$updated" "+%Y-%m-%d")
+            fi
+
+            printf "| [%s](%s) | %-7s | %-7s | %-31s | %-12s |\n" \
+                "$name" "$url" "$stars" "$forks" "$short_desc" "$updated_date" \
+                >> README.md
+
+        done < <(echo "$response" | jq -c '.items[]')
+    done
+}
+
+#
+# MAIN: Run the 3 queries, appending results
+#
+for kw in "${queries[@]}"; do
+    fetch_and_append "$kw"
 done
 
+#
 # Replace placeholders
+#
 sed -i "s/<REPOS_ANALYZED>/$repos_analyzed/" README.md
 sed -i "s/<REPOS_RETRIEVED>/$repos_retrieved/" README.md
 sed -i "s/<PAGES_PROCESSED>/$pages_processed/" README.md
-sed -i "s/<EMPTY_PAGES>/$empty_pages/" README.md
 
 # Debug prints (optional)
 echo "DEBUG: Repositories Analyzed  : $repos_analyzed"
 echo "DEBUG: Repositories Retrieved : $repos_retrieved"
 echo "DEBUG: Pages Processed        : $pages_processed"
-echo "DEBUG: Consecutive Empty Pages: $empty_pages"
 
 # Commit and push if README changed
 if [ -s README.md ]; then
     git config --global user.email "github-actions@github.com"
     git config --global user.name "GitHub Actions Bot"
     git add README.md
-    git commit -m "Update README with bug bounty repositories"
+    git commit -m "Update README with bug bounty repositories for 3 separate queries"
     git push origin main
 fi
