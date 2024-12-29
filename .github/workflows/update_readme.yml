@@ -1,0 +1,30 @@
+name: BountyHound Automation
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Runs every Monday at midnight UTC
+  workflow_dispatch:      # Allows manual triggering of the workflow
+
+jobs:
+  update-repositories:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Run BountyHound Script
+        env:
+          LC_ALL: C.UTF-8
+          LANG: C.UTF-8
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          chmod +x ./bountyhound.sh
+          ./bountyhound.sh
