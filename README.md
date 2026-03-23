@@ -15,281 +15,281 @@
 
 | Metric                     | Value                   |
 |----------------------------|-------------------------|
-| Execution Date             | 2026-03-16 00:36:00 |
-| Repositories Analyzed      | 2007       |
-| Pages Processed            | 77      |
+| Execution Date             | 2026-03-23 00:35:33 |
+| Repositories Analyzed      | 2008       |
+| Pages Processed            | 79      |
 
 ---
 
-## **Top Bug Bounty Repositories (Updated: 2026-03-16)**
+## **Top Bug Bounty Repositories (Updated: 2026-03-23)**
 
 | Repository (Link) | Stars   | Forks   | Description                     | Last Updated |
 |-------------------|---------|---------|---------------------------------|--------------|
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 76067   | 16754   | A list of useful payloads and bypass for Web Appli... | 2026-03-15   |
-| [dirsearch](https://github.com/maurosoria/dirsearch) | 14079   | 2427    | Web path scanner                | 2026-03-16   |
-| [subfinder](https://github.com/projectdiscovery/subfinder) | 13238   | 1516    | Fast passive subdomain enumeration tool. | 2026-03-16   |
-| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | 12048   | 3391    | Community curated list of templates for the nuclei... | 2026-03-15   |
-| [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) | 11903   | 2039    | A list of resources for those interested in gettin... | 2026-03-15   |
-| [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) | 10322   | 983     | A curated list of awesome search engines useful du... | 2026-03-15   |
-| [httpx](https://github.com/projectdiscovery/httpx) | 9687    | 1047    | httpx is a fast and multi-purpose HTTP toolkit tha... | 2026-03-16   |
-| [OneForAll](https://github.com/shmilylty/OneForAll) | 9671    | 1424    | OneForAll是一款功能强大的子域收集工� | 2026-03-15   |
-| [bbot](https://github.com/blacklanternsecurity/bbot) | 9500    | 780     | The recursive internet scanner for hackers. 🧡 | 2026-03-15   |
-| [hetty](https://github.com/dstotijn/hetty) | 9347    | 519     | An HTTP toolkit for security research. | 2026-03-15   |
-| [wstg](https://github.com/OWASP/wstg) | 8947    | 1568    | The Web Security Testing Guide is a comprehensive ... | 2026-03-15   |
-| [rengine](https://github.com/yogeshojha/rengine) | 8509    | 1306    | reNgine is an automated reconnaissance framework f... | 2026-03-13   |
-| [reconftw](https://github.com/six2dez/reconftw) | 7340    | 1140    | reconFTW is a tool designed to perform automated r... | 2026-03-15   |
-| [HowToHunt](https://github.com/KathanP19/HowToHunt) | 7049    | 1924    | Collection of methodology and test case for variou... | 2026-03-15   |
-| [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) | 6665    | 1245    | All about bug bounty (bypasses, payloads, and etc) | 2026-03-15   |
-| [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) | 6432    | 756     | One place for all the default credentials to assis... | 2026-03-15   |
-| [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) | 6397    | 1613    | A list of interesting payloads, tips and tricks fo... | 2026-03-15   |
-| [osmedeus](https://github.com/j3ssie/osmedeus) | 6143    | 967     | A Modern Orchestration Engine for Security | 2026-03-15   |
-| [apkleaks](https://github.com/dwisiswant0/apkleaks) | 5995    | 568     | Scanning APK file for URIs, endpoints & secrets. | 2026-03-15   |
-| [scan4all](https://github.com/GhostTroops/scan4all) | 5962    | 712     | Official repository  vuls Scan: 15000+PoCs; 23 kin... | 2026-03-15   |
-| [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) | 5841    | 921     | A curated list of various bug bounty tools | 2026-03-16   |
-| [commix](https://github.com/commixproject/commix) | 5665    | 926     | Automated All-in-One OS Command Injection Exploita... | 2026-03-15   |
-| [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) | 5591    | 797     | "Can I take over XYZ?" — a list of services and ... | 2026-03-15   |
-| [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) | 5571    | 1130    | A curated list of bugbounty writeups (Bug type wis... | 2026-03-15   |
-| [hackerone-reports](https://github.com/reddelexc/hackerone-reports) | 5403    | 969     | Top disclosed reports from HackerOne | 2026-03-16   |
-| [hakrawler](https://github.com/hakluke/hakrawler) | 5006    | 537     | Simple, fast web crawler designed for easy, quick ... | 2026-03-15   |
-| [dalfox](https://github.com/hahwul/dalfox) | 4871    | 516     | 🌙🦊 Dalfox is a powerful open-source XSS scan... | 2026-03-15   |
-| [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) | 4542    | 756     | ⚔️ Web Hacker's Weapons / A collection of cool... | 2026-03-16   |
-| [interactsh](https://github.com/projectdiscovery/interactsh) | 4231    | 448     | An OOB interaction gathering server and client lib... | 2026-03-15   |
-| [knockpy](https://github.com/guelfoweb/knockpy) | 4144    | 880     | Knock Subdomain Scan            | 2026-03-15   |
-| [IntruderPayloads](https://github.com/1N3/IntruderPayloads) | 3904    | 1191    | A collection of Burpsuite Intruder payloads, BurpB... | 2026-03-09   |
-| [Fuzzing101](https://github.com/antonio-morales/Fuzzing101) | 3736    | 408     | An step by step fuzzing tutorial. A GitHub Securit... | 2026-03-15   |
-| [Findomain](https://github.com/Findomain/Findomain) | 3701    | 394     | The fastest and complete solution for domain recog... | 2026-03-15   |
-| [malicious-pdf](https://github.com/jonaslejon/malicious-pdf) | 3631    | 462     | 💀 Generate a bunch of malicious pdf files with ... | 2026-03-15   |
-| [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) | 3433    | 367     | An effort to build a single place for all useful a... | 2026-03-15   |
-| [cariddi](https://github.com/edoardottt/cariddi) | 3311    | 294     | Take a list of domains, crawl urls and scan for en... | 2026-03-11   |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 76278   | 16778   | A list of useful payloads and bypass for Web Appli... | 2026-03-22   |
+| [dirsearch](https://github.com/maurosoria/dirsearch) | 14110   | 2429    | Web path scanner                | 2026-03-22   |
+| [subfinder](https://github.com/projectdiscovery/subfinder) | 13286   | 1521    | Fast passive subdomain enumeration tool. | 2026-03-22   |
+| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | 12086   | 3402    | Community curated list of templates for the nuclei... | 2026-03-22   |
+| [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) | 11910   | 2039    | A list of resources for those interested in gettin... | 2026-03-22   |
+| [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) | 10348   | 986     | A curated list of awesome search engines useful du... | 2026-03-22   |
+| [httpx](https://github.com/projectdiscovery/httpx) | 9722    | 1050    | httpx is a fast and multi-purpose HTTP toolkit tha... | 2026-03-22   |
+| [OneForAll](https://github.com/shmilylty/OneForAll) | 9682    | 1425    | OneForAll是一款功能强大的子域收集工� | 2026-03-22   |
+| [bbot](https://github.com/blacklanternsecurity/bbot) | 9527    | 782     | The recursive internet scanner for hackers. 🧡 | 2026-03-22   |
+| [hetty](https://github.com/dstotijn/hetty) | 9357    | 520     | An HTTP toolkit for security research. | 2026-03-22   |
+| [wstg](https://github.com/OWASP/wstg) | 8970    | 1573    | The Web Security Testing Guide is a comprehensive ... | 2026-03-22   |
+| [rengine](https://github.com/yogeshojha/rengine) | 8522    | 1309    | reNgine is an automated reconnaissance framework f... | 2026-03-22   |
+| [reconftw](https://github.com/six2dez/reconftw) | 7363    | 1144    | reconFTW is a tool designed to perform automated r... | 2026-03-22   |
+| [HowToHunt](https://github.com/KathanP19/HowToHunt) | 7057    | 1924    | Collection of methodology and test case for variou... | 2026-03-22   |
+| [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) | 6673    | 1250    | All about bug bounty (bypasses, payloads, and etc) | 2026-03-22   |
+| [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) | 6438    | 759     | One place for all the default credentials to assis... | 2026-03-22   |
+| [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) | 6405    | 1612    | A list of interesting payloads, tips and tricks fo... | 2026-03-22   |
+| [osmedeus](https://github.com/j3ssie/osmedeus) | 6155    | 975     | A Modern Orchestration Engine for Security | 2026-03-22   |
+| [apkleaks](https://github.com/dwisiswant0/apkleaks) | 6008    | 568     | Scanning APK file for URIs, endpoints & secrets. | 2026-03-22   |
+| [scan4all](https://github.com/GhostTroops/scan4all) | 5974    | 714     | Official repository  vuls Scan: 15000+PoCs; 23 kin... | 2026-03-22   |
+| [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) | 5853    | 926     | A curated list of various bug bounty tools | 2026-03-22   |
+| [commix](https://github.com/commixproject/commix) | 5685    | 930     | Automated All-in-One OS Command Injection Exploita... | 2026-03-22   |
+| [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) | 5604    | 796     | "Can I take over XYZ?" — a list of services and ... | 2026-03-22   |
+| [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) | 5582    | 1131    | A curated list of bugbounty writeups (Bug type wis... | 2026-03-22   |
+| [hackerone-reports](https://github.com/reddelexc/hackerone-reports) | 5425    | 970     | Top disclosed reports from HackerOne | 2026-03-22   |
+| [hakrawler](https://github.com/hakluke/hakrawler) | 5007    | 537     | Simple, fast web crawler designed for easy, quick ... | 2026-03-17   |
+| [dalfox](https://github.com/hahwul/dalfox) | 4884    | 516     | 🌙🦊 Dalfox is a powerful open-source XSS scan... | 2026-03-22   |
+| [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) | 4549    | 759     | ⚔️ Web Hacker's Weapons / A collection of cool... | 2026-03-22   |
+| [interactsh](https://github.com/projectdiscovery/interactsh) | 4238    | 447     | An OOB interaction gathering server and client lib... | 2026-03-22   |
+| [knockpy](https://github.com/guelfoweb/knockpy) | 4148    | 881     | Knock Subdomain Scan            | 2026-03-22   |
+| [IntruderPayloads](https://github.com/1N3/IntruderPayloads) | 3908    | 1191    | A collection of Burpsuite Intruder payloads, BurpB... | 2026-03-22   |
+| [Fuzzing101](https://github.com/antonio-morales/Fuzzing101) | 3735    | 409     | An step by step fuzzing tutorial. A GitHub Securit... | 2026-03-22   |
+| [Findomain](https://github.com/Findomain/Findomain) | 3704    | 394     | The fastest and complete solution for domain recog... | 2026-03-20   |
+| [malicious-pdf](https://github.com/jonaslejon/malicious-pdf) | 3634    | 462     | 💀 Generate a bunch of malicious pdf files with ... | 2026-03-22   |
+| [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) | 3448    | 368     | An effort to build a single place for all useful a... | 2026-03-22   |
+| [cariddi](https://github.com/edoardottt/cariddi) | 3320    | 294     | Take a list of domains, crawl urls and scan for en... | 2026-03-22   |
 | [pentest-tools](https://github.com/gwen001/pentest-tools) | 3286    | 798     | A collection of custom security tools for quick ne... | 2026-03-12   |
-| [vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) | 3274    | 757     | This repository contain a lot of web and api vulne... | 2026-03-15   |
-| [pagodo](https://github.com/opsdisk/pagodo) | 3266    | 542     | pagodo (Passive Google Dork) - Automate Google Hac... | 2026-03-13   |
-| [NoSQLMap](https://github.com/codingo/NoSQLMap) | 3245    | 625     | Automated NoSQL database enumeration and web appli... | 2026-03-13   |
-| [OneListForAll](https://github.com/six2dez/OneListForAll) | 3088    | 534     | Rockyou for web fuzzing         | 2026-03-15   |
-| [awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) | 3082    | 624     | A collection of awesome one-liner scripts especial... | 2026-03-14   |
-| [S3Scanner](https://github.com/sa7mon/S3Scanner) | 3021    | 401     | Scan for misconfigured S3 buckets across S3-compat... | 2026-03-15   |
-| [ParamSpider](https://github.com/devanshbatham/ParamSpider) | 3019    | 471     |  Mining URLs from dark corners of Web Archives for... | 2026-03-15   |
-| [gospider](https://github.com/jaeles-project/gospider) | 2889    | 332     | Gospider - Fast web spider written in Go | 2026-03-15   |
-| [uncover](https://github.com/projectdiscovery/uncover) | 2836    | 257     | Quickly discover exposed hosts on the internet usi... | 2026-03-15   |
-| [pentest-guide](https://github.com/Voorivex/pentest-guide) | 2771    | 570     | Penetration tests guide based on OWASP including t... | 2026-03-14   |
-| [reFlutter](https://github.com/Impact-I/reFlutter) | 2514    | 275     | Flutter Reverse Engineering Framework | 2026-03-15   |
-| [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) | 2450    | 403     | Web Fuzzing Box - Web 模糊测试字典与一些P | 2026-03-07   |
-| [Sudomy](https://github.com/screetsec/Sudomy) | 2347    | 407     | Sudomy is a subdomain enumeration tool to collect ... | 2026-03-14   |
-| [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) | 2327    | 217     | A collection of tiny XSS Payloads that can be used... | 2026-03-15   |
-| [jaeles](https://github.com/jaeles-project/jaeles) | 2324    | 330     | The Swiss Army knife for automated Web Application... | 2026-03-04   |
-| [gitGraber](https://github.com/hisxo/gitGraber) | 2252    | 354     | gitGraber: monitor GitHub to search and find sensi... | 2026-03-13   |
-| [ezXSS](https://github.com/ssl/ezXSS) | 2249    | 378     | ezXSS is an easy way for penetration testers and b... | 2026-03-15   |
-| [Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) | 2244    | 258     | OSINT tools for Information gathering, Cybersecuri... | 2026-03-14   |
-| [31-days-of-API-Security-Tips](https://github.com/inonshk/31-days-of-API-Security-Tips) | 2231    | 348     | This challenge is Inon Shkedy's 31 days API Securi... | 2026-03-04   |
-| [BruteX](https://github.com/1N3/BruteX) | 2228    | 632     | Automatically brute force all services running on ... | 2026-03-14   |
-| [caido](https://github.com/caido/caido) | 2204    | 115     | 🚀 Caido releases, wiki and roadmap | 2026-03-15   |
-| [puredns](https://github.com/d3mondev/puredns) | 2135    | 186     | Puredns is a fast domain resolver and subdomain br... | 2026-03-15   |
-| [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) | 2104    | 407     | OWASP Web Application Security Testing Checklist | 2026-03-14   |
-| [subjack](https://github.com/haccer/subjack) | 2035    | 352     | Subdomain Takeover tool written in Go | 2026-03-15   |
-| [Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) | 2034    | 372     | Dictionary collection project such as Pentesing, F... | 2026-03-11   |
-| [x8](https://github.com/Sh1Yo/x8) | 2032    | 189     | Hidden parameters discovery suite | 2026-03-15   |
+| [vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) | 3276    | 758     | This repository contain a lot of web and api vulne... | 2026-03-22   |
+| [pagodo](https://github.com/opsdisk/pagodo) | 3273    | 543     | pagodo (Passive Google Dork) - Automate Google Hac... | 2026-03-22   |
+| [NoSQLMap](https://github.com/codingo/NoSQLMap) | 3249    | 625     | Automated NoSQL database enumeration and web appli... | 2026-03-22   |
+| [OneListForAll](https://github.com/six2dez/OneListForAll) | 3094    | 534     | Rockyou for web fuzzing         | 2026-03-22   |
+| [awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) | 3087    | 624     | A collection of awesome one-liner scripts especial... | 2026-03-19   |
+| [S3Scanner](https://github.com/sa7mon/S3Scanner) | 3028    | 402     | Scan for misconfigured S3 buckets across S3-compat... | 2026-03-22   |
+| [ParamSpider](https://github.com/devanshbatham/ParamSpider) | 3025    | 472     |  Mining URLs from dark corners of Web Archives for... | 2026-03-23   |
+| [gospider](https://github.com/jaeles-project/gospider) | 2892    | 333     | Gospider - Fast web spider written in Go | 2026-03-22   |
+| [uncover](https://github.com/projectdiscovery/uncover) | 2841    | 259     | Quickly discover exposed hosts on the internet usi... | 2026-03-20   |
+| [pentest-guide](https://github.com/Voorivex/pentest-guide) | 2776    | 570     | Penetration tests guide based on OWASP including t... | 2026-03-22   |
+| [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) | 2605    | 427     | Web Fuzzing Box - Web 模糊测试字典与一些P | 2026-03-23   |
+| [reFlutter](https://github.com/Impact-I/reFlutter) | 2528    | 276     | Flutter Reverse Engineering Framework | 2026-03-21   |
+| [Sudomy](https://github.com/screetsec/Sudomy) | 2350    | 407     | Sudomy is a subdomain enumeration tool to collect ... | 2026-03-22   |
+| [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) | 2328    | 217     | A collection of tiny XSS Payloads that can be used... | 2026-03-16   |
+| [jaeles](https://github.com/jaeles-project/jaeles) | 2321    | 330     | The Swiss Army knife for automated Web Application... | 2026-03-20   |
+| [Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) | 2272    | 261     | OSINT tools for Information gathering, Cybersecuri... | 2026-03-22   |
+| [gitGraber](https://github.com/hisxo/gitGraber) | 2252    | 353     | gitGraber: monitor GitHub to search and find sensi... | 2026-03-19   |
+| [ezXSS](https://github.com/ssl/ezXSS) | 2251    | 379     | ezXSS is an easy way for penetration testers and b... | 2026-03-22   |
+| [BruteX](https://github.com/1N3/BruteX) | 2233    | 633     | Automatically brute force all services running on ... | 2026-03-21   |
+| [31-days-of-API-Security-Tips](https://github.com/inonshk/31-days-of-API-Security-Tips) | 2232    | 348     | This challenge is Inon Shkedy's 31 days API Securi... | 2026-03-22   |
+| [caido](https://github.com/caido/caido) | 2217    | 115     | 🚀 Caido releases, wiki and roadmap | 2026-03-22   |
+| [puredns](https://github.com/d3mondev/puredns) | 2141    | 188     | Puredns is a fast domain resolver and subdomain br... | 2026-03-21   |
+| [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) | 2106    | 406     | OWASP Web Application Security Testing Checklist | 2026-03-22   |
+| [Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) | 2037    | 372     | Dictionary collection project such as Pentesing, F... | 2026-03-19   |
+| [x8](https://github.com/Sh1Yo/x8) | 2034    | 190     | Hidden parameters discovery suite | 2026-03-20   |
+| [subjack](https://github.com/haccer/subjack) | 2034    | 351     | DNS Takeover tool written in Go | 2026-03-17   |
 | [HolyTips](https://github.com/HolyBugx/HolyTips) | 1985    | 331     | A Collection of Notes, Checklists, Writeups on Bug... | 2026-03-10   |
-| [Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) | 1942    | 224     | Awesome list of step by step techniques  to achiev... | 2026-03-13   |
-| [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) | 1851    | 236     | A tool to find subdomains and interesting things h... | 2026-03-13   |
-| [top25-parameter](https://github.com/lutfumertceylan/top25-parameter) | 1820    | 282     | For basic researches, top 25 vulnerability paramet... | 2026-03-11   |
-| [Findsploit](https://github.com/1N3/Findsploit) | 1811    | 335     | Find exploits in local and online databases instan... | 2026-03-03   |
-| [BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) | 1793    | 465     | A collection of PDF/books about the modern web app... | 2026-03-14   |
-| [BurpBounty](https://github.com/wagiro/BurpBounty) | 1786    | 343     | Burp Bounty (Scan Check Builder in BApp Store) is ... | 2026-03-14   |
-| [Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes) | 1784    | 293     | A comprehensive guide for web application penetrat... | 2026-03-15   |
-| [BlackWidow](https://github.com/1N3/BlackWidow) | 1781    | 390     | A Python based web application scanner to gather O... | 2026-03-05   |
-| [metlo](https://github.com/metlo-labs/metlo) | 1775    | 104     | Metlo is an open-source API security platform. | 2026-03-14   |
-| [gotestwaf](https://github.com/wallarm/gotestwaf) | 1767    | 254     | An open-source project in Golang to asess differen... | 2026-03-13   |
-| [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) | 1761    | 409     | Tips and Tutorials for Bug Bounty and also Penetra... | 2026-03-15   |
-| [inql](https://github.com/doyensec/inql) | 1744    | 180     | InQL is a robust, open-source Burp Suite extension... | 2026-03-13   |
-| [wordlists](https://github.com/trickest/wordlists) | 1721    | 208     | Real-world infosec wordlists, updated regularly | 2026-03-15   |
+| [Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) | 1941    | 225     | Awesome list of step by step techniques  to achiev... | 2026-03-19   |
+| [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) | 1852    | 237     | A tool to find subdomains and interesting things h... | 2026-03-16   |
+| [top25-parameter](https://github.com/lutfumertceylan/top25-parameter) | 1823    | 282     | For basic researches, top 25 vulnerability paramet... | 2026-03-19   |
+| [Findsploit](https://github.com/1N3/Findsploit) | 1812    | 335     | Find exploits in local and online databases instan... | 2026-03-18   |
+| [BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) | 1796    | 465     | A collection of PDF/books about the modern web app... | 2026-03-22   |
+| [BurpBounty](https://github.com/wagiro/BurpBounty) | 1790    | 342     | Burp Bounty (Scan Check Builder in BApp Store) is ... | 2026-03-22   |
+| [Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes) | 1788    | 294     | A comprehensive guide for web application penetrat... | 2026-03-19   |
+| [BlackWidow](https://github.com/1N3/BlackWidow) | 1783    | 390     | A Python based web application scanner to gather O... | 2026-03-22   |
+| [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) | 1775    | 409     | Tips and Tutorials for Bug Bounty and also Penetra... | 2026-03-22   |
+| [metlo](https://github.com/metlo-labs/metlo) | 1774    | 104     | Metlo is an open-source API security platform. | 2026-03-19   |
+| [gotestwaf](https://github.com/wallarm/gotestwaf) | 1772    | 254     | An open-source project in Golang to asess differen... | 2026-03-21   |
+| [inql](https://github.com/doyensec/inql) | 1745    | 180     | InQL is a robust, open-source Burp Suite extension... | 2026-03-20   |
+| [wordlists](https://github.com/trickest/wordlists) | 1725    | 207     | Real-world infosec wordlists, updated regularly | 2026-03-22   |
 | [learn365](https://github.com/harsh-bothra/learn365) | 1694    | 423     | This repository is about @harshbothra_'s 365 days ... | 2026-03-09   |
-| [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) | 1672    | 327     | A big list of Android Hackerone disclosed reports ... | 2026-03-08   |
-| [urlhunter](https://github.com/utkusen/urlhunter) | 1664    | 117     | a recon tool that allows searching on URLs that ar... | 2026-03-06   |
-| [requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) | 1647    | 175     | A Python library to utilize AWS API Gateway's larg... | 2026-03-11   |
-| [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) | 1558    | 159     | GooFuzz is a tool to perform fuzzing with an OSINT... | 2026-03-11   |
-| [nomore403](https://github.com/devploit/nomore403) | 1551    | 175     | 🚫 Advanced tool for security researchers to byp... | 2026-03-12   |
-| [subzy](https://github.com/PentestPad/subzy) | 1528    | 201     | Subdomain takeover vulnerability checker | 2026-03-15   |
-| [inventory](https://github.com/trickest/inventory) | 1525    | 272     | Asset inventory of over 800 public bug bounty prog... | 2026-03-15   |
-| [BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) | 1502    | 285     | BigBountyRecon tool utilises 58 different techniqu... | 2026-03-14   |
-| [metabigor](https://github.com/j3ssie/metabigor) | 1489    | 179     | OSINT tools and more but without API key | 2026-03-11   |
-| [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | 1471    | 206     | ScopeSentry-Cyberspace mapping, subdomain enumerat... | 2026-03-12   |
-| [github-search](https://github.com/gwen001/github-search) | 1469    | 358     | A collection of tools to perform searches on GitHu... | 2026-03-08   |
+| [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) | 1673    | 327     | A big list of Android Hackerone disclosed reports ... | 2026-03-21   |
+| [urlhunter](https://github.com/utkusen/urlhunter) | 1662    | 117     | a recon tool that allows searching on URLs that ar... | 2026-03-17   |
+| [requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) | 1647    | 175     | A Python library to utilize AWS API Gateway's larg... | 2026-03-19   |
+| [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) | 1556    | 159     | GooFuzz is a tool to perform fuzzing with an OSINT... | 2026-03-19   |
+| [nomore403](https://github.com/devploit/nomore403) | 1555    | 176     | 🚫 Advanced tool for security researchers to byp... | 2026-03-19   |
+| [subzy](https://github.com/PentestPad/subzy) | 1531    | 201     | Subdomain takeover vulnerability checker | 2026-03-22   |
+| [inventory](https://github.com/trickest/inventory) | 1526    | 271     | Asset inventory of over 800 public bug bounty prog... | 2026-03-21   |
+| [BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) | 1506    | 286     | BigBountyRecon tool utilises 58 different techniqu... | 2026-03-22   |
+| [metabigor](https://github.com/j3ssie/metabigor) | 1492    | 180     | OSINT tools and more but without API key | 2026-03-20   |
+| [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | 1472    | 208     | ScopeSentry-Cyberspace mapping, subdomain enumerat... | 2026-03-21   |
+| [github-search](https://github.com/gwen001/github-search) | 1471    | 358     | A collection of tools to perform searches on GitHu... | 2026-03-21   |
 | [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) | 1458    | 245     | Security Tool to Look For Interesting Files in S3 ... | 2026-03-13   |
-| [reFlutter](https://github.com/ptswarm/reFlutter) | 1441    | 188     | Flutter Reverse Engineering Framework | 2026-03-14   |
+| [reFlutter](https://github.com/ptswarm/reFlutter) | 1442    | 188     | Flutter Reverse Engineering Framework | 2026-03-17   |
 | [API-SecurityEmpire](https://github.com/Cyber-Guy1/API-SecurityEmpire) | 1435    | 251     | API Security Project aims to present unique attack... | 2026-03-09   |
-| [One-Liners](https://github.com/0xPugal/One-Liners) | 1428    | 249     | A collection of one-liners for bug bounty hunting. | 2026-03-14   |
-| [git-hound](https://github.com/tillson/git-hound) | 1409    | 204     | Fast GitHub recon tool. Scans for leaked secrets a... | 2026-03-10   |
-| [bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) | 1400    | 405     | Some files for bruteforcing certain things. | 2026-03-12   |
-| [BruteForceAI](https://github.com/MorDavid/BruteForceAI) | 1386    | 263     | Advanced LLM-powered brute-force tool combining AI... | 2026-03-15   |
-| [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) | 1383    | 360     | A repository that includes all the important wordl... | 2026-03-15   |
-| [awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps) | 1374    | 211     | Awesome Vulnerable Applications | 2026-03-15   |
-| [XSpear](https://github.com/hahwul/XSpear) | 1360    | 243     | 🔱 Powerfull XSS Scanning and Parameter analysis... | 2026-03-14   |
-| [vapi](https://github.com/roottusk/vapi) | 1331    | 330     | vAPI is Vulnerable Adversely Programmed Interface ... | 2026-03-14   |
-| [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) | 1299    | 260     | A curated collection of top-tier penetration testi... | 2026-03-15   |
-| [PwnFox](https://github.com/yeswehack/PwnFox) | 1295    | 120     | PwnFox is a Firefox/Burp extension that provide us... | 2026-03-13   |
-| [Hacking-Tools](https://github.com/yogsec/Hacking-Tools) | 1290    | 190     | A curated list of penetration testing and ethical ... | 2026-03-15   |
-| [Interlace](https://github.com/codingo/Interlace) | 1287    | 188     | Easily turn single threaded command line applicati... | 2026-03-15   |
-| [public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) | 1284    | 384     | Community curated list of public bug bounty and re... | 2026-03-16   |
-| [VHostScan](https://github.com/codingo/VHostScan) | 1284    | 239     | A virtual host scanner that performs reverse looku... | 2026-03-04   |
-| [go-dork](https://github.com/dwisiswant0/go-dork) | 1278    | 140     | The fastest dork scanner written in Go. | 2026-03-14   |
-| [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) | 1274    | 260     | Firewall bypass script based on DNS history record... | 2026-03-15   |
-| [FavFreak](https://github.com/devanshbatham/FavFreak) | 1269    | 174     | Making Favicon.ico based Recon Great again !  | 2026-03-15   |
-| [webcopilot](https://github.com/h4r5h1t/webcopilot) | 1266    | 206     | An automation tool that enumerates subdomains then... | 2026-03-10   |
-| [Redcloud](https://github.com/khast3x/Redcloud) | 1261    | 206     | Automated Red Team Infrastructure deployement usin... | 2026-02-20   |
-| [google-dorks](https://github.com/Proviesec/google-dorks) | 1216    | 221     | Useful Google Dorks for WebSecurity and Bug Bounty | 2026-03-15   |
-| [nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) | 1215    | 151     | 30k+ WordPress Nuclei templates, updated daily fro... | 2026-03-15   |
-| [scilla](https://github.com/edoardottt/scilla) | 1201    | 147     | Information Gathering tool - DNS / Subdomains / Po... | 2026-03-14   |
-| [ksubdomain](https://github.com/boy-hack/ksubdomain) | 1181    | 162     | Subdomain enumeration tool, asynchronous dns packe... | 2026-03-15   |
-| [BugBountyToolkit](https://github.com/AlexisAhmed/BugBountyToolkit) | 1179    | 283     | A multi-platform bug bounty toolkit that can be in... | 2026-03-15   |
-| [HostHunter](https://github.com/SpiderLabs/HostHunter) | 1156    | 193     | HostHunter a recon tool for discovering hostnames ... | 2026-02-17   |
-| [Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) | 1154    | 150     | Web Cache Vulnerability Scanner is a Go-based CLI ... | 2026-03-07   |
-| [shortscan](https://github.com/bitquark/shortscan) | 1131    | 115     | An IIS short filename enumeration tool | 2026-03-11   |
-| [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets) | 1121    | 202     | Twitter vulnerable snippets     | 2026-03-15   |
-| [CloudBrute](https://github.com/0xsha/CloudBrute) | 1104    | 157     | Awesome cloud enumerator        | 2026-03-15   |
+| [One-Liners](https://github.com/0xPugal/One-Liners) | 1431    | 251     | A collection of one-liners for bug bounty hunting. | 2026-03-19   |
+| [git-hound](https://github.com/tillson/git-hound) | 1411    | 205     | Fast GitHub recon tool. Scans for leaked secrets a... | 2026-03-21   |
+| [bruteforce-lists](https://github.com/random-robbie/bruteforce-lists) | 1403    | 406     | Some files for bruteforcing certain things. | 2026-03-22   |
+| [BruteForceAI](https://github.com/MorDavid/BruteForceAI) | 1390    | 263     | Advanced LLM-powered brute-force tool combining AI... | 2026-03-21   |
+| [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) | 1386    | 361     | A repository that includes all the important wordl... | 2026-03-19   |
+| [awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps) | 1378    | 211     | Awesome Vulnerable Applications | 2026-03-22   |
+| [XSpear](https://github.com/hahwul/XSpear) | 1360    | 243     | 🔱 Powerfull XSS Scanning and Parameter analysis... | 2026-03-20   |
+| [vapi](https://github.com/roottusk/vapi) | 1332    | 328     | vAPI is Vulnerable Adversely Programmed Interface ... | 2026-03-19   |
+| [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) | 1300    | 260     | A curated collection of top-tier penetration testi... | 2026-03-20   |
+| [Hacking-Tools](https://github.com/yogsec/Hacking-Tools) | 1297    | 190     | A curated list of penetration testing and ethical ... | 2026-03-21   |
+| [PwnFox](https://github.com/yeswehack/PwnFox) | 1294    | 120     | PwnFox is a Firefox/Burp extension that provide us... | 2026-03-21   |
+| [Interlace](https://github.com/codingo/Interlace) | 1286    | 188     | Easily turn single threaded command line applicati... | 2026-03-21   |
+| [VHostScan](https://github.com/codingo/VHostScan) | 1285    | 239     | A virtual host scanner that performs reverse looku... | 2026-03-22   |
+| [public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) | 1283    | 383     | Community curated list of public bug bounty and re... | 2026-03-22   |
+| [go-dork](https://github.com/dwisiswant0/go-dork) | 1277    | 140     | The fastest dork scanner written in Go. | 2026-03-17   |
+| [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) | 1275    | 260     | Firewall bypass script based on DNS history record... | 2026-03-21   |
+| [webcopilot](https://github.com/h4r5h1t/webcopilot) | 1271    | 205     | An automation tool that enumerates subdomains then... | 2026-03-21   |
+| [FavFreak](https://github.com/devanshbatham/FavFreak) | 1269    | 175     | Making Favicon.ico based Recon Great again !  | 2026-03-15   |
+| [Redcloud](https://github.com/khast3x/Redcloud) | 1264    | 206     | Automated Red Team Infrastructure deployement usin... | 2026-03-22   |
+| [scilla](https://github.com/edoardottt/scilla) | 1225    | 148     | Information Gathering tool - DNS / Subdomains / Po... | 2026-03-22   |
+| [google-dorks](https://github.com/Proviesec/google-dorks) | 1219    | 223     | Useful Google Dorks for WebSecurity and Bug Bounty | 2026-03-22   |
+| [nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) | 1218    | 151     | 70k+ WordPress Nuclei templates, updated daily fro... | 2026-03-22   |
+| [ksubdomain](https://github.com/boy-hack/ksubdomain) | 1182    | 162     | Subdomain enumeration tool, asynchronous dns packe... | 2026-03-22   |
+| [BugBountyToolkit](https://github.com/AlexisAhmed/BugBountyToolkit) | 1179    | 283     | A multi-platform bug bounty toolkit that can be in... | 2026-03-18   |
+| [Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) | 1161    | 152     | Web Cache Vulnerability Scanner is a Go-based CLI ... | 2026-03-22   |
+| [HostHunter](https://github.com/SpiderLabs/HostHunter) | 1156    | 193     | HostHunter a recon tool for discovering hostnames ... | 2026-03-20   |
+| [shortscan](https://github.com/bitquark/shortscan) | 1132    | 115     | An IIS short filename enumeration tool | 2026-03-18   |
+| [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets) | 1124    | 203     | Twitter vulnerable snippets     | 2026-03-22   |
+| [CloudBrute](https://github.com/0xsha/CloudBrute) | 1107    | 158     | Awesome cloud enumerator        | 2026-03-17   |
 | [can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) | 1084    | 100     | "Can I take over DNS?" — a list of DNS providers... | 2026-02-23   |
-| [JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) | 1070    | 185     | Automation for javascript recon in bug bounty.  | 2026-03-11   |
-| [MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) | 1040    | 170     | Mobile Hacker's Weapons / A collection of cool too... | 2026-03-12   |
-| [cent](https://github.com/xm1k3/cent) | 1039    | 166     | Community edition nuclei templates, a simple tool ... | 2026-02-21   |
-| [magicRecon](https://github.com/robotshell/magicRecon) | 1035    | 164     | MagicRecon is a powerful shell script to maximize ... | 2026-03-13   |
-| [leaky-paths](https://github.com/ayoubfathi/leaky-paths) | 1028    | 157     | A collection of special paths linked to common sen... | 2026-03-13   |
+| [JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) | 1072    | 185     | Automation for javascript recon in bug bounty.  | 2026-03-22   |
+| [MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) | 1043    | 170     | Mobile Hacker's Weapons / A collection of cool too... | 2026-03-20   |
+| [cent](https://github.com/xm1k3/cent) | 1040    | 167     | Community edition nuclei templates, a simple tool ... | 2026-03-22   |
+| [magicRecon](https://github.com/robotshell/magicRecon) | 1035    | 163     | MagicRecon is a powerful shell script to maximize ... | 2026-03-17   |
+| [leaky-paths](https://github.com/ayoubfathi/leaky-paths) | 1029    | 157     | A collection of special paths linked to common sen... | 2026-03-19   |
+| [sitedorks](https://github.com/Zarcolio/sitedorks) | 1023    | 131     | Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo ... | 2026-03-22   |
 | [mantis](https://github.com/PhonePe/mantis) | 1021    | 132     | Mantis is a security framework that automates the ... | 2026-03-04   |
-| [sitedorks](https://github.com/Zarcolio/sitedorks) | 1020    | 132     | Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo ... | 2026-03-13   |
-| [ipranges](https://github.com/lord-alfred/ipranges) | 1014    | 150     | 🔨 List all IP ranges from: Google (Cloud & Goog... | 2026-03-15   |
+| [ipranges](https://github.com/lord-alfred/ipranges) | 1018    | 150     | 🔨 List all IP ranges from: Google (Cloud & Goog... | 2026-03-21   |
 | [PrivEsc](https://github.com/1N3/PrivEsc) | 985     | 313     | A collection of Windows, Linux and MySQL privilege... | 2026-02-27   |
-| [ARL-plus-docker](https://github.com/ki9mu/ARL-plus-docker) | 981     | 163     | 基于ARL-V2.6.2修改后的版本 | 2026-03-14   |
-| [jwt-hack](https://github.com/hahwul/jwt-hack) | 976     | 118     | JSON Web Token Hack Toolkit     | 2026-03-15   |
+| [ARL-plus-docker](https://github.com/ki9mu/ARL-plus-docker) | 982     | 163     | 基于ARL-V2.6.2修改后的版本 | 2026-03-21   |
+| [jwt-hack](https://github.com/hahwul/jwt-hack) | 979     | 118     | JSON Web Token Hack Toolkit     | 2026-03-22   |
 | [SubOver](https://github.com/Ice3man543/SubOver) | 962     | 201     | A Powerful Subdomain Takeover Tool | 2026-03-07   |
-| [karma_v2](https://github.com/Dheerajmadhukar/karma_v2) | 951     | 176     | ⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Pas... | 2026-03-15   |
+| [karma_v2](https://github.com/Dheerajmadhukar/karma_v2) | 954     | 176     | ⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾ is a Pas... | 2026-03-18   |
 | [CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) | 950     | 138     | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Jav... | 2026-03-01   |
-| [subscraper](https://github.com/m8sec/subscraper) | 938     | 107     | Subdomain and target enumeration tool built for of... | 2026-03-15   |
-| [SpiderSuite](https://github.com/spidersuite/SpiderSuite) | 937     | 121     | SpiderSuite releases, wiki and roadmap | 2026-03-14   |
-| [fuzz4bounty](https://github.com/0xPugal/fuzz4bounty) | 933     | 180     | 1337 Wordlists for Bug Bounty Hunting | 2026-03-15   |
+| [subscraper](https://github.com/m8sec/subscraper) | 939     | 107     | Subdomain and target enumeration tool built for of... | 2026-03-22   |
+| [SpiderSuite](https://github.com/spidersuite/SpiderSuite) | 939     | 121     | SpiderSuite releases, wiki and roadmap | 2026-03-21   |
+| [fuzz4bounty](https://github.com/0xPugal/fuzz4bounty) | 937     | 179     | 1337 Wordlists for Bug Bounty Hunting | 2026-03-22   |
+| [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads) | 922     | 190     | AppSec Payloads Arsenal for Pentration Tester and ... | 2026-03-19   |
 | [BugBountyScanner](https://github.com/chvancooten/BugBountyScanner) | 920     | 127     | A Bash script and Docker image for Bug Bounty reco... | 2026-03-15   |
-| [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads) | 918     | 189     | AppSec Payloads Arsenal for Pentration Tester and ... | 2026-03-12   |
-| [security-tools](https://github.com/bl4de/security-tools) | 912     | 180     | My collection of various security tools created mo... | 2026-03-09   |
-| [awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) | 903     | 77      | 🦄🔒 Awesome list of secrets in environment va... | 2026-03-08   |
-| [misconfig-mapper](https://github.com/intigriti/misconfig-mapper) | 900     | 74      | Misconfig Mapper is a fast tool to help you uncove... | 2026-03-10   |
+| [security-tools](https://github.com/bl4de/security-tools) | 913     | 180     | My collection of various security tools created mo... | 2026-03-22   |
+| [awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) | 902     | 77      | 🦄🔒 Awesome list of secrets in environment va... | 2026-03-19   |
+| [misconfig-mapper](https://github.com/intigriti/misconfig-mapper) | 901     | 74      | Misconfig Mapper is a fast tool to help you uncove... | 2026-03-19   |
 | [ReconAIzer](https://github.com/hisxo/ReconAIzer) | 888     | 114     | A Burp Suite extension to add OpenAI (GPT) on Burp... | 2026-02-25   |
-| [StaCoAn](https://github.com/vincentcox/StaCoAn) | 868     | 138     | StaCoAn is a crossplatform tool which aids develop... | 2026-03-02   |
-| [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security) | 866     | 149     | A curated list of Smart Contract Security material... | 2026-03-14   |
-| [mantra](https://github.com/brosck/mantra) | 863     | 92      | 「🔑」A tool used to hunt down API key leaks i... | 2026-03-15   |
-| [Web-App-Pentest-Checklist](https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist) | 861     | 188     | A OWASP Based Checklist  With 500+ Test Cases | 2026-03-14   |
+| [StaCoAn](https://github.com/vincentcox/StaCoAn) | 869     | 138     | StaCoAn is a crossplatform tool which aids develop... | 2026-03-17   |
+| [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security) | 869     | 150     | A curated list of Smart Contract Security material... | 2026-03-22   |
+| [mantra](https://github.com/brosck/mantra) | 866     | 93      | 「🔑」A tool used to hunt down API key leaks i... | 2026-03-18   |
+| [Web-App-Pentest-Checklist](https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist) | 862     | 188     | A OWASP Based Checklist  With 500+ Test Cases | 2026-03-22   |
 | [getJS](https://github.com/003random/getJS) | 860     | 117     | A tool to fastly get all javascript sources/files | 2026-03-12   |
 | [findom-xss](https://github.com/dwisiswant0/findom-xss) | 857     | 114     | A fast DOM based XSS vulnerability scanner with si... | 2026-03-15   |
-| [Bug-Bounty-Methodology](https://github.com/tuhin1729/Bug-Bounty-Methodology) | 856     | 112     | These are my checklists which I use during my hunt... | 2026-03-15   |
-| [Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) | 853     | 123     | BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴� | 2026-02-24   |
-| [urlfinder](https://github.com/projectdiscovery/urlfinder) | 851     | 65      | A high-speed tool for passively gathering URLs, op... | 2026-03-15   |
-| [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) | 841     | 99      | The goal of this guide is very simple - to teach a... | 2026-03-15   |
-| [apk2url](https://github.com/n0mi1k/apk2url) | 839     | 94      | An OSINT tool to quickly extract IP and URL endpoi... | 2026-03-06   |
+| [Bug-Bounty-Methodology](https://github.com/tuhin1729/Bug-Bounty-Methodology) | 856     | 112     | These are my checklists which I use during my hunt... | 2026-03-18   |
+| [Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) | 854     | 123     | BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴� | 2026-03-22   |
+| [urlfinder](https://github.com/projectdiscovery/urlfinder) | 853     | 65      | A high-speed tool for passively gathering URLs, op... | 2026-03-20   |
+| [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) | 846     | 101     | The goal of this guide is very simple - to teach a... | 2026-03-21   |
+| [apk2url](https://github.com/n0mi1k/apk2url) | 840     | 94      | An OSINT tool to quickly extract IP and URL endpoi... | 2026-03-19   |
 | [censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) | 837     | 133     | ⚡ Perform subdomain enumeration using the certif... | 2026-03-15   |
-| [github-subdomains](https://github.com/gwen001/github-subdomains) | 827     | 117     | Find subdomains on GitHub.      | 2026-03-08   |
-| [ShadowClone](https://github.com/fyoorer/ShadowClone) | 816     | 114     | Unleash the power of cloud      | 2026-03-08   |
-| [Garud](https://github.com/R0X4R/Garud) | 803     | 180     | An automation tool that scans sub-domains, sub-dom... | 2026-03-07   |
-| [OneDorkForAll](https://github.com/SecShiv/OneDorkForAll) | 784     | 193     | An insane list of all dorks taken from everywhere ... | 2026-03-13   |
-| [burp-ai-agent](https://github.com/six2dez/burp-ai-agent) | 784     | 126     | Burp Suite extension that adds built-in MCP toolin... | 2026-03-15   |
-| [h2csmuggler](https://github.com/BishopFox/h2csmuggler) | 782     | 117     | HTTP Request Smuggling over HTTP/2 Cleartext (h2c) | 2026-03-01   |
-| [emploleaks](https://github.com/infobyte/emploleaks) | 770     | 63      | An OSINT tool that helps detect members of a compa... | 2026-03-05   |
-| [n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) | 769     | 100     | An extremely effective subdomain enumeration wordl... | 2026-03-05   |
+| [github-subdomains](https://github.com/gwen001/github-subdomains) | 828     | 117     | Find subdomains on GitHub.      | 2026-03-21   |
+| [burp-ai-agent](https://github.com/six2dez/burp-ai-agent) | 820     | 130     | Burp Suite extension that adds built-in MCP toolin... | 2026-03-22   |
+| [ShadowClone](https://github.com/fyoorer/ShadowClone) | 814     | 114     | Unleash the power of cloud      | 2026-03-22   |
+| [Garud](https://github.com/R0X4R/Garud) | 804     | 180     | An automation tool that scans sub-domains, sub-dom... | 2026-03-17   |
+| [h2csmuggler](https://github.com/BishopFox/h2csmuggler) | 785     | 116     | HTTP Request Smuggling over HTTP/2 Cleartext (h2c) | 2026-03-21   |
+| [OneDorkForAll](https://github.com/SecShiv/OneDorkForAll) | 785     | 193     | An insane list of all dorks taken from everywhere ... | 2026-03-21   |
+| [Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) | 772     | 198     | This Repository is a collection of different ethic... | 2026-03-22   |
+| [emploleaks](https://github.com/infobyte/emploleaks) | 770     | 64      | An OSINT tool that helps detect members of a compa... | 2026-03-05   |
+| [n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) | 770     | 100     | An extremely effective subdomain enumeration wordl... | 2026-03-19   |
 | [offensive-docker](https://github.com/aaaguirrep/offensive-docker) | 767     | 158     | Offensive Docker is an image with the more used of... | 2026-03-12   |
-| [Hacking-Tools](https://github.com/aw-junaid/Hacking-Tools) | 766     | 196     | This Repository is a collection of different ethic... | 2026-03-14   |
-| [socialhunter](https://github.com/utkusen/socialhunter) | 759     | 78      | crawls the website and finds broken social media l... | 2026-02-23   |
-| [Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) | 759     | 142     | Bug Bounty Tricks and useful payloads and bypasses... | 2026-03-15   |
+| [Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) | 760     | 143     | Bug Bounty Tricks and useful payloads and bypasses... | 2026-03-20   |
+| [socialhunter](https://github.com/utkusen/socialhunter) | 758     | 78      | crawls the website and finds broken social media l... | 2026-03-17   |
 | [assessment-mindset](https://github.com/dsopas/assessment-mindset) | 749     | 117     | Security Mindmap that could be useful for the info... | 2026-02-25   |
-| [Subdominator](https://github.com/RevoltSecurities/Subdominator) | 737     | 124     | SubDominator helps you discover subdomains associa... | 2026-03-14   |
-| [EmailAll](https://github.com/Taonn/EmailAll) | 736     | 120     | EmailAll is a powerful Email Collect tool — 一�... | 2026-03-10   |
+| [Subdominator](https://github.com/RevoltSecurities/Subdominator) | 741     | 124     | SubDominator helps you discover subdomains associa... | 2026-03-22   |
+| [EmailAll](https://github.com/Taonn/EmailAll) | 737     | 120     | EmailAll is a powerful Email Collect tool — 一�... | 2026-03-21   |
 | [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud) | 727     | 53      | Open Source Cloud Security      | 2025-12-31   |
+| [secret-regex-list](https://github.com/h33tlit/secret-regex-list) | 724     | 72      | List of regex for scraping secret API keys and jui... | 2026-03-20   |
 | [domained](https://github.com/TypeError/domained) | 723     | 154     | Multi Tool Subdomain Enumeration | 2026-02-12   |
-| [secret-regex-list](https://github.com/h33tlit/secret-regex-list) | 723     | 72      | List of regex for scraping secret API keys and jui... | 2026-03-01   |
-| [TOP](https://github.com/GhostTroops/TOP) | 721     | 126     | TOP All bugbounty pentesting CVE-2023- POC Exp  RC... | 2026-03-15   |
-| [jsmon](https://github.com/robre/jsmon) | 713     | 115     | a javascript change monitoring tool for bugbountie... | 2026-03-06   |
+| [TOP](https://github.com/GhostTroops/TOP) | 720     | 126     | TOP All bugbounty pentesting CVE-2023- POC Exp  RC... | 2026-03-22   |
+| [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 713     | 107     | A heavily armed customizable phishing tool for edu... | 2026-03-22   |
+| [jsmon](https://github.com/robre/jsmon) | 712     | 116     | a javascript change monitoring tool for bugbountie... | 2026-03-22   |
 | [Facebook-BugBounty-Writeups](https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups) | 711     | 130     | Collection of Facebook Bug Bounty Writeups | 2026-03-14   |
-| [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 711     | 105     | A heavily armed customizable phishing tool for edu... | 2026-03-14   |
 | [Application-Security](https://github.com/Anof-cyber/Application-Security) | 687     | 62      | Resources for Application Security including Web, ... | 2026-03-09   |
-| [scant3r](https://github.com/MindPatch/scant3r) | 685     | 151     | ScanT3r - Module based Bug Bounty Automation Tool ... | 2026-03-15   |
+| [scant3r](https://github.com/MindPatch/scant3r) | 685     | 151     | ScanT3r - Module based Bug Bounty Automation Tool ... | 2026-03-22   |
 | [docem](https://github.com/whitel1st/docem) | 679     | 106     |   A tool to embed XXE and XSS payloads in docx, od... | 2026-03-09   |
-| [awesome-bugbounty-builder](https://github.com/0xJin/awesome-bugbounty-builder) | 676     | 131     | Awesome Bug bounty builder Project | 2026-03-10   |
+| [awesome-bugbounty-builder](https://github.com/0xJin/awesome-bugbounty-builder) | 675     | 131     | Awesome Bug bounty builder Project | 2026-03-19   |
+| [awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) | 669     | 77      | 🔥🔒 Awesome MCP (Model Context Protocol) Secu... | 2026-03-20   |
 | [jfscan](https://github.com/nullt3r/jfscan) | 668     | 91      | JF⚡can - Super fast port scanning & service disc... | 2026-03-13   |
-| [awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) | 666     | 68      | 🔥🔒 Awesome MCP (Model Context Protocol) Secu... | 2026-03-14   |
 | [chiasmodon](https://github.com/chiasmod0n/chiasmodon) | 664     | 55      | Chiasmodon is an OSINT  tool designed to assist in... | 2026-03-13   |
-| [ppfuzz](https://github.com/dwisiswant0/ppfuzz) | 660     | 71      | A fast tool to scan client-side prototype pollutio... | 2026-03-04   |
+| [ppfuzz](https://github.com/dwisiswant0/ppfuzz) | 660     | 71      | A fast tool to scan client-side prototype pollutio... | 2026-03-21   |
 | [SonarSearch](https://github.com/Cgboal/SonarSearch) | 658     | 95      | A rapid API for the Project Sonar dataset | 2026-03-13   |
-| [GDorks](https://github.com/Ishanoshada/GDorks) | 652     | 115     | Google Dork List - Uncover the Hidden Gems of the ... | 2026-03-14   |
-| [samlists](https://github.com/the-xentropy/samlists) | 646     | 91      | Free, libre, effective, and data-driven wordlists ... | 2026-02-24   |
-| [SQLiDetector](https://github.com/eslam3kl/SQLiDetector) | 633     | 112     | Simple python script supported with BurpBouty prof... | 2026-03-10   |
-| [JSshell](https://github.com/shelld3v/JSshell) | 632     | 113     | JSshell - JavaScript reverse/remote shell | 2026-03-05   |
-| [DarkAngel](https://github.com/Bywalks/DarkAngel) | 609     | 79      | DarkAngel 是一款全自动白帽漏洞扫描器�... | 2026-01-26   |
-| [Gxss](https://github.com/KathanP19/Gxss) | 596     | 87      | A tool to check a bunch of URLs that contain refle... | 2026-03-15   |
-| [CRLFsuite](https://github.com/Raghavd3v/CRLFsuite) | 592     | 80      | The most powerful CRLF injection (HTTP Response Sp... | 2026-03-09   |
+| [GDorks](https://github.com/Ishanoshada/GDorks) | 655     | 115     | Google Dork List - Uncover the Hidden Gems of the ... | 2026-03-22   |
+| [samlists](https://github.com/the-xentropy/samlists) | 648     | 92      | Free, libre, effective, and data-driven wordlists ... | 2026-03-17   |
+| [SQLiDetector](https://github.com/eslam3kl/SQLiDetector) | 634     | 112     | Simple python script supported with BurpBouty prof... | 2026-03-22   |
+| [JSshell](https://github.com/shelld3v/JSshell) | 633     | 113     | JSshell - JavaScript reverse/remote shell | 2026-03-20   |
+| [DarkAngel](https://github.com/Bywalks/DarkAngel) | 609     | 79      | DarkAngel 是一款全自动白帽漏洞扫描器�... | 2026-03-16   |
+| [Gxss](https://github.com/KathanP19/Gxss) | 597     | 87      | A tool to check a bunch of URLs that contain refle... | 2026-03-21   |
+| [CRLFsuite](https://github.com/Raghavd3v/CRLFsuite) | 593     | 81      | The most powerful CRLF injection (HTTP Response Sp... | 2026-03-16   |
 | [basecrack](https://github.com/mufeedvh/basecrack) | 584     | 91      | Decode All Bases - Base Scheme Decoder | 2026-02-27   |
 | [awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) | 578     | 50      | Practical resources for offensive CI/CD security r... | 2026-03-14   |
+| [AutorizePro](https://github.com/WuliRuler/AutorizePro) | 577     | 35      | 🧿 AutorizePro是一款强大越权检测 Burp �... | 2026-03-21   |
 | [webHunt](https://github.com/ghsec/webHunt) | 576     | 149     | Web App bug hunting             | 2026-03-07   |
-| [AutorizePro](https://github.com/WuliRuler/AutorizePro) | 574     | 35      | 🧿 AutorizePro是一款强大越权检测 Burp �... | 2026-03-12   |
-| [bXSS](https://github.com/LewisArdern/bXSS) | 568     | 65      | bXSS is a utility which can be used by bug hunters... | 2026-03-13   |
+| [bXSS](https://github.com/LewisArdern/bXSS) | 571     | 65      | bXSS is a utility which can be used by bug hunters... | 2026-03-22   |
 | [Komo](https://github.com/komomon/Komo) | 561     | 65      | 🚀Komo, a comprehensive asset collection and vul... | 2026-03-12   |
 | [awsome-security-write-ups-and-POCs](https://github.com/dhaval17/awsome-security-write-ups-and-POCs) | 560     | 121     | Awesome Writeups and POCs       | 2026-03-12   |
-| [vulnrepo](https://github.com/kac89/vulnrepo) | 549     | 118     | VULNRΞPO - Free vulnerability report generator an... | 2026-03-15   |
+| [vulnrepo](https://github.com/kac89/vulnrepo) | 549     | 117     | VULNRΞPO - Free vulnerability report generator an... | 2026-03-15   |
 | [SecurityExplained](https://github.com/harsh-bothra/SecurityExplained) | 542     | 103     | SecurityExplained is a new series after the previo... | 2026-03-10   |
 | [Dome](https://github.com/v4d1/Dome) | 541     | 76      | Dome - Subdomain Enumeration Tool. Fast and reliab... | 2026-03-05   |
 | [bugbounty](https://github.com/aufzayed/bugbounty) | 540     | 101     | Bugbounty Resources             | 2026-02-12   |
-| [webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists) | 534     | 121     | This repository contains wordlists for each versio... | 2026-02-24   |
-| [CloudScraper](https://github.com/jordanpotti/CloudScraper) | 533     | 112     | CloudScraper: Tool to enumerate targets in search ... | 2026-03-13   |
-| [Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty) | 522     | 99      | Bug Bounty ~ Awesomes | Books | Cheatsheets | Chec... | 2026-03-12   |
-| [Logsensor](https://github.com/Mr-Robert0/Logsensor) | 521     | 84      | A Powerful Sensor Tool to discover login panels, a... | 2026-03-11   |
-| [TheTimeMachine](https://github.com/anmolksachan/TheTimeMachine) | 518     | 80      | Weaponizing WaybackUrls for Recon, BugBounties , O... | 2026-03-09   |
+| [webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists) | 535     | 122     | This repository contains wordlists for each versio... | 2026-03-22   |
+| [CloudScraper](https://github.com/jordanpotti/CloudScraper) | 534     | 111     | CloudScraper: Tool to enumerate targets in search ... | 2026-03-20   |
+| [Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty) | 523     | 99      | Bug Bounty ~ Awesomes | Books | Cheatsheets | Chec... | 2026-03-21   |
+| [TheTimeMachine](https://github.com/anmolksachan/TheTimeMachine) | 521     | 82      | Weaponizing WaybackUrls for Recon, BugBounties , O... | 2026-03-21   |
+| [Logsensor](https://github.com/Mr-Robert0/Logsensor) | 520     | 84      | A Powerful Sensor Tool to discover login panels, a... | 2026-03-18   |
 | [ppmap](https://github.com/kleiton0x00/ppmap) | 518     | 74      | A scanner/exploitation tool written in GO, which l... | 2026-03-04   |
+| [gotator](https://github.com/Josue87/gotator) | 508     | 66      | Gotator is a tool to generate DNS wordlists throug... | 2026-03-19   |
 | [csprecon](https://github.com/edoardottt/csprecon) | 508     | 56      | Discover new target domains using Content Security... | 2026-03-11   |
-| [gotator](https://github.com/Josue87/gotator) | 507     | 66      | Gotator is a tool to generate DNS wordlists throug... | 2026-03-05   |
 | [JShunter](https://github.com/cc1a2b/JShunter) | 497     | 56      | jshunter is a command-line tool designed for analy... | 2026-03-04   |
-| [gato-x](https://github.com/AdnaneKhan/gato-x) | 489     | 46      | GitHub Attack Toolkit - Extreme Edition - A static... | 2026-03-12   |
-| [exifLooter](https://github.com/aydinnyunus/exifLooter) | 484     | 24      | ExifLooter finds geolocation on all image urls and... | 2026-03-11   |
+| [gato-x](https://github.com/AdnaneKhan/gato-x) | 493     | 46      | GitHub Attack Toolkit - Extreme Edition - A static... | 2026-03-18   |
+| [exifLooter](https://github.com/aydinnyunus/exifLooter) | 484     | 24      | ExifLooter finds geolocation on all image urls and... | 2026-03-21   |
 | [bugbountyguide](https://github.com/EdOverflow/bugbountyguide) | 472     | 107     | Bug Bounty Guide is a launchpad for bug bounty pro... | 2026-03-07   |
+| [awesome-attack-surface-monitoring](https://github.com/attacksurge/awesome-attack-surface-monitoring) | 463     | 67      | Curated list of open-source & paid Attack Surface ... | 2026-03-19   |
 | [HawkScan](https://github.com/c0dejump/HawkScan) | 463     | 88      | Security Tool for Reconnaissance and Information G... | 2026-03-15   |
 | [oneliner-bugbounty](https://github.com/twseptian/oneliner-bugbounty) | 461     | 76      | oneliner commands for bug bounties | 2026-03-04   |
 | [RegHex](https://github.com/l4yton/RegHex) | 461     | 74      | A collection of regexes for every possbile use | 2026-03-10   |
-| [awesome-attack-surface-monitoring](https://github.com/attacksurge/awesome-attack-surface-monitoring) | 461     | 67      | Curated list of open-source & paid Attack Surface ... | 2026-03-16   |
 | [hakip2host](https://github.com/hakluke/hakip2host) | 454     | 65      | hakip2host takes a list of IP addresses via stdin,... | 2026-03-14   |
 | [LazyRecon](https://github.com/capt-meelo/LazyRecon) | 450     | 104     | An automated approach to performing recon for bug ... | 2026-02-12   |
 | [recon-pipeline](https://github.com/epi052/recon-pipeline) | 449     | 102     | An automated target reconnaissance pipeline. | 2026-02-28   |
-| [BugBountyTemplates](https://github.com/ZephrFish/BugBountyTemplates) | 446     | 99      | A collection of templates for bug bounty reporting | 2026-03-13   |
+| [BugBountyTemplates](https://github.com/ZephrFish/BugBountyTemplates) | 448     | 100     | A collection of templates for bug bounty reporting | 2026-03-22   |
 | [bugbounty](https://github.com/Ignitetechnologies/bugbounty) | 441     | 99      | No description                  | 2026-03-11   |
-| [firefly](https://github.com/Brum3ns/firefly) | 436     | 41      | Black box fuzzer for web applications | 2026-03-05   |
-| [Reconator](https://github.com/gokulapap/Reconator) | 433     | 229     | Automated Recon for Pentesting & Bug Bounty | 2026-03-12   |
+| [firefly](https://github.com/Brum3ns/firefly) | 437     | 41      | Black box fuzzer for web applications | 2026-03-20   |
+| [Reconator](https://github.com/gokulapap/Reconator) | 434     | 229     | Automated Recon for Pentesting & Bug Bounty | 2026-03-17   |
+| [DDoSlayer](https://github.com/blackhatethicalhacking/DDoSlayer) | 432     | 102     | An Advanced Layer 7 DDoS tool   | 2026-03-22   |
+| [Offensive-Payloads](https://github.com/InfoSecWarrior/Offensive-Payloads) | 430     | 146     | List of payloads and wordlists that are specifical... | 2026-03-20   |
 | [gosint](https://github.com/1in9e/gosint) | 429     | 88      | Gosint is a distributed asset information collecti... | 2026-03-05   |
-| [Offensive-Payloads](https://github.com/InfoSecWarrior/Offensive-Payloads) | 429     | 146     | List of payloads and wordlists that are specifical... | 2026-03-10   |
-| [missing-cve-nuclei-templates](https://github.com/edoardottt/missing-cve-nuclei-templates) | 427     | 49      | Weekly updated list of missing CVEs in nuclei temp... | 2026-03-11   |
+| [missing-cve-nuclei-templates](https://github.com/edoardottt/missing-cve-nuclei-templates) | 427     | 49      | Weekly updated list of missing CVEs in nuclei temp... | 2026-03-16   |
 | [authz0](https://github.com/hahwul/authz0) | 426     | 56      | 🔑 Authz0 is an automated authorization test too... | 2026-03-04   |
-| [DDoSlayer](https://github.com/blackhatethicalhacking/DDoSlayer) | 425     | 100     | An Advanced Layer 7 DDoS tool   | 2026-03-14   |
 | [watchdog](https://github.com/flipkart-incubator/watchdog) | 424     | 102     | Watchdog - A Comprehensive Security Scanning and a... | 2026-03-01   |
 | [Taie-Bugbounty-killer](https://github.com/taielab/Taie-Bugbounty-killer) | 422     | 34      | 挖掘国内外漏洞平台必备的自动化捡� | 2026-02-18   |
-| [fallparams](https://github.com/ImAyrix/fallparams) | 418     | 52      | Find All Parameters - Tool to crawl pages, find po... | 2026-03-09   |
+| [fallparams](https://github.com/ImAyrix/fallparams) | 418     | 51      | Find All Parameters - Tool to crawl pages, find po... | 2026-03-09   |
 | [mad-metasploit](https://github.com/hahwul/mad-metasploit) | 407     | 95      | Metasploit custom modules, plugins, resource scrip... | 2026-02-13   |
-| [gradejs](https://github.com/gradejs/gradejs) | 406     | 14      | GradeJS analyzes production Webpack bundles withou... | 2026-01-14   |
-| [BypassFuzzer](https://github.com/intrudir/BypassFuzzer) | 405     | 50      | Fuzz 401/403/404 pages for bypasses | 2026-03-10   |
-| [Android-Pentesting-Checklist](https://github.com/Hrishikesh7665/Android-Pentesting-Checklist) | 402     | 93      | Delve into a comprehensive checklist, your ultimat... | 2026-03-09   |
-| [FOTOSPLOIT-](https://github.com/Juanhacker051/FOTOSPLOIT-) | 402     | 47      | *FotoSploit*  $ git clone https://github.com/Cesar... | 2026-03-15   |
+| [Android-Pentesting-Checklist](https://github.com/Hrishikesh7665/Android-Pentesting-Checklist) | 406     | 93      | Delve into a comprehensive checklist, your ultimat... | 2026-03-21   |
+| [BypassFuzzer](https://github.com/intrudir/BypassFuzzer) | 405     | 52      | Fuzz 401/403/404 pages for bypasses | 2026-03-10   |
+| [gradejs](https://github.com/gradejs/gradejs) | 405     | 14      | GradeJS analyzes production Webpack bundles withou... | 2026-03-17   |
+| [FOTOSPLOIT-](https://github.com/Juanhacker051/FOTOSPLOIT-) | 402     | 48      | *FotoSploit*  $ git clone https://github.com/Cesar... | 2026-03-15   |
 | [ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass) | 400     | 55      | This Python script can be used to bypass IP source... | 2026-02-20   |
-| [Bug-bounty-Writeups](https://github.com/insecrez/Bug-bounty-Writeups) | 397     | 69      | Repository of Bug-Bounty Writeups | 2026-03-14   |
-| [bxss](https://github.com/ethicalhackingplayground/bxss) | 397     | 56      | Blind XSS Scanner is a tool that can be used to sc... | 2026-03-12   |
+| [Bug-bounty-Writeups](https://github.com/insecrez/Bug-bounty-Writeups) | 399     | 70      | Repository of Bug-Bounty Writeups | 2026-03-22   |
+| [bxss](https://github.com/ethicalhackingplayground/bxss) | 398     | 56      | Blind XSS Scanner is a tool that can be used to sc... | 2026-03-22   |
+| [s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) | 398     | 89      | Find AWS S3 buckets and test their permissions. | 2026-03-17   |
 | [domain-protect](https://github.com/domain-protect/domain-protect) | 397     | 64      | OWASP Domain Protect - prevent subdomain takeover | 2026-03-10   |
-| [s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) | 397     | 89      | Find AWS S3 buckets and test their permissions. | 2026-03-03   |
 | [urldedupe](https://github.com/ameenmaali/urldedupe) | 395     | 65      | Pass in a list of URLs with query strings, get bac... | 2026-03-15   |
-| [GoLinkFinder](https://github.com/0xsha/GoLinkFinder) | 387     | 54      | A fast and minimal JS endpoint extractor  | 2026-02-23   |
+| [BugBounty](https://github.com/m0chan/BugBounty) | 386     | 168     | RepoToStoreBugBountyInfo        | 2026-03-22   |
+| [GoLinkFinder](https://github.com/0xsha/GoLinkFinder) | 386     | 54      | A fast and minimal JS endpoint extractor  | 2026-03-19   |
 | [chameleon](https://github.com/iustin24/chameleon) | 383     | 46      | No description                  | 2026-03-06   |
 | [Gsec](https://github.com/gotr00t0day/Gsec) | 383     | 72      | Web Security Scanner            | 2026-03-15   |
-| [BugBounty](https://github.com/m0chan/BugBounty) | 381     | 166     | RepoToStoreBugBountyInfo        | 2026-03-13   |
-| [awesome-search-queries](https://github.com/projectdiscovery/awesome-search-queries) | 378     | 42      | Community curated list of search queries for vario... | 2026-03-16   |
-| [web3-security-resources](https://github.com/Raiders0786/web3-security-resources) | 378     | 58      | The Web3 Security Resources Hub is a comprehensive... | 2026-03-13   |
+| [web3-security-resources](https://github.com/Raiders0786/web3-security-resources) | 379     | 58      | The Web3 Security Resources Hub is a comprehensive... | 2026-03-21   |
+| [awesome-search-queries](https://github.com/projectdiscovery/awesome-search-queries) | 378     | 42      | Community curated list of search queries for vario... | 2026-03-22   |
 | [keywords](https://github.com/random-robbie/keywords) | 374     | 187     | No description                  | 2026-03-03   |
-| [lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools) | 372     | 61      | Little Bug Bounty & Hacking Tools⚔️ | 2026-03-04   |
-| [allsafe-android](https://github.com/t0thkr1s/allsafe-android) | 368     | 111     | Intentionally vulnerable Android application. | 2026-03-10   |
+| [lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools) | 372     | 61      | Little Bug Bounty & Hacking Tools⚔️ | 2026-03-21   |
+| [allsafe-android](https://github.com/t0thkr1s/allsafe-android) | 371     | 111     | Intentionally vulnerable Android application. | 2026-03-22   |
 | [match-replace-burp](https://github.com/daffainfo/match-replace-burp) | 365     | 58      | Useful "Match and Replace" burpsuite rules | 2026-02-28   |
-| [QuickXSS](https://github.com/theinfosecguy/QuickXSS) | 362     | 66      | Automating XSS using Bash       | 2026-02-18   |
+| [QuickXSS](https://github.com/theinfosecguy/QuickXSS) | 363     | 66      | Automating XSS using Bash       | 2026-03-20   |
 | [autossrf](https://github.com/Th0h0/autossrf) | 360     | 43      | Smart context-based SSRF vulnerability scanner. | 2026-02-12   |
 | [url-tracker](https://github.com/al-sultani/url-tracker) | 358     | 58      | Change monitoring app that checks the content of w... | 2026-03-04   |
 | [cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip) | 358     | 71      | Try to find the origin IP of a webapp protected by... | 2026-03-02   |
 | [recon-my-way](https://github.com/ehsahil/recon-my-way) | 354     | 121     | This repository created for personal use and added... | 2026-02-02   |
-| [tips-solidity-code-auditors](https://github.com/OffcierCia/tips-solidity-code-auditors) | 353     | 37      | Gaining the most elusive of tips. Add your input a... | 2026-01-13   |
-| [XRCross](https://github.com/pikpikcu/XRCross) | 350     | 69      | XRCross is a Reconstruction, Scanner, and a tool f... | 2026-02-28   |
+| [tips-solidity-code-auditors](https://github.com/OffcierCia/tips-solidity-code-auditors) | 354     | 38      | Gaining the most elusive of tips. Add your input a... | 2026-03-18   |
+| [XRCross](https://github.com/pikpikcu/XRCross) | 351     | 70      | XRCross is a Reconstruction, Scanner, and a tool f... | 2026-03-19   |
 | [cut-cdn](https://github.com/ImAyrix/cut-cdn) | 346     | 52      | ✂️ Removing CDN IPs from the list of IP addres | 2026-02-26   |
 | [slicer](https://github.com/mzfr/slicer) | 344     | 45      | A tool to automate the boring process of APK recon | 2026-03-04   |
 | [Jira-Lens](https://github.com/MayankPandey01/Jira-Lens) | 344     | 56      | Fast and customizable vulnerability scanner For JI... | 2026-02-13   |
@@ -297,145 +297,145 @@
 | [dora](https://github.com/sdushantha/dora) | 341     | 51      | Find exposed API keys based on RegEx and get explo... | 2026-01-10   |
 | [CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera) | 341     | 34      | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsof... | 2026-02-28   |
 | [ssrf-sheriff](https://github.com/teknogeek/ssrf-sheriff) | 336     | 69      | A simple SSRF-testing sheriff written in Go | 2026-01-20   |
+| [pdlist](https://github.com/gnebbia/pdlist) | 335     | 48      | A passive subdomain finder      | 2026-03-20   |
 | [0l4bs](https://github.com/tegal1337/0l4bs) | 334     | 49      | Cross-site scripting labs for web application secu... | 2026-03-15   |
-| [pdlist](https://github.com/gnebbia/pdlist) | 334     | 48      | A passive subdomain finder      | 2026-02-23   |
 | [rescope](https://github.com/root4loot/rescope) | 332     | 60      | Bugbounty scope tool            | 2025-12-20   |
 | [pwn-machine](https://github.com/yeswehack/pwn-machine) | 328     | 53      | PwnMachine is a self hosting solution based on doc... | 2026-03-13   |
-| [jaeles-signatures](https://github.com/jaeles-project/jaeles-signatures) | 328     | 70      | Default signature for Jaeles Scanner | 2026-03-05   |
-| [resources](https://github.com/disclose/resources) | 326     | 45      | Tools, data, and contact lists relevant to The dis... | 2026-03-05   |
+| [jaeles-signatures](https://github.com/jaeles-project/jaeles-signatures) | 327     | 70      | Default signature for Jaeles Scanner | 2026-03-17   |
+| [resources](https://github.com/disclose/resources) | 326     | 45      | Tools, data, and contact lists relevant to The dis... | 2026-03-20   |
 | [Bug_Bounty_Tools_and_Methodology](https://github.com/blackhatethicalhacking/Bug_Bounty_Tools_and_Methodology) | 324     | 84      | Bug Bounty Tools used on Twitch - Recon | 2026-03-11   |
 | [reconness](https://github.com/reconness/reconness) | 321     | 39      | ReconNess is a platform to allow continuous recon ... | 2026-02-10   |
 | [vaf](https://github.com/andreiverse/vaf) | 320     | 44      | Vaf is a cross-platform very advanced and fast web... | 2026-02-12   |
-| [dorks_hunter](https://github.com/six2dez/dorks_hunter) | 318     | 64      | Simple Google Dorks search tool | 2026-02-12   |
+| [dorks_hunter](https://github.com/six2dez/dorks_hunter) | 319     | 64      | Simple Google Dorks search tool | 2026-03-16   |
 | [Afuzz](https://github.com/RapidDNS/Afuzz) | 311     | 24      | Afuzz is an automated web path fuzzing tool for th... | 2026-01-26   |
-| [hijagger](https://github.com/firefart/hijagger) | 309     | 25      | Checks all maintainers of all NPM and Pypi package... | 2026-03-13   |
-| [megplus](https://github.com/EdOverflow/megplus) | 306     | 110     | Automated reconnaissance wrapper — TomNomNom's m... | 2026-03-15   |
+| [hijagger](https://github.com/firefart/hijagger) | 309     | 25      | Checks all maintainers of all NPM and Pypi package... | 2026-03-22   |
+| [megplus](https://github.com/EdOverflow/megplus) | 305     | 110     | Automated reconnaissance wrapper — TomNomNom's m... | 2026-03-17   |
+| [Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) | 305     | 42      | All About Dependency Confusion Attack, (Detecting,... | 2026-03-18   |
+| [BLT](https://github.com/OWASP-BLT/BLT) | 305     | 414     | A community-driven OWASP Foundation project buildi... | 2026-03-22   |
 | [AutoRecon](https://github.com/JoshuaMart/AutoRecon) | 304     | 68      | Simple shell script for automated domain recogniti... | 2026-02-24   |
-| [Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) | 304     | 42      | All About Dependency Confusion Attack, (Detecting,... | 2026-03-01   |
 | [qsfuzz](https://github.com/ameenmaali/qsfuzz) | 303     | 38      | qsfuzz (Query String Fuzz) allows you to build you... | 2026-01-29   |
-| [knary](https://github.com/sudosammy/knary) | 302     | 53      | A simple HTTP(S) and DNS Canary bot with Slack/Dis... | 2026-03-10   |
-| [TerminatorZ](https://github.com/blackhatethicalhacking/TerminatorZ) | 298     | 42      | TerminatorZ is a highly sophisticated and efficien... | 2026-03-10   |
-| [Nightingale](https://github.com/RAJANAGORI/Nightingale) | 298     | 52      | Nightingale Docker for Pentesters is a comprehensi... | 2026-03-13   |
+| [knary](https://github.com/sudosammy/knary) | 301     | 53      | A simple HTTP(S) and DNS Canary bot with Slack/Dis... | 2026-03-21   |
+| [TerminatorZ](https://github.com/blackhatethicalhacking/TerminatorZ) | 300     | 44      | TerminatorZ is a highly sophisticated and efficien... | 2026-03-21   |
+| [Nightingale](https://github.com/RAJANAGORI/Nightingale) | 299     | 52      | Nightingale Docker for Pentesters is a comprehensi... | 2026-03-22   |
 | [lorsrf](https://github.com/MindPatch/lorsrf) | 296     | 44      | Fast CLI tool to find the parameters that can be u... | 2026-03-04   |
 | [BugBountyTools](https://github.com/AlexisAhmed/BugBountyTools) | 294     | 90      | Tools that i personally use for Bug Bounty Hunting... | 2026-03-12   |
-| [SubDomz](https://github.com/0xPugal/SubDomz) | 293     | 66      | An Automated Subdomain Enumeration Tool | 2026-02-23   |
-| [BLT](https://github.com/OWASP-BLT/BLT) | 292     | 404     | A community-driven OWASP Foundation project buildi... | 2026-03-14   |
+| [SubDomz](https://github.com/0xPugal/SubDomz) | 292     | 66      | An Automated Subdomain Enumeration Tool | 2026-03-19   |
 | [Bountystrike-sh](https://github.com/BountyStrike/Bountystrike-sh) | 289     | 63      | Poor (rich?) man's bug bounty pipeline https://dub... | 2026-02-28   |
 | [all-about-apikey](https://github.com/daffainfo/all-about-apikey) | 289     | 61      | Detailed information about API key / OAuth token (... | 2026-02-28   |
 | [Monitorizer](https://github.com/BitTheByte/Monitorizer) | 287     | 55      | Monitoring framework to detect and report newly fo... | 2026-02-28   |
 | [Arsenal](https://github.com/Micro0x00/Arsenal) | 285     | 44      | Arsenal is a Simple shell script (Bash) used to in... | 2026-02-15   |
-| [dnsprobe](https://github.com/projectdiscovery/dnsprobe) | 282     | 55      | DNSProb is a tool built on top of retryabledns tha... | 2026-02-05   |
+| [leaker](https://github.com/vflame6/leaker) | 284     | 37      | Passive leak enumeration tool.  | 2026-03-21   |
+| [dnsprobe](https://github.com/projectdiscovery/dnsprobe) | 283     | 55      | DNSProb is a tool built on top of retryabledns tha... | 2026-03-22   |
 | [project-black](https://github.com/c0rv4x/project-black) | 281     | 47      | Pentest/BugBounty progress control with scanning m... | 2026-02-14   |
 | [jsubfinder](https://github.com/ThreatUnknown/jsubfinder) | 280     | 35      | jsubfinder searches webpages for javascript & anal... | 2026-02-12   |
 | [Jasmin-Ransomware](https://github.com/codesiddhant/Jasmin-Ransomware) | 276     | 81      | Jasmin Ransomware is an advanced red team tool (Wa... | 2026-03-11   |
 | [cc.py](https://github.com/si9int/cc.py) | 275     | 45      | Extracting URLs of a specific target based on the ... | 2025-12-23   |
-| [leaker](https://github.com/vflame6/leaker) | 275     | 36      | Passive leak enumeration tool.  | 2026-03-15   |
+| [GoogleDorker](https://github.com/RevoltSecurities/GoogleDorker) | 273     | 42      | GoogleDorker - Unleash the power of Google dorking... | 2026-03-20   |
+| [penetration-testing-roadmap](https://github.com/securitycipher/penetration-testing-roadmap) | 273     | 53      | Complete Roadmap for Penetration Testing | 2026-03-20   |
 | [mksub](https://github.com/trickest/mksub) | 273     | 26      | Generate tens of thousands of subdomain combinatio... | 2026-03-07   |
-| [GoogleDorker](https://github.com/RevoltSecurities/GoogleDorker) | 271     | 41      | GoogleDorker - Unleash the power of Google dorking... | 2026-03-15   |
-| [penetration-testing-roadmap](https://github.com/securitycipher/penetration-testing-roadmap) | 270     | 53      | Complete Roadmap for Penetration Testing | 2026-03-09   |
-| [InfosecHouse](https://github.com/InfosecHouse/InfosecHouse) | 270     | 58      | Tools & Resources for Cyber Security Operations | 2026-03-04   |
-| [pentestmindmap](https://github.com/5bhuv4n35h/pentestmindmap) | 269     | 73      | a mindmap on pentest #pentestmindmap #oscp #lpt #e... | 2026-01-21   |
-| [headi](https://github.com/mlcsec/headi) | 269     | 56      | Customisable  and automated HTTP header injection | 2026-03-01   |
+| [InfosecHouse](https://github.com/InfosecHouse/InfosecHouse) | 272     | 58      | Tools & Resources for Cyber Security Operations | 2026-03-18   |
+| [pentestmindmap](https://github.com/5bhuv4n35h/pentestmindmap) | 271     | 73      | a mindmap on pentest #pentestmindmap #oscp #lpt #e... | 2026-03-18   |
+| [headi](https://github.com/mlcsec/headi) | 270     | 56      | Customisable  and automated HTTP header injection | 2026-03-19   |
 | [contact.sh](https://github.com/EdOverflow/contact.sh) | 268     | 50      | An OSINT tool to find contacts in order to report ... | 2025-12-09   |
 | [bugbountyDorks](https://github.com/shifa123/bugbountyDorks) | 267     | 82      | This repo contains all the Bug Bounty Dorks source... | 2026-03-02   |
 | [fleex](https://github.com/FleexSecurity/fleex) | 267     | 35      | Fleex makes it easy to create multiple VPS on clou... | 2026-02-18   |
 | [BugBounty_CheatSheet](https://github.com/Neelakandan-A/BugBounty_CheatSheet) | 265     | 55      | BugBounty_CheatSheet            | 2026-03-06   |
+| [investigator](https://github.com/abhijithb200/investigator) | 259     | 39      | An online handy-recon tool      | 2026-03-18   |
 | [Nucleimonst3r](https://github.com/blackhatethicalhacking/Nucleimonst3r) | 259     | 46      | Nucleimonst3r is a powerful vulnerability scanner ... | 2026-02-22   |
-| [investigator](https://github.com/abhijithb200/investigator) | 258     | 39      | An online handy-recon tool      | 2026-01-30   |
-| [icp-domains](https://github.com/1in9e/icp-domains) | 257     | 37      | 输入一个域名，输出ICP备案所有关联� | 2026-02-28   |
-| [domscan](https://github.com/lauritzh/domscan) | 255     | 33      | Simple tool to scan a website for (DOM-based) XSS ... | 2026-03-14   |
+| [domscan](https://github.com/lauritzh/domscan) | 256     | 33      | Simple tool to scan a website for (DOM-based) XSS ... | 2026-03-21   |
+| [icp-domains](https://github.com/1in9e/icp-domains) | 256     | 37      | 输入一个域名，输出ICP备案所有关联� | 2026-03-22   |
 | [XORpass](https://github.com/devploit/XORpass) | 253     | 44      | Encoder to bypass WAF filters using XOR operations... | 2026-02-14   |
 | [AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships) | 251     | 29      | Get related domains / subdomains by looking at Goo... | 2026-03-08   |
-| [burp-vps-proxy](https://github.com/d3mondev/burp-vps-proxy) | 246     | 28      | This Burp Suite extension allows for the automatic... | 2026-03-05   |
 | [debugHunter](https://github.com/devploit/debugHunter) | 246     | 7       | Discover hidden debugging parameters and uncover w... | 2026-03-01   |
-| [probable_subdomains](https://github.com/zzzteph/probable_subdomains) | 244     | 24      | Subdomains analysis and generation tool. Reveal th... | 2026-01-20   |
+| [burp-vps-proxy](https://github.com/d3mondev/burp-vps-proxy) | 246     | 29      | This Burp Suite extension allows for the automatic... | 2026-03-05   |
+| [probable_subdomains](https://github.com/zzzteph/probable_subdomains) | 245     | 25      | Subdomains analysis and generation tool. Reveal th... | 2026-03-19   |
+| [bughunter](https://github.com/thehackingsage/bughunter) | 245     | 75      | Tools for BugHunting            | 2026-03-22   |
 | [s3cXSSer](https://github.com/s3c-krd/s3cXSSer) | 244     | 33      | This extension will help you to detect GET/POST ba... | 2026-03-04   |
-| [bughunter](https://github.com/thehackingsage/bughunter) | 244     | 75      | Tools for BugHunting            | 2026-02-12   |
 | [SecretOpt1c](https://github.com/blackhatethicalhacking/SecretOpt1c) | 243     | 36      | SecretOpt1c is a Red Team tool that helps uncover ... | 2026-03-14   |
 | [gf-secrets](https://github.com/dwisiswant0/gf-secrets) | 243     | 52      | Secret and/or credential patterns used for gf. | 2025-11-29   |
-| [wordlistgen](https://github.com/ameenmaali/wordlistgen) | 238     | 39      | Quickly generate context-specific wordlists for co... | 2026-02-12   |
-| [vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) | 238     | 39      | A collection of servers which are deliberately vul... | 2026-03-13   |
+| [vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) | 241     | 42      | A collection of servers which are deliberately vul... | 2026-03-22   |
+| [wordlistgen](https://github.com/ameenmaali/wordlistgen) | 238     | 40      | Quickly generate context-specific wordlists for co... | 2026-02-12   |
 | [cf-check](https://github.com/dwisiswant0/cf-check) | 237     | 42      | CloudFlare Checker written in Go | 2026-02-12   |
 | [BB-datas](https://github.com/gwen001/BB-datas) | 236     | 68      | Tools and datas related to Bug Bounty. | 2025-09-04   |
-| [robofinder](https://github.com/Spix0r/robofinder) | 235     | 23      | Robofinder retrieves historical #robots.txt files ... | 2026-03-13   |
-| [DorkAgent](https://github.com/yee-yore/DorkAgent) | 235     | 38      | 🤖 LLM-powered agent for automated Google Dorkin... | 2026-03-04   |
-| [favirecon](https://github.com/edoardottt/favirecon) | 235     | 31      | Use favicons to improve your target recon phase. Q... | 2026-03-11   |
+| [robofinder](https://github.com/Spix0r/robofinder) | 236     | 23      | Robofinder retrieves historical #robots.txt files ... | 2026-03-18   |
+| [DorkAgent](https://github.com/yee-yore/DorkAgent) | 236     | 38      | 🤖 LLM-powered agent for automated Google Dorkin... | 2026-03-17   |
+| [favirecon](https://github.com/edoardottt/favirecon) | 235     | 31      | Use favicons to improve your target recon phase. Q... | 2026-03-21   |
 | [VPS-Bug-Bounty-Tools](https://github.com/drak3hft7/VPS-Bug-Bounty-Tools) | 231     | 58      | Script that automates the installation of the main... | 2026-03-06   |
 | [request_smuggler](https://github.com/Sh1Yo/request_smuggler) | 230     | 30      | Http request smuggling vulnerability scanner | 2026-03-08   |
 | [bbrecon](https://github.com/serain/bbrecon) | 230     | 39      | Python library and CLI for the Bug Bounty Recon AP... | 2025-12-09   |
+| [android-hacking-101](https://github.com/Devang-Solanki/android-hacking-101) | 229     | 24      | This repo is a helpful starting point for those in... | 2026-03-22   |
 | [learn365](https://github.com/dn0m1n8tor/learn365) | 229     | 37      | This repository is about @AnubhavSingh_'s 365 days... | 2026-03-04   |
-| [android-hacking-101](https://github.com/Devang-Solanki/android-hacking-101) | 228     | 24      | This repo is a helpful starting point for those in... | 2026-02-26   |
+| [DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter) | 229     | 24      | Automated DLL Hijacking Discovery, Validation, and... | 2026-03-20   |
 | [Sec_Mind_Maps](https://github.com/h0tak88r/Sec_Mind_Maps) | 227     | 35      | cyber security mind maps collection | 2026-03-10   |
 | [graphinder](https://github.com/Escape-Technologies/graphinder) | 227     | 14      | 🕸️ Blazing fast GraphQL endpoints finder usin... | 2026-01-10   |
 | [AndroidSecNotes](https://github.com/iamsarvagyaa/AndroidSecNotes) | 225     | 58      | An actively maintained, Self curated notes related... | 2026-02-11   |
-| [bug-bounty-domains](https://github.com/ARPSyndicate/bug-bounty-domains) | 225     | 51      | Domains belonging to the most reputed public bug b... | 2026-01-09   |
 | [x8-Burp](https://github.com/Impact-I/x8-Burp) | 224     | 41      | Hidden parameters discovery suite | 2026-02-12   |
+| [bug-bounty-domains](https://github.com/ARPSyndicate/bug-bounty-domains) | 224     | 51      | Domains belonging to the most reputed public bug b... | 2026-03-19   |
+| [prokzee](https://github.com/al-sultani/prokzee) | 221     | 24      | A cross-platform desktop application for HTTP/HTTP... | 2026-03-19   |
 | [TukTuk](https://github.com/ArturSS7/TukTuk) | 220     | 24      | Tool for catching and logging different types of r... | 2026-01-13   |
 | [Google-Dorker](https://github.com/nerrorsec/Google-Dorker) | 220     | 46      | Automate dorking while doing bug bounty or other s... | 2026-02-24   |
-| [prokzee](https://github.com/al-sultani/prokzee) | 220     | 24      | A cross-platform desktop application for HTTP/HTTP... | 2026-02-23   |
 | [Sec-88](https://github.com/h0tak88r/Sec-88) | 220     | 62      | Cyber Security Notes, Methodology, Resources and T... | 2026-03-13   |
 | [asnip](https://github.com/harleo/asnip) | 220     | 26      | ASN target organization IP range attack surface ma... | 2026-02-04   |
 | [PyCript](https://github.com/Anof-cyber/PyCript) | 220     | 35      | Burp Suite extension to decrypt/encrypt any encryp... | 2026-03-15   |
-| [DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter) | 220     | 22      | Automated DLL Hijacking Discovery, Validation, and... | 2026-03-15   |
 | [bbr](https://github.com/codingo/bbr) | 218     | 33      | An open source tool to aid in command line driven ... | 2026-02-25   |
 | [github-endpoints](https://github.com/gwen001/github-endpoints) | 215     | 39      | Find endpoints on GitHub.       | 2026-03-12   |
 | [offsectools_www](https://github.com/gwen001/offsectools_www) | 214     | 27      | A vast collection of security tools and resources ... | 2026-02-19   |
 | [linx](https://github.com/riza/linx) | 213     | 10      | Reveals invisible links within JavaScript files | 2025-11-22   |
 | [quiver](https://github.com/stevemcilwain/quiver) | 213     | 41      | Quiver is the tool to manage all of your tools for... | 2026-03-04   |
 | [crithit](https://github.com/codingo/crithit) | 213     | 44      | Takes a single wordlist item and tests it one by o... | 2025-12-09   |
-| [bugbounty-targets](https://github.com/Osb0rn3/bugbounty-targets) | 212     | 28      | An automated GitHub Actions-based crawler that fet... | 2026-02-24   |
+| [bugbounty-targets](https://github.com/AmirMSafari/bugbounty-targets) | 212     | 28      | An automated GitHub Actions-based crawler that fet... | 2026-02-24   |
 | [postleaks](https://github.com/cosad3s/postleaks) | 212     | 37      | Search for sensitive data in Postman public librar... | 2026-03-04   |
 | [Astra](https://github.com/Sachin-v3rma/Astra) | 212     | 28      | Astra is a tool to find URLs and secrets inside a ... | 2025-09-09   |
-| [dsieve](https://github.com/trickest/dsieve) | 210     | 26      | Filter and enrich a list of subdomains by level | 2026-03-15   |
+| [dsieve](https://github.com/trickest/dsieve) | 212     | 26      | Filter and enrich a list of subdomains by level | 2026-03-20   |
 | [pentest_lab](https://github.com/oliverwiegers/pentest_lab) | 209     | 57      | Local penetration testing lab using docker-compose... | 2026-03-03   |
 | [privatecollaborator](https://github.com/putsi/privatecollaborator) | 209     | 46      | A script for installing private Burp Collaborator ... | 2026-02-12   |
+| [XSS-Payloads](https://github.com/ihebski/XSS-Payloads) | 208     | 65      | Collection of XSS Payloads for fun and profit | 2026-03-17   |
 | [gofingerprint](https://github.com/Static-Flow/gofingerprint) | 207     | 36      | GoFingerprint  is a Go tool for taking a list of t... | 2026-01-19   |
 | [research](https://github.com/bl4de/research) | 207     | 47      | Bug Bounty writeups, Vulnerability Research, Tutor... | 2026-01-16   |
-| [XSS-Payloads](https://github.com/ihebski/XSS-Payloads) | 206     | 65      | Collection of XSS Payloads for fun and profit | 2026-03-09   |
 | [Bug-Hunting-Colab](https://github.com/hackingguy/Bug-Hunting-Colab) | 205     | 89      | A Colab For Bug Hunting!        | 2026-03-11   |
 | [Minesweeper](https://github.com/codingo/Minesweeper) | 205     | 48      | A Burpsuite plugin (BApp) to aid in the detection ... | 2026-01-21   |
 | [osmedeus-base](https://github.com/osmedeus/osmedeus-base) | 204     | 40      | Build your own reconnaissance system with Osmedeus... | 2026-02-19   |
 | [Reconky-Automated_Bash_Script](https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script) | 204     | 42      | Reconky is an great Content Discovery bash script ... | 2025-12-31   |
 | [tools-tbhm](https://github.com/danilabs/tools-tbhm) | 201     | 56      | Tools of "The Bug Hunters Methodology V2 by @jhadd... | 2026-02-12   |
-| [jiraffe](https://github.com/0x48piraj/jiraffe) | 199     | 28      | One stop place for Jira security reconnaissance an... | 2026-03-15   |
-| [secfiles](https://github.com/edoardottt/secfiles) | 198     | 23      | My useful files for penetration tests, security as... | 2026-03-15   |
-| [bug-bounties](https://github.com/Lissy93/bug-bounties) | 197     | 30      | ⚔️ A compiled list of companies who have activ... | 2026-03-15   |
-| [GarudRecon](https://github.com/rix4uni/GarudRecon) | 197     | 46      | GarudRecon automates domain recon with top open-so... | 2026-03-15   |
-| [programs-watcher](https://github.com/Alikhalkhali/programs-watcher) | 195     | 40      | A Python script designed to monitor bug bounty pro... | 2026-03-09   |
+| [jiraffe](https://github.com/0x48piraj/jiraffe) | 200     | 28      | One stop place for Jira security reconnaissance an... | 2026-03-17   |
+| [secfiles](https://github.com/edoardottt/secfiles) | 200     | 24      | My useful files for penetration tests, security as... | 2026-03-22   |
+| [GarudRecon](https://github.com/rix4uni/GarudRecon) | 199     | 46      | GarudRecon automates domain recon with top open-so... | 2026-03-22   |
+| [bug-bounties](https://github.com/Lissy93/bug-bounties) | 198     | 30      | ⚔️ A compiled list of companies who have activ... | 2026-03-21   |
+| [programs-watcher](https://github.com/Alikhalkhali/programs-watcher) | 196     | 40      | A Python script designed to monitor bug bounty pro... | 2026-03-22   |
 | [bugbountydash](https://github.com/infosec-au/bugbountydash) | 194     | 37      | [depreciated] Terminal dashboard for bug bounty hu... | 2025-10-26   |
-| [Pentesting-Bugbounty](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty) | 193     | 45      | Bringing infosec community, group and leaders toge... | 2026-01-10   |
+| [Pentesting-Bugbounty](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty) | 194     | 45      | Bringing infosec community, group and leaders toge... | 2026-03-22   |
 | [Jira-Scan](https://github.com/random-robbie/Jira-Scan) | 190     | 45      | CVE-2017-9506 - SSRF            | 2025-10-18   |
 | [awesome-cybersec](https://github.com/dhotrey/awesome-cybersec) | 190     | 31      | A collection of awesome platforms, blogs, document... | 2026-03-14   |
-| [pp-finder](https://github.com/yeswehack/pp-finder) | 189     | 19      | PP-finder Help you find gadget for prototype pollu... | 2026-02-22   |
+| [pp-finder](https://github.com/yeswehack/pp-finder) | 189     | 19      | PP-finder Help you find gadget for prototype pollu... | 2026-03-18   |
 | [no-sandbox](https://github.com/sickcodes/no-sandbox) | 188     | 12      | No Sandbox - Applications That Run Chromium and Ch... | 2026-02-06   |
+| [knockknock](https://github.com/harleo/knockknock) | 188     | 28      | A simple reverse whois lookup tool which returns a... | 2026-03-18   |
+| [tugarecon](https://github.com/skynet0x01/tugarecon) | 188     | 31      | TugaRecon is an advanced subdomain reconnaissance ... | 2026-03-22   |
 | [favicorn](https://github.com/sharsil/favicorn) | 188     | 15      | All-sources tool to search websites by favicons | 2026-03-11   |
-| [knockknock](https://github.com/harleo/knockknock) | 187     | 28      | A simple reverse whois lookup tool which returns a... | 2026-02-12   |
-| [tugarecon](https://github.com/skynet0x01/tugarecon) | 187     | 30      | TugaRecon is an advanced subdomain reconnaissance ... | 2026-03-03   |
+| [CloudHunter](https://github.com/belane/CloudHunter) | 187     | 31      | AWS, Azure, Alibaba and Google bucket scanner | 2026-03-21   |
 | [Oneliner-Bugbounty](https://github.com/daffainfo/Oneliner-Bugbounty) | 186     | 40      | A collection  oneliner scripts for bug bounty | 2026-02-21   |
 | [sheye](https://github.com/zzzteph/sheye) | 186     | 44      | Opensource assets and vulnerability scanning tool | 2026-01-20   |
 | [Awesome-Dorks](https://github.com/0xPugal/Awesome-Dorks) | 186     | 46      | Dorks for Bug Bounty Hunting    | 2026-03-13   |
-| [CloudHunter](https://github.com/belane/CloudHunter) | 186     | 31      | AWS, Azure, Alibaba and Google bucket scanner | 2026-03-15   |
-| [ssrfuzz](https://github.com/ryandamour/ssrfuzz) | 185     | 20      | SSRFuzz is a tool to find Server Side Request Forg... | 2025-12-23   |
+| [ssrfuzz](https://github.com/ryandamour/ssrfuzz) | 185     | 21      | SSRFuzz is a tool to find Server Side Request Forg... | 2025-12-23   |
 | [Search-for-all-leaked-keys-secrets-using-one-regex-](https://github.com/Lu3ky13/Search-for-all-leaked-keys-secrets-using-one-regex-) | 183     | 36      | Search for all leaked keys/secrets using one regex... | 2026-02-21   |
 | [edge](https://github.com/iknowjason/edge) | 183     | 23      | Whois for the Cloud:  Recon tool for cloud provide... | 2026-01-13   |
-| [bulwark](https://github.com/softrams/bulwark) | 182     | 37      | An organizational asset and vulnerability manageme... | 2026-02-13   |
-| [DockerExploit](https://github.com/justakazh/DockerExploit) | 180     | 43      | Docker Remote API Scanner and Exploit | 2026-02-24   |
+| [bulwark](https://github.com/softrams/bulwark) | 183     | 37      | An organizational asset and vulnerability manageme... | 2026-03-17   |
 | [autosetup](https://github.com/shubhampathak/autosetup) | 180     | 33      | Auto setup is a bash script compatible with Debian... | 2025-12-09   |
 | [udon](https://github.com/dhn/udon) | 179     | 8       | A simple tool that helps to find assets/domains ba... | 2026-01-12   |
-| [Jbin-website-secret-scraper](https://github.com/h33tlit/Jbin-website-secret-scraper) | 178     | 30      | Jbin will gather all the URLs from the website and... | 2026-03-09   |
+| [DockerExploit](https://github.com/justakazh/DockerExploit) | 179     | 43      | Docker Remote API Scanner and Exploit | 2026-03-20   |
+| [Jbin-website-secret-scraper](https://github.com/h33tlit/Jbin-website-secret-scraper) | 178     | 29      | Jbin will gather all the URLs from the website and... | 2026-03-09   |
+| [BugBounty-Recon-Methodology](https://github.com/Maniesh-Neupane/BugBounty-Recon-Methodology) | 177     | 45      | BugBounty-Recon-Methodology     | 2026-03-22   |
 | [pentesting-dockerfiles](https://github.com/AvasDream/pentesting-dockerfiles) | 176     | 35      | Pentesting/Bugbounty Dockerfiles. | 2025-12-09   |
-| [BugBounty-Recon-Methodology](https://github.com/Maniesh-Neupane/BugBounty-Recon-Methodology) | 175     | 45      | BugBounty-Recon-Methodology     | 2026-03-14   |
 | [Rekon](https://github.com/shiblisec/Rekon) | 174     | 61      | The project contains multiple shell scripts for au... | 2025-12-31   |
 | [bugbountywiki](https://github.com/EdOverflow/bugbountywiki) | 173     | 15      | The Bug Bounty Wiki             | 2026-02-03   |
-| [JSRecon-Buddy](https://github.com/TheArqsz/JSRecon-Buddy) | 173     | 12      | A simple browser extension to quickly find interes... | 2026-03-08   |
+| [JSRecon-Buddy](https://github.com/TheArqsz/JSRecon-Buddy) | 173     | 12      | A simple browser extension to quickly find interes... | 2026-03-17   |
+| [Hacking-Bug-Bounty-Books](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books) | 173     | 48      | Collection of Combination of 👨🏻‍💻Ethica... | 2026-03-19   |
 | [CVE-2021-21123-PoC-Google-Chrome](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome) | 173     | 25      | 🐱‍💻 👍 Google Chrome - File System Acces... | 2026-02-28   |
 | [subby](https://github.com/n0mi1k/subby) | 172     | 11      | An uber fast and simple subdomain enumeration tool... | 2026-01-06   |
 | [CorsMe](https://github.com/Shivangx01b/CorsMe) | 172     | 27      | Cross Origin Resource Sharing MisConfiguration Sca... | 2026-03-01   |
 | [D4rkXSS](https://github.com/R0X4R/D4rkXSS) | 172     | 54      | A list of useful payloads and Bypass for Web Appli... | 2026-02-14   |
 | [sub.Monitor](https://github.com/e1abrador/sub.Monitor) | 172     | 20      | Self-hosted passive subdomain continous monitoring... | 2026-03-02   |
 | [web-hacking-playground](https://github.com/takito1812/web-hacking-playground) | 171     | 34      | Web application with vulnerabilities found in real... | 2026-03-04   |
-| [Hacking-Bug-Bounty-Books](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books) | 171     | 48      | Collection of Combination of 👨🏻‍💻Ethica... | 2026-03-12   |
-| [Bugbounty-Resources](https://github.com/1ndianl33t/Bugbounty-Resources) | 169     | 28      | A list of resources for those interested in gettin... | 2026-01-21   |
+| [Bugbounty-Resources](https://github.com/1ndianl33t/Bugbounty-Resources) | 170     | 28      | A list of resources for those interested in gettin... | 2026-03-21   |
 | [Hunt3r](https://github.com/EasyRecon/Hunt3r) | 169     | 28      | Made your bugbounty subdomains reconnaissance easi... | 2026-02-13   |
 | [VulnPlanet](https://github.com/yevh/VulnPlanet) | 167     | 24      | Vulnerable code snippets with fixes for Web2, Web3... | 2026-03-07   |
 | [proof-of-concepts](https://github.com/EdOverflow/proof-of-concepts) | 166     | 40      | A little collection of fun and creative proof of c... | 2026-02-01   |
@@ -445,19 +445,19 @@
 | [Bug-Hunting](https://github.com/IamLucif3r/Bug-Hunting) | 164     | 32      | A Collection of Notes, Methodologies, POCs and eve... | 2025-12-29   |
 | [CRLF-Injection-Scanner](https://github.com/MichaelStott/CRLF-Injection-Scanner) | 163     | 70      | Command line tool for testing CRLF injection on a ... | 2026-03-04   |
 | [XSSRocket](https://github.com/blackhatethicalhacking/XSSRocket) | 162     | 36      | XSSRocket it is a tool designed for offensive secu... | 2026-02-23   |
+| [medium-writeups](https://github.com/rix4uni/medium-writeups) | 162     | 28      | This repository updates latest Bug Bounty medium w... | 2026-03-23   |
 | [DataExtractor](https://github.com/gwen001/DataExtractor) | 161     | 38      | A Burp Suite extension to extract datas from sourc... | 2026-03-12   |
 | [X-Recon](https://github.com/joshkar/X-Recon) | 160     | 29      | A utility for detecting webpage inputs and conduct... | 2026-01-10   |
-| [medium-writeups](https://github.com/rix4uni/medium-writeups) | 160     | 28      | This repository updates latest Bug Bounty medium w... | 2026-03-15   |
 | [SourceWolf](https://github.com/ksharinarayanan/SourceWolf) | 156     | 44      | Amazingly fast response crawler to find juicy stuf... | 2026-02-28   |
 | [SQLi-Query-Tampering](https://github.com/xer0times/SQLi-Query-Tampering) | 156     | 24      | SQLi Query Tampering extends and adds custom Paylo... | 2026-02-24   |
 | [webstor](https://github.com/RossGeerlings/webstor) | 156     | 19      | WebStor efficiently enumerates all websites across... | 2025-12-09   |
 | [smartrecon](https://github.com/kh4sh3i/smartrecon) | 156     | 43      | smartrecon is a powerful shell script to automate ... | 2026-03-04   |
+| [xsstools](https://github.com/yeswehack/xsstools) | 155     | 14      | xss development frameworks, with the goal of makin... | 2026-03-19   |
 | [webdork](https://github.com/HACKE-RC/webdork) | 155     | 26      | A Python tool to automate some dorking stuff to fi... | 2026-02-23   |
-| [xsstools](https://github.com/yeswehack/xsstools) | 154     | 14      | xss development frameworks, with the goal of makin... | 2026-03-13   |
 | [Task-Ninja](https://github.com/RikunjSindhwad/Task-Ninja) | 154     | 25      | Ultimate Tasks Automation Framework for Hackers, D... | 2026-02-13   |
+| [insiders](https://github.com/trickest/insiders) | 154     | 23      | Archive of Potential Insider Threats | 2026-03-22   |
 | [CloudSniffer](https://github.com/Alaa-abdulridha/CloudSniffer) | 153     | 69      | CloudSniffer is a powerful tool designed to aid in... | 2026-02-23   |
-| [insiders](https://github.com/trickest/insiders) | 153     | 23      | Archive of Potential Insider Threats | 2026-03-11   |
-| [bugbountybloglist](https://github.com/g0ldencybersec/bugbountybloglist) | 152     | 24      | Quick research done on some bug bounty blogs! Chec... | 2026-03-14   |
+| [bugbountybloglist](https://github.com/g0ldencybersec/bugbountybloglist) | 152     | 23      | Quick research done on some bug bounty blogs! Chec... | 2026-03-14   |
 | [OSINT-SearchOperators](https://github.com/BushidoUK/OSINT-SearchOperators) | 152     | 22      | No description                  | 2026-03-12   |
 | [Bug-Bounty-Tips](https://github.com/6vr/Bug-Bounty-Tips) | 152     | 32      |  A collection of notes, checklists, writeups on bu... | 2026-01-02   |
 | [scriptkiddi3](https://github.com/thecyberneh/scriptkiddi3) | 152     | 26      | Streamline your recon and vulnerability detection ... | 2026-03-05   |
@@ -466,25 +466,25 @@
 | [jsleak](https://github.com/0xTeles/jsleak) | 151     | 27      | a Go code to detect leaks in JS files via regex pa... | 2026-03-11   |
 | [keyhacks.sh](https://github.com/gwen001/keyhacks.sh) | 151     | 25      | Automation of tokens/api keys testing. | 2026-02-22   |
 | [Swiftness](https://github.com/ehrishirajsharma/Swiftness) | 150     | 31      | A note-taking macOS app for penetration-testers. | 2025-12-24   |
+| [DNS-Discovery](https://github.com/m0nad/DNS-Discovery) | 149     | 41      | DNS-Discovery is a multithreaded subdomain brutefo... | 2026-03-19   |
 | [BugBounty](https://github.com/xer0times/BugBounty) | 148     | 33      | Bug Bounty stuffs, payloads, scripts, profiles, ti... | 2026-02-10   |
 | [nodesub](https://github.com/pikpikcu/nodesub) | 148     | 25      | Nodesub is a command-line tool for finding subdoma... | 2025-02-24   |
-| [DNS-Discovery](https://github.com/m0nad/DNS-Discovery) | 148     | 41      | DNS-Discovery is a multithreaded subdomain brutefo... | 2025-10-17   |
 | [faillapop](https://github.com/Faillapop/faillapop) | 148     | 12      | Vulnerable-by-design solidity protocol to help Web... | 2026-02-28   |
 | [cazador_unr](https://github.com/YasserGersy/cazador_unr) | 148     | 57      | Hacking tools                   | 2025-12-22   |
 | [kitsec-core](https://github.com/kitsec-labs/kitsec-core) | 148     | 10      | Pentesting, made easy.          | 2026-03-01   |
+| [cewler](https://github.com/roys/cewler) | 147     | 16      | CeWLeR - Custom Word List generator Redefined. CeW... | 2026-03-19   |
 | [BB-legal-FR](https://github.com/noraj/BB-legal-FR) | 147     | 5       | Quelques conseils autour des obligations légales,... | 2026-03-05   |
 | [ThreatTracer](https://github.com/anmolksachan/ThreatTracer) | 146     | 23      | ThreatTracer - A tool to identify CVE by name & ve... | 2026-03-08   |
-| [cewler](https://github.com/roys/cewler) | 145     | 16      | CeWLeR - Custom Word List generator Redefined. CeW... | 2026-03-13   |
 | [uddup](https://github.com/rotemreiss/uddup) | 145     | 21      | Urls de-duplication tool for better recon. | 2025-12-09   |
 | [ldap2json](https://github.com/p0dalirius/ldap2json) | 145     | 24      | The ldap2json script allows you to extract the who... | 2026-03-11   |
 | [PassDetective](https://github.com/aydinnyunus/PassDetective) | 145     | 8       | PassDetective is a command-line tool that scans sh... | 2026-03-12   |
-| [XSSNow](https://github.com/dr34mhacks/XSSNow) | 143     | 46      | Find XSS payloads that actually work by filtering ... | 2026-03-12   |
+| [XSSNow](https://github.com/dr34mhacks/XSSNow) | 144     | 46      | Find XSS payloads that actually work by filtering ... | 2026-03-22   |
+| [bugbounty_tools](https://github.com/dawgyg/bugbounty_tools) | 143     | 24      | Collection of scripts and tools used during bug bo... | 2026-03-19   |
 | [ParaForge](https://github.com/Anof-cyber/ParaForge) | 143     | 19      | A BurpSuite extension to create a custom word-list... | 2026-03-09   |
 | [SuperLibrary](https://github.com/MrM8BRH/SuperLibrary) | 143     | 36      | A massive, curated collection of information secur... | 2026-03-12   |
 | [goverview](https://github.com/j3ssie/goverview) | 142     | 24      | goverview - Get an overview of the list of URLs | 2026-02-19   |
-| [bugbounty_tools](https://github.com/dawgyg/bugbounty_tools) | 141     | 23      | Collection of scripts and tools used during bug bo... | 2026-03-07   |
 | [writeup-miner](https://github.com/Spix0r/writeup-miner) | 141     | 16      | This is a useful Python script for extracting bug ... | 2026-02-13   |
-| [bughunter](https://github.com/cenmurong/bughunter) | 137     | 53      | Bug Hunter is a command-line tool designed to assi... | 2026-03-14   |
+| [bughunter](https://github.com/cenmurong/bughunter) | 138     | 53      | Bug Hunter is a command-line tool designed to assi... | 2026-03-21   |
 | [FastDork](https://github.com/SKVNDR/FastDork) | 137     | 21      | ⚡Chrome extension allows you to create lists of ... | 2026-02-05   |
 | [misc](https://github.com/CristiVlad25/misc) | 133     | 24      | Scripts and other stuff.        | 2026-03-09   |
 | [asnrecon](https://github.com/orlyjamie/asnrecon) | 133     | 30      | ASN reconnaissance script       | 2026-02-22   |
@@ -492,13 +492,13 @@
 | [pentest-everything](https://github.com/maksyche/pentest-everything) | 133     | 41      | This is my penetration testing cheatsheet | 2026-02-15   |
 | [subsnipe](https://github.com/dub-flow/subsnipe) | 132     | 18      | SubSnipe is a tool designed to help find subdomain... | 2026-03-03   |
 | [SSRFPwned](https://github.com/blackhatethicalhacking/SSRFPwned) | 132     | 25      | Checks for SSRF using built-in custom Payloads aft... | 2026-02-21   |
-| [Blind-SSRF](https://github.com/0xAwali/Blind-SSRF) | 131     | 21      | Nuclei Templates to reproduce Cracking the lens's ... | 2026-03-10   |
-| [dnsanity](https://github.com/nil0x42/dnsanity) | 131     | 5       | High-performance DNS validator using template-base... | 2026-03-03   |
-| [xss-payload-list](https://github.com/Proviesec/xss-payload-list) | 130     | 31      | xss-payload-list                | 2026-03-06   |
+| [dnsanity](https://github.com/nil0x42/dnsanity) | 132     | 5       | High-performance DNS validator using template-base... | 2026-03-19   |
+| [xss-payload-list](https://github.com/Proviesec/xss-payload-list) | 131     | 32      | xss-payload-list                | 2026-03-22   |
+| [Blind-SSRF](https://github.com/0xAwali/Blind-SSRF) | 130     | 21      | Nuclei Templates to reproduce Cracking the lens's ... | 2026-03-22   |
 | [chomtesh](https://github.com/mr-rizwan-syed/chomtesh) | 130     | 24      | CHOMTE.SH is a powerful shell script designed to a... | 2026-03-03   |
 | [All-in-one_BugBounty_PDF_bundles](https://github.com/1ndianl33t/All-in-one_BugBounty_PDF_bundles) | 129     | 36      | No description                  | 2026-02-20   |
+| [Rad-Team-tools](https://github.com/s7safe/Rad-Team-tools) | 129     | 15      | 赏金技巧|红队|RedTeam|信息侦查|漏洞挖 | 2026-03-20   |
 | [Custom-Nuclei-Templates](https://github.com/CharanRayudu/Custom-Nuclei-Templates) | 128     | 35      | No description                  | 2026-02-12   |
-| [Rad-Team-tools](https://github.com/s7safe/Rad-Team-tools) | 128     | 15      | 赏金技巧|红队|RedTeam|信息侦查|漏洞挖 | 2026-01-26   |
 | [Eagle](https://github.com/BitTheByte/Eagle) | 128     | 34      | Multithreaded Plugin based vulnerability scanner f... | 2026-02-28   |
 | [WordList](https://github.com/rix4uni/WordList) | 128     | 38      | Custom wordlist, updated regularly | 2026-02-26   |
 | [bugbounty](https://github.com/swisscom/bugbounty) | 127     | 16      | Swisscom Vulnerability Disclosure Policy & Bug Bou... | 2026-03-14   |
@@ -513,80 +513,81 @@
 | [Pentest-Mapper](https://github.com/Anof-cyber/Pentest-Mapper) | 120     | 38      | A Burp Suite Extension for pentester and bug bount... | 2026-02-04   |
 | [micro-sentry](https://github.com/Tinkoff/micro-sentry) | 118     | 8       | Tiny Sentry client with idiomatic wrapper for Angu... | 2024-09-09   |
 | [Sub-Drill](https://github.com/Fadavvi/Sub-Drill) | 118     | 31      | A very (very) FAST and simple subdomain finder bas... | 2026-02-13   |
-| [arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) | 118     | 13      | The classic launcher, evolved. Fast, Go-based comm... | 2026-03-14   |
-| [bugbounty](https://github.com/yaworsk/bugbounty) | 117     | 18      | All Things Bug Bounty           | 2026-03-11   |
 | [Bug-Bounty-Tools](https://github.com/ethicalhackingplayground/Bug-Bounty-Tools) | 117     | 44      | The tools I have programmed to help me with bugbou... | 2026-02-12   |
 | [ghsec-jaeles-signatures](https://github.com/ghsec/ghsec-jaeles-signatures) | 117     | 40      | Signatures for jaeles scanner by @j3ssie | 2026-01-31   |
-| [OK-VPS](https://github.com/mrco24/OK-VPS) | 117     | 43      | Bug Bounty Vps Setup Tools      | 2026-01-10   |
+| [HTB-certified-bug-bounty-hunter-exam-cheetsheet](https://github.com/TheUnknownSoul/HTB-certified-bug-bounty-hunter-exam-cheetsheet) | 117     | 19      | All cheetsheets with main information from HTB CBB... | 2026-03-22   |
+| [arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) | 117     | 13      | The classic launcher, evolved. Fast, Go-based comm... | 2026-03-19   |
+| [OK-VPS](https://github.com/mrco24/OK-VPS) | 117     | 44      | Bug Bounty Vps Setup Tools      | 2026-01-10   |
 | [goblob](https://github.com/Macmod/goblob) | 117     | 6       | A fast enumeration tool for publicly exposed Azure... | 2026-03-09   |
+| [bugbounty](https://github.com/yaworsk/bugbounty) | 116     | 18      | All Things Bug Bounty           | 2026-03-22   |
 | [bugbounty-wordlist](https://github.com/buggysolid/bugbounty-wordlist) | 116     | 19      | Real world bug bounty wordlists | 2026-02-12   |
-| [HTB-certified-bug-bounty-hunter-exam-cheetsheet](https://github.com/TheUnknownSoul/HTB-certified-bug-bounty-hunter-exam-cheetsheet) | 116     | 20      | All cheetsheets with main information from HTB CBB... | 2026-03-15   |
+| [smugglex](https://github.com/hahwul/smugglex) | 116     | 12      | Rust-powered HTTP Request Smuggling Scanner. | 2026-03-20   |
 | [xssfinder](https://github.com/Damian89/xssfinder) | 116     | 37      | Toolset for detecting reflected xss in websites | 2026-03-09   |
-| [smugglex](https://github.com/hahwul/smugglex) | 116     | 11      | Rust-powered HTTP Request Smuggling Scanner. | 2026-03-14   |
 | [RegexPassive](https://github.com/hahwul/RegexPassive) | 116     | 24      | 🔭 Collection of regexp pattern for security pas... | 2026-02-12   |
 | [crtfinder](https://github.com/eslam3kl/crtfinder) | 115     | 30      | Fast tool to extract all subdomains from crt.sh we... | 2026-02-25   |
 | [CVE-2022-23808](https://github.com/dipakpanchal05/CVE-2022-23808) | 115     | 23      | phpMyAdmin XSS                  | 2026-01-17   |
-| [cvemapping](https://github.com/rix4uni/cvemapping) | 115     | 18      | This repo Gathers all available cve exploits from ... | 2026-03-15   |
-| [bugbounty-openvpn-socks](https://github.com/honoki/bugbounty-openvpn-socks) | 113     | 24      | Run all your bug bounty VPN profiles in parallel a... | 2026-01-10   |
-| [spellbook](https://github.com/htrgouvea/spellbook) | 112     | 28      | Framework for rapid development of offensive secur... | 2026-03-15   |
+| [cvemapping](https://github.com/rix4uni/cvemapping) | 114     | 18      | This repo Gathers all available cve exploits from ... | 2026-03-22   |
+| [spellbook](https://github.com/htrgouvea/spellbook) | 112     | 28      | Framework for rapid development of offensive secur... | 2026-03-22   |
 | [log4j](https://github.com/trickest/log4j) | 112     | 22      | Trickest Workflow for discovering log4j vulnerabil... | 2025-10-14   |
 | [LFITester](https://github.com/kostas-pa/LFITester) | 111     | 26      | LFITester is a Python3 program that automates the ... | 2026-03-03   |
 | [AWS-Scanner](https://github.com/random-robbie/AWS-Scanner) | 110     | 45      | Scans a list of websites for Cloudfront or S3 Buck... | 2026-01-16   |
 | [SubEvil](https://github.com/Evil-Twins-X/SubEvil) | 110     | 14      | SubEvil is an advanced open source intelligence fr... | 2026-01-09   |
 | [vulnsearch](https://github.com/domssilva/vulnsearch) | 109     | 23      | A deep look at some recon methodologies and web-ap... | 2025-10-25   |
 | [bhedak](https://github.com/R0X4R/bhedak) | 109     | 21      | A replacement of "qsreplace", accepts URLs as stan... | 2026-03-07   |
+| [russkiwlst](https://github.com/sharsi1/russkiwlst) | 109     | 30      | Bundle of common passwords targeting RUSSIAN-speak... | 2026-03-20   |
 | [X-RSA](https://github.com/X-Vector/X-RSA) | 109     | 28      | Cryptography Tool | RSA Attacks | 2025-12-09   |
-| [russkiwlst](https://github.com/sharsi1/russkiwlst) | 108     | 30      | Bundle of common passwords targeting RUSSIAN-speak... | 2026-03-11   |
-| [FrogPost](https://github.com/thisis0xczar/FrogPost) | 108     | 8       | FrogPost: postMessage Security Testing Tool | 2026-02-02   |
-| [Toxic-MD](https://github.com/Joker-Reincarnated/Toxic-MD) | 107     | 283     | Toxic MD is a powerful WhatsApp crash and bug bot ... | 2026-03-05   |
+| [FrogPost](https://github.com/thisis0xczar/FrogPost) | 108     | 9       | FrogPost: postMessage Security Testing Tool | 2026-02-02   |
+| [Toxic-MD](https://github.com/Joker-Reincarnated/Toxic-MD) | 107     | 284     | Toxic MD is a powerful WhatsApp crash and bug bot ... | 2026-03-05   |
 | [gitlab-subdomains](https://github.com/gwen001/gitlab-subdomains) | 107     | 13      | Find subdomains on GitLab.      | 2026-03-08   |
 | [neural-network-hacking](https://github.com/tigthor/neural-network-hacking) | 107     | 28      | Hacking the Singularity. Deep learning hacking. We... | 2026-03-06   |
+| [hack-pet](https://github.com/hahwul/hack-pet) | 107     | 19      | 🐰 Managing command snippets for hackers/bug bou... | 2026-03-18   |
+| [android-h1](https://github.com/s7safe/android-h1) | 106     | 30      | 移动安全漏洞挖掘专家SKILL，基于 Hacke... | 2026-03-22   |
 | [mzap](https://github.com/hahwul/mzap) | 106     | 17      | ⚡️ Multiple target ZAP Scanning | 2026-03-14   |
-| [hack-pet](https://github.com/hahwul/hack-pet) | 106     | 19      | 🐰 Managing command snippets for hackers/bug bou... | 2026-01-29   |
+| [XSS-Payload-without-Anything](https://github.com/hahwul/XSS-Payload-without-Anything) | 105     | 31      | XSS Payload without Anything.   | 2026-03-20   |
+| [BackupFinder](https://github.com/MuhammadWaseem29/BackupFinder) | 105     | 19      | BackupFinder discovers backup files on web servers... | 2026-03-21   |
+| [wwwordlist](https://github.com/Zarcolio/wwwordlist) | 105     | 13      | Wwwordlist is a wordlist generator for pentesters ... | 2026-03-22   |
 | [bugradar](https://github.com/samogod/bugradar) | 105     | 18      | Advanced external automation on bug bounty program... | 2026-02-17   |
-| [android-h1](https://github.com/s7safe/android-h1) | 104     | 31      | 移动安全漏洞挖掘专家SKILL，基于 Hacke... | 2026-03-13   |
 | [related-domains](https://github.com/gwen001/related-domains) | 104     | 7       | Find related domains of a given domain. | 2026-02-26   |
-| [XSS-Payload-without-Anything](https://github.com/hahwul/XSS-Payload-without-Anything) | 104     | 31      | XSS Payload without Anything.   | 2025-12-19   |
-| [BackupFinder](https://github.com/MuhammadWaseem29/BackupFinder) | 104     | 19      | BackupFinder discovers backup files on web servers... | 2026-03-02   |
-| [wwwordlist](https://github.com/Zarcolio/wwwordlist) | 104     | 13      | Wwwordlist is a wordlist generator for pentesters ... | 2026-02-12   |
 | [awesome-security](https://github.com/mbcrump/awesome-security) | 104     | 9       | A collection of awesome ethical hacking and securi... | 2026-02-07   |
 | [awesome-reference](https://github.com/agussetyar/awesome-reference) | 102     | 34      |  Reference list of useful links to learn about pro... | 2026-01-03   |
-| [PSFuzz](https://github.com/Proviesec/PSFuzz) | 102     | 22      | Proviesec Fuzz Scanner - dir/path web scanner | 2026-03-15   |
+| [PSFuzz](https://github.com/Proviesec/PSFuzz) | 102     | 22      | Proviesec Fuzz Scanner - dir/path web scanner | 2026-03-22   |
 | [fuzzlists](https://github.com/nu11pointer/fuzzlists) | 102     | 17      | A collection of useful lists for Penetration Testi... | 2025-11-28   |
 | [bugbounty_stuff](https://github.com/zPrototype/bugbounty_stuff) | 101     | 13      | No description                  | 2025-10-20   |
+| [HackerToolkit](https://github.com/ChrisJr404/HackerToolkit) | 101     | 5       | HackerToolkit offers a curated selection of tools ... | 2026-03-18   |
 | [hfuzz](https://github.com/thehlopster/hfuzz) | 101     | 13      | Wordlist for web fuzzing, made from a variety of r... | 2026-01-23   |
 | [cdn-ranges](https://github.com/taythebot/cdn-ranges) | 100     | 25      | Tool to download IPv4 and IPv6 ranges of CDN provi... | 2026-03-15   |
 | [JWTweak](https://github.com/rishuranjanofficial/JWTweak) | 100     | 19      | Detects the algorithm of input JWT Token and provi... | 2025-08-06   |
 | [Digital-Forensics-Tools](https://github.com/yogsec/Digital-Forensics-Tools) | 100     | 37      | A curated list of essential digital forensics tool... | 2026-03-10   |
 | [CosmWasm-audit-roadmap](https://github.com/jcsec-security/CosmWasm-audit-roadmap) | 100     | 16      | Roadmap to get up to speed with CosmWasm smart con... | 2026-02-12   |
-| [payout-targets-data](https://github.com/osamahamad/payout-targets-data) | 99      | 16      | Provides public bug bounty programs in-scope data ... | 2026-03-14   |
-| [HackerToolkit](https://github.com/ChrisJr404/HackerToolkit) | 99      | 5       | HackerToolkit offers a curated selection of tools ... | 2026-03-10   |
+| [payout-targets-data](https://github.com/osamahamad/payout-targets-data) | 99      | 16      | Provides public bug bounty programs in-scope data ... | 2026-03-20   |
 | [Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) | 99      | 35      | Scripts that are intended to help you in your pen-... | 2026-03-13   |
-| [targets](https://github.com/BugBountyResources/targets) | 99      | 17      | A collection of over 5.1 million sub-domains and a... | 2025-12-09   |
 | [Complete-Bug-Bounty-Roadmap](https://github.com/n4itr0-07/Complete-Bug-Bounty-Roadmap) | 99      | 4       | 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗕𝘂𝗴 𝗕 | 2026-03-13   |
 | [AttackSurfaceManagement](https://github.com/1N3/AttackSurfaceManagement) | 98      | 21      | Discover the attack surface and prioritize risks w... | 2026-02-13   |
+| [fluffy-barnacle](https://github.com/dstours/fluffy-barnacle) | 98      | 10      | Fluffy-Barnacle -  Disposable, ephemeral network i... | 2026-03-22   |
 | [wadl-dumper](https://github.com/dwisiswant0/wadl-dumper) | 98      | 19      | Dump all available paths and/or endpoints on WADL ... | 2026-01-22   |
-| [gerobug](https://github.com/gerosecurity/gerobug) | 98      | 22      | The First Open Source Bug Bounty Platform | 2026-02-21   |
+| [targets](https://github.com/BugBountyResources/targets) | 98      | 17      | A collection of over 5.1 million sub-domains and a... | 2026-03-19   |
+| [gerobug](https://github.com/gerosecurity/gerobug) | 98      | 23      | The First Open Source Bug Bounty Platform | 2026-02-21   |
 | [ninjasworkout](https://github.com/effortlessdevsec/ninjasworkout) | 97      | 25      | Vulnerable NodeJS Web Application | 2025-11-28   |
+| [YesWeBurp](https://github.com/yeswehack/YesWeBurp) | 97      | 24      | YesWeHack Api Extension for Burp | 2026-03-19   |
 | [awesome-smartcontract-hacking](https://github.com/tamjid0x01/awesome-smartcontract-hacking) | 97      | 15      | Here we collect and discuss for Smart contract sec... | 2026-03-15   |
 | [Email-Vulnerability-Checker](https://github.com/BLACK-SCORP10/Email-Vulnerability-Checker) | 97      | 13      | Find Email Spoofing Vulnerablity of domains | 2026-03-03   |
-| [YesWeBurp](https://github.com/yeswehack/YesWeBurp) | 96      | 24      | YesWeHack Api Extension for Burp | 2026-03-13   |
+| [BugBountyTools](https://github.com/0xKayala/BugBountyTools) | 96      | 32      | A-to-Z Bug Bounty Hunting Tools | 2026-03-22   |
+| [airecon](https://github.com/pikpikcu/airecon) | 96      | 14      | AIRecon is an autonomous cybersecurity agent that ... | 2026-03-22   |
 | [Resources](https://github.com/BugBountyResources/Resources) | 96      | 19      | A Storehouse of resources related to Bug Bounty Hu... | 2026-02-12   |
-| [BugBountyTools](https://github.com/0xKayala/BugBountyTools) | 95      | 32      | A-to-Z Bug Bounty Hunting Tools | 2026-03-15   |
 | [BugBountyKnowledgeBase](https://github.com/InsiderPhD/BugBountyKnowledgeBase) | 95      | 27      | Obsidian Vault for bug bounty hunters | 2026-01-16   |
-| [learn250](https://github.com/AkashHamal0x01/learn250) | 95      | 14      | No description                  | 2026-03-04   |
+| [learn250](https://github.com/AkashHamal0x01/learn250) | 95      | 13      | No description                  | 2026-03-04   |
 | [nipejs](https://github.com/i5nipe/nipejs) | 95      | 20      | Simplify your life with leak detection in JavaScri... | 2026-03-04   |
 | [mainRecon](https://github.com/l34r00t/mainRecon) | 93      | 16      | mainRecon is an automated reconnaissance docker im... | 2026-02-18   |
 | [Agnee](https://github.com/R0X4R/Agnee) | 93      | 17      | Find sensitive information using dorks from differ... | 2026-03-07   |
 | [OffensiveCloudDistribution](https://github.com/jordanpotti/OffensiveCloudDistribution) | 93      | 12      | Leverage the ability of Terraform and AWS or GCP t... | 2025-12-27   |
 | [AdvancedKeyHacks](https://github.com/udit-thakkur/AdvancedKeyHacks) | 93      | 28      | API Key/Token Exploitation Made easy. | 2026-02-28   |
 | [Bugs-feed](https://github.com/pwnedshell/Bugs-feed) | 93      | 16      | Bug's feed is a local hosted portal where you can ... | 2025-09-15   |
+| [Twitter-Seclists](https://github.com/securibee/Twitter-Seclists) | 93      | 11      | Curated lists of InfoSec on Twitter. Find out who'... | 2026-03-22   |
 | [KaliIntelligenceSuite](https://github.com/chopicalqui/KaliIntelligenceSuite) | 93      | 26      | Kali Intelligence Suite (KIS) shall aid in the fas... | 2026-03-07   |
-| [Twitter-Seclists](https://github.com/securibee/Twitter-Seclists) | 92      | 11      | Curated lists of InfoSec on Twitter. Find out who'... | 2026-03-10   |
+| [BugBounty](https://github.com/gotr00t0day/BugBounty) | 92      | 15      | A quick bug bounty guide for beginners | 2026-03-16   |
 | [talosplus](https://github.com/tarunKoyalwar/talosplus) | 92      | 17      | Talosplus is a fast and robust template based Inte... | 2026-01-01   |
-| [BugBounty](https://github.com/gotr00t0day/BugBounty) | 91      | 15      | A quick bug bounty guide for beginners | 2026-03-05   |
+| [BurnWP-Framework](https://github.com/drcrypterdotru/BurnWP-Framework) | 92      | 29      | BurnWP Advanced Exploiter System instead Scanner &... | 2026-03-22   |
 | [Hacking-Insecure-Firebase-Database](https://github.com/tauh33dkhan/Hacking-Insecure-Firebase-Database) | 91      | 10      | Insecure Firebase | Bugbounty | Hacking Insecure F... | 2026-02-13   |
-| [fluffy-barnacle](https://github.com/dstours/fluffy-barnacle) | 91      | 10      | Fluffy-Barnacle -  Disposable, ephemeral network i... | 2026-03-14   |
 | [CVE-2022-41040-POC](https://github.com/kljunowsky/CVE-2022-41040-POC) | 91      | 12      | CVE-2022-41040 - Server Side Request Forgery (SSRF... | 2025-12-26   |
 | [Acamar](https://github.com/si9int/Acamar) | 90      | 24      | A Python3 based single-file subdomain enumerator | 2026-02-12   |
 | [bug-bounty-responses](https://github.com/EdOverflow/bug-bounty-responses) | 90      | 21      | A collection of response templates for invalid bug... | 2025-10-04   |
@@ -594,34 +595,33 @@
 | [WayBackupFinder](https://github.com/anmolksachan/WayBackupFinder) | 89      | 23      | A passive way to find backups/ sensitive informati... | 2026-03-11   |
 | [vhost-brute](https://github.com/gwen001/vhost-brute) | 89      | 31      | A PHP tool to brute force vhost configured on a se... | 2026-01-15   |
 | [backup-gen](https://github.com/Nishantbhagat57/backup-gen) | 89      | 12      | Backup Files Wordlist Generator - generate a compr... | 2026-03-08   |
-| [BurnWP-Framework](https://github.com/drcrypterdotru/BurnWP-Framework) | 89      | 27      | BurnWP Advanced Exploiter System instead Scanner &... | 2026-03-14   |
-| [Bugbounty-Resources](https://github.com/e11i0t4lders0n/Bugbounty-Resources) | 88      | 27      | No description                  | 2026-02-22   |
+| [Bugbounty-Resources](https://github.com/e11i0t4lders0n/Bugbounty-Resources) | 88      | 26      | No description                  | 2026-02-22   |
 | [BugBountyTips](https://github.com/VoorivexTeam/BugBountyTips) | 88      | 4       | No description                  | 2026-02-13   |
 | [jsdif](https://github.com/mirzaaghazadeh/jsdif) | 88      | 14      | A powerful JavaScript monitoring tool for bug boun... | 2026-03-02   |
 | [PastebinMarkdownXSS](https://github.com/Nhoya/PastebinMarkdownXSS) | 88      | 10      | XSS in pastebin.com and reddit.com via unsanitized... | 2025-12-09   |
 | [HydraRecon](https://github.com/aufzayed/HydraRecon) | 88      | 14      | All In One, Fast, Easy Recon Tool | 2026-02-12   |
-| [XXElixir](https://github.com/kljunowsky/XXElixir) | 88      | 7       | This tool is designed to test for file upload and ... | 2026-03-02   |
+| [XXElixir](https://github.com/kljunowsky/XXElixir) | 88      | 8       | This tool is designed to test for file upload and ... | 2026-03-02   |
 | [s3reverse](https://github.com/hahwul/s3reverse) | 87      | 28      | The format of various s3 buckets is convert in one... | 2026-02-14   |
 | [fresh.py](https://github.com/teknogeek/fresh.py) | 87      | 18      | An efficient multi-threaded DNS resolver validator | 2025-05-27   |
 | [nuubi](https://github.com/pikpikcu/nuubi) | 87      | 23      | Nuubi Tools (Information-ghatering|Scanner|Recon.) | 2025-12-30   |
 | [dnspy](https://github.com/gwen001/dnspy) | 87      | 22      | Find subdomains and takeovers.  | 2026-01-23   |
+| [directory-files-payload-lists](https://github.com/Proviesec/directory-files-payload-lists) | 86      | 24      | Directory scans                 | 2026-03-16   |
 | [Subhunter](https://github.com/umutcamliyurt/Subhunter) | 86      | 22      | A fast subdomain takeover tool  | 2026-03-07   |
 | [MobSecco](https://github.com/Anof-cyber/MobSecco) | 86      | 12      | Cloning apk for bypassing code tampering detection... | 2026-02-13   |
-| [directory-files-payload-lists](https://github.com/Proviesec/directory-files-payload-lists) | 85      | 24      | Directory scans                 | 2026-01-08   |
 | [bug_bounty_checklist](https://github.com/shubhdhungana/bug_bounty_checklist) | 85      | 20      | My Notes & Resources Of Bug Bounty Checklists | 2026-03-10   |
 | [bounty](https://github.com/yesnet0/bounty) | 85      | 29      | Misc bounty and vulndisc things | 2026-01-03   |
 | [CVE-2021-43008-AdminerRead](https://github.com/p0dalirius/CVE-2021-43008-AdminerRead) | 85      | 17      | Exploit tool for CVE-2021-43008 Adminer 1.0 up to ... | 2026-03-01   |
 | [spk](https://github.com/dhn/spk) | 85      | 5       | spk aka spritzgebaeck: A small OSINT/Recon tool to... | 2026-02-24   |
+| [bugbounty-disclosed-reports](https://github.com/marcotuliocnd/bugbounty-disclosed-reports) | 84      | 22      | Public Disclosed Bug Bounty Reports formated in ma... | 2026-03-22   |
 | [hinject](https://github.com/dwisiswant0/hinject) | 84      | 16      | Host Header Injection Checker   | 2026-01-31   |
 | [MinerInTheMiddle](https://github.com/DotNetRussell/MinerInTheMiddle) | 84      | 24      | This application was created as a POC for how to s... | 2026-02-25   |
 | [swiss-bugbounty-programs](https://github.com/antoinet/swiss-bugbounty-programs) | 83      | 15      | List of bug bounty and coordinated vulnerability d... | 2025-12-06   |
+| [frida_setup](https://github.com/az0mb13/frida_setup) | 83      | 16      | One-click installer for Frida and Burp certs for S... | 2026-03-18   |
 | [Custom-Nuclei-Templates](https://github.com/0xKayala/Custom-Nuclei-Templates) | 83      | 21      | Community curated list of templates for the nuclei... | 2026-03-13   |
 | [nuclei-MonaCodeScanner](https://github.com/KaanBicaklar/nuclei-MonaCodeScanner) | 83      | 8       | Nuclei templates for source code analysis. Detects... | 2026-02-24   |
 | [sqli-postgres-rce-privesc-hacking-playground](https://github.com/filipkarc/sqli-postgres-rce-privesc-hacking-playground) | 83      | 23      | Application with SQL Injection vulnerability and p... | 2026-01-13   |
-| [bugbounty-disclosed-reports](https://github.com/marcotuliocnd/bugbounty-disclosed-reports) | 82      | 22      | Public Disclosed Bug Bounty Reports formated in ma... | 2026-03-15   |
 | [rapiddns](https://github.com/nullt3r/rapiddns) | 82      | 20      | Rapidly enumerate subdomains and domains using rap... | 2026-02-12   |
 | [PyCript-WebSocket](https://github.com/Anof-cyber/PyCript-WebSocket) | 82      | 10      | PyCript Websocket is now merge into https://github... | 2026-01-13   |
-| [frida_setup](https://github.com/az0mb13/frida_setup) | 82      | 16      | One-click installer for Frida and Burp certs for S... | 2026-02-04   |
 | [YAPS](https://github.com/Nickguitar/YAPS) | 82      | 9       | Yet Another PHP Shell - The most complete PHP reve... | 2025-12-09   |
 | [Inventus](https://github.com/nmalcolm/Inventus) | 81      | 28      | Inventus is a spider designed to find subdomains o... | 2025-12-09   |
 | [Arsenal](https://github.com/Azathothas/Arsenal) | 81      | 8       | Hastly written Tools & Scripts for Personal Use Ca... | 2026-02-26   |
@@ -637,96 +637,95 @@
 | [LFIDump](https://github.com/p0dalirius/LFIDump) | 78      | 15      | A simple python script to dump remote files throug... | 2026-03-08   |
 | [bug-bounty-writeups](https://github.com/kh4sh3i/bug-bounty-writeups) | 78      | 15      | A  curated list of available Bug Bounty & Disclosu... | 2026-03-16   |
 | [recon](https://github.com/payloadartist/recon) | 78      | 14      | NodeJS script to extract assets for the Apple bug ... | 2025-12-09   |
+| [Kali-Linux](https://github.com/aw-junaid/Kali-Linux) | 78      | 14      | A guide to using Kali Linux tools for web penetrat... | 2026-03-21   |
+| [knoxsser](https://github.com/0xPugal/knoxsser) | 77      | 13      | A powerful bash script for massive XSS scanning le... | 2026-03-16   |
 | [osmedeus-workflow](https://github.com/osmedeus/osmedeus-workflow) | 77      | 21      | Community Workflow for the Osmedeus Engine that de... | 2026-03-08   |
 | [Find-Hardcoded](https://github.com/arijitdirghangi/Find-Hardcoded) | 77      | 17      | You can find hardcoded Api-Key,Secret,Token Etc.. | 2026-02-13   |
-| [ExternalAttacker-MCP](https://github.com/MorDavid/ExternalAttacker-MCP) | 77      | 19      | A modular external attack surface mapping tool int... | 2026-02-19   |
-| [knoxsser](https://github.com/0xPugal/knoxsser) | 76      | 13      | A powerful bash script for massive XSS scanning le... | 2026-03-06   |
 | [fetchmeurls](https://github.com/blackhatethicalhacking/fetchmeurls) | 76      | 17      | A Tool for Bug Bounty Hunters that uses Passive an... | 2025-12-31   |
 | [CodeAllTheThings](https://github.com/shabarkin/CodeAllTheThings) | 76      | 17      | A list of threat sinks used in the manual security... | 2026-01-22   |
-| [Kali-Linux](https://github.com/aw-junaid/Kali-Linux) | 76      | 12      | A guide to using Kali Linux tools for web penetrat... | 2026-03-14   |
-| [windfire](https://github.com/muddlelife/windfire) | 75      | 2       | Blazing fast, asynchronous URL prober & fingerprin... | 2026-02-20   |
-| [scope](https://github.com/rix4uni/scope) | 75      | 13      | An automated GitHub Actions-based crawler that fet... | 2026-03-13   |
+| [ExternalAttacker-MCP](https://github.com/MorDavid/ExternalAttacker-MCP) | 76      | 19      | A modular external attack surface mapping tool int... | 2026-03-22   |
+| [windfire](https://github.com/muddlelife/windfire) | 76      | 2       | Blazing fast, asynchronous URL prober & fingerprin... | 2026-03-19   |
+| [scope](https://github.com/rix4uni/scope) | 76      | 13      | An automated GitHub Actions-based crawler that fet... | 2026-03-20   |
 | [wb](https://github.com/riza/wb) | 74      | 10      | Quickly fetches files from Wayback Machine. | 2026-02-12   |
 | [legal-bug-bounty](https://github.com/EdOverflow/legal-bug-bounty) | 74      | 22      | #legalbugbounty project — creating safe harbors ... | 2026-03-06   |
 | [monitor-new-subdomain](https://github.com/elfarsaouiomar/monitor-new-subdomain) | 74      | 17      | Subdomain Monitor A production-ready subdomain mon... | 2026-03-07   |
+| [autopoisoner](https://github.com/Th0h0/autopoisoner) | 74      | 15      | Web cache poisoning vulnerability scanner. | 2026-03-19   |
 | [ScopeHunter](https://github.com/blackhatethicalhacking/ScopeHunter) | 74      | 15      | ScopeHunter is a command-line tool for finding in ... | 2026-02-22   |
-| [daily-bugbounty-writeups](https://github.com/securitycipher/daily-bugbounty-writeups) | 73      | 7       | This repository contains Bug Bounty writeups | 2026-03-15   |
-| [autopoisoner](https://github.com/Th0h0/autopoisoner) | 73      | 15      | Web cache poisoning vulnerability scanner. | 2026-02-18   |
+| [daily-bugbounty-writeups](https://github.com/securitycipher/daily-bugbounty-writeups) | 73      | 7       | This repository contains Bug Bounty writeups | 2026-03-22   |
 | [bugbountydork](https://github.com/random-robbie/bugbountydork) | 72      | 29      | Bug Bounty Dork                 | 2026-02-03   |
 | [bugbountytips](https://github.com/gwen001/bugbountytips) | 72      | 19      | Webapp to search tips on Twitter through #bugbount... | 2025-04-29   |
 | [bugbounty-companion](https://github.com/tintinweb/bugbounty-companion) | 72      | 8       | A BugBounty companion that checks out high-reward ... | 2026-01-05   |
 | [Firefly-SRC](https://github.com/Young873/Firefly-SRC) | 72      | 2       | SRC资产探测平台、整理收录国内外赏� | 2026-03-14   |
+| [BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI) | 71      | 10      | Autonomous AI-powered security scanner — multi-a... | 2026-03-22   |
+| [EndPointer](https://github.com/AtlasWiki/EndPointer) | 71      | 10      | This is the open sourced code for the extension, E... | 2026-03-16   |
 | [Zin](https://github.com/ethicalhackingplayground/Zin) | 70      | 26      | A Payload Injector for bugbounties written in go | 2024-11-29   |
-| [EndPointer](https://github.com/AtlasWiki/EndPointer) | 70      | 10      | This is the open sourced code for the extension, E... | 2026-03-10   |
 | [github-dorks](https://github.com/Proviesec/github-dorks) | 69      | 17      | Useful Github Dorks for BugBounty - | 2026-03-07   |
 | [dnsresolver](https://github.com/ethicalhackingplayground/dnsresolver) | 69      | 11      | A Lightning-Fast DNS Resolver written in Rust 🦀 | 2026-01-22   |
 | [github-regexp](https://github.com/gwen001/github-regexp) | 69      | 20      | Basically a regexp over a GitHub search. | 2025-10-04   |
 | [halive](https://github.com/gnebbia/halive) | 69      | 6       | A fast http and https prober, to check which URLs ... | 2025-12-09   |
 | [chaos](https://github.com/r57-labs/chaos) | 69      | 8       | Origin IP scanning utility developed with ChatGPT | 2026-01-11   |
+| [maltego_transforms](https://github.com/hackertarget/maltego_transforms) | 68      | 17      | Use the Hacker Target IP Tools API for Reconnaissa... | 2026-03-21   |
 | [ldapconsole](https://github.com/p0dalirius/ldapconsole) | 68      | 12      | The ldapconsole script allows you to perform custo... | 2026-03-11   |
 | [Bookmarks](https://github.com/TypeError/Bookmarks) | 68      | 17      | Reclaim control of your Burp Suite Repeater tabs w... | 2025-09-16   |
 | [sublazerwlst](https://github.com/sharsi1/sublazerwlst) | 68      | 22      | Bundle of wordlists for brute-forcing subdomains (... | 2026-02-07   |
 | [Corscan](https://github.com/AngixBlack/Corscan) | 68      | 15      |   Advanced CORS Header Checker Tool with Vulnerabi... | 2026-03-01   |
 | [pwn](https://github.com/0dayInc/pwn) | 68      | 7       | PWN is an open security automation framework that ... | 2026-03-06   |
-| [maltego_transforms](https://github.com/hackertarget/maltego_transforms) | 67      | 17      | Use the Hacker Target IP Tools API for Reconnaissa... | 2026-02-13   |
 | [extractify](https://github.com/SharokhAtaie/extractify) | 67      | 14      | A tool for extract Endpoints, URLs and Secrets fro... | 2026-02-13   |
 | [Awesome-Bug-Bounty](https://github.com/sudosuraj/Awesome-Bug-Bounty) | 67      | 9       | This is my personal repo, which includes bug bount... | 2026-03-14   |
+| [SQL-Injection-Payloads](https://github.com/yogsec/SQL-Injection-Payloads) | 67      | 8       | This repository is a comprehensive collection of S... | 2026-03-19   |
 | [Bug-Bounty-Tools](https://github.com/hackThacker/Bug-Bounty-Tools) | 67      | 1       | Your Comprehensive Collection of Bug Bounty Tools ... | 2026-01-21   |
+| [Wordlists](https://github.com/pkgforge-security/Wordlists) | 66      | 6       | [Custom || Automated] Curation & Collection of Bug... | 2026-03-23   |
 | [rate-limit-checker](https://github.com/Sh1Yo/rate-limit-checker) | 66      | 13      | Check whether the domain has a rate limit enabled. | 2025-12-09   |
 | [websocket-connection-smuggler](https://github.com/hahwul/websocket-connection-smuggler) | 66      | 15      | websocket-connection-smuggler   | 2025-08-29   |
 | [swaggerHole](https://github.com/Liodeus/swaggerHole) | 66      | 12      | A python3 script searching for secret on swaggerhu... | 2026-02-17   |
 | [grepaddr](https://github.com/Zarcolio/grepaddr) | 66      | 16      | Use grepaddr to extract (grep) all kinds of addres... | 2025-12-09   |
 | [BugBountySubdomains](https://github.com/bonkc/BugBountySubdomains) | 65      | 15      | Tools to gather subdomains from Bug Bounty program... | 2025-11-11   |
-| [Wordlists](https://github.com/pkgforge-security/Wordlists) | 64      | 6       | [Custom || Automated] Curation & Collection of Bug... | 2026-03-16   |
+| [AIHTTPAnalyzer](https://github.com/alpernae/AIHTTPAnalyzer) | 65      | 20      | AIHTTPAnalyzer revolutionizes web application secu... | 2026-03-22   |
 | [same-origin-xss](https://github.com/terjanq/same-origin-xss) | 64      | 5       | Same Origin XSS challenge       | 2025-12-29   |
 | [google-acquisitions](https://github.com/themarkib/google-acquisitions) | 64      | 8       | Most of the Google Acquisitions for Bug Bounty Hun... | 2026-02-15   |
 | [rfd-checker](https://github.com/dsopas/rfd-checker) | 64      | 19      | RFD Checker - security CLI tool to test Reflected ... | 2026-02-15   |
 | [kurl](https://github.com/gbrls/kurl) | 64      | 0       | HTTP Requests for security researchers | 2025-11-19   |
-| [SQL-Injection-Payloads](https://github.com/yogsec/SQL-Injection-Payloads) | 64      | 7       | This repository is a comprehensive collection of S... | 2026-03-15   |
 | [BBProfiles](https://github.com/ghsec/BBProfiles) | 63      | 25      | Burp Bounty (Scan Check Builder in BApp Store) is ... | 2026-01-10   |
 | [BurpSQLTruncSanner](https://github.com/InitRoot/BurpSQLTruncSanner) | 63      | 22      | Messy BurpSuite plugin for SQL Truncation vulnerab... | 2025-06-09   |
 | [h1-search](https://github.com/dsopas/h1-search) | 63      | 19      | Tool that will request the public disclosures on a... | 2025-12-09   |
 | [dooked](https://github.com/codingo/dooked) | 63      | 14      | DNS and Target HTTP History Local Storage and Sear... | 2025-12-09   |
 | [fback](https://github.com/Spix0r/fback) | 63      | 11      | Fback is a tool that helps you create target-speci... | 2026-01-13   |
 | [differer](https://github.com/jimen0/differer) | 63      | 5       | differer finds how URLs are parsed by different la... | 2024-07-25   |
-| [AIHTTPAnalyzer](https://github.com/alpernae/AIHTTPAnalyzer) | 63      | 20      | AIHTTPAnalyzer revolutionizes web application secu... | 2026-02-06   |
 | [warlusts](https://github.com/scumdestroy/warlusts) | 62      | 23      | If you found this, you are among the truly lucky, ... | 2026-03-11   |
 | [TTWAF](https://github.com/AmoloHT/TTWAF) | 62      | 10      | 「🧱」Test a list of payloads and see if you c... | 2026-01-24   |
 | [hackliner](https://github.com/th3cyb3rhub/hackliner) | 62      | 14      | HackLiners: CyberSec/BugHunting OneLiners | 2025-12-02   |
 | [BugBounty](https://github.com/zer0yu/BugBounty) | 61      | 11      | web fuzzing && bug hunter       | 2025-09-04   |
-| [BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI) | 61      | 10      | Autonomous AI-powered security scanner — multi-a... | 2026-03-15   |
 | [Chart-Of-Wordlist](https://github.com/tamimhasan404/Chart-Of-Wordlist) | 61      | 13      | Chart-Of-Wordlist helps to create your own custom ... | 2025-12-09   |
 | [Beginner-Bug-Bounty-Automation](https://github.com/sam5epi0l/Beginner-Bug-Bounty-Automation) | 61      | 9       | Many script that can be modified according to your... | 2026-03-06   |
 | [awesome-bugbounty-mcp](https://github.com/BehiSecc/awesome-bugbounty-mcp) | 60      | 7       | A curated list of MCP servers for bug bounty. | 2026-02-24   |
 | [BugBountyBlueprint](https://github.com/PatrikFehrenbach/BugBountyBlueprint) | 60      | 7       | A tool offering templates for streamlined bug boun... | 2026-01-23   |
 | [hacks](https://github.com/MindPatch/hacks) | 60      | 12      | Build some cyber security tools in Rust :crab: :ro... | 2025-11-26   |
 | [anewer](https://github.com/ysf/anewer) | 60      | 5       | anewer appends lines from stdin to a file if they ... | 2025-12-03   |
-| [nozaki](https://github.com/htrgouvea/nozaki) | 60      | 15      | HTTP fuzzer engine security oriented | 2026-03-13   |
+| [bounty-targets-alert](https://github.com/dwisiswant0/bounty-targets-alert) | 60      | 14      | It's an watcher for new scopes added to bounty-tar... | 2026-03-22   |
+| [nozaki](https://github.com/htrgouvea/nozaki) | 60      | 15      | HTTP fuzzer engine security oriented | 2026-03-22   |
 | [smith](https://github.com/EdOverflow/smith) | 59      | 13      | Simple wrapper for meg that sieves through meg's o... | 2025-11-24   |
 | [dorkScraper](https://github.com/robotshell/dorkScraper) | 59      | 16      | DorkScraper is a simple tool written in Python to ... | 2026-02-26   |
-| [bounty-targets-alert](https://github.com/dwisiswant0/bounty-targets-alert) | 59      | 14      | It's an watcher for new scopes added to bounty-tar... | 2025-08-02   |
 | [XSSearch](https://github.com/Encryptor-Sec/XSSearch) | 59      | 15      | XSSearch is a comprehensive reflected XSS tool bui... | 2025-12-09   |
-| [badmoodle](https://github.com/cyberaz0r/badmoodle) | 59      | 8       | Moodle community-based vulnerability scanner | 2026-02-03   |
+| [badmoodle](https://github.com/cyberaz0r/badmoodle) | 59      | 9       | Moodle community-based vulnerability scanner | 2026-02-03   |
 | [wp-file-manager-CVE-2020-25213](https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213) | 58      | 25      | https://medium.com/@mansoorr/exploiting-cve-2020-2... | 2025-11-05   |
-| [HuntTheBug](https://github.com/vikrantbatra05/HuntTheBug) | 58      | 15      | Basic Recon For Bug Bounty Hunter - "HuntTheBug" i... | 2026-03-01   |
 | [roboxtractor](https://github.com/Josue87/roboxtractor) | 58      | 12      | Extract endpoints marked as disallow in robots fil... | 2025-11-24   |
+| [security-mindmap](https://github.com/kh4sh3i/security-mindmap) | 58      | 16      | This repository stores various roadmap(Mindmaps) f... | 2026-03-17   |
 | [Bucket-Flaws](https://github.com/nikhil1232/Bucket-Flaws) | 58      | 17      | Bucket Flaws ( S3 Bucket Mass Scanner ): A Simple ... | 2025-03-05   |
+| [OneLinerBounty](https://github.com/yogsec/OneLinerBounty) | 58      | 11      | OneLinerBounty is a collection of quick, actionabl... | 2026-03-19   |
 | [jsscm](https://github.com/sametsahinnet/jsscm) | 58      | 8       | JSSCM detects expired domains for Stored XSS explo... | 2026-02-02   |
 | [continuous-nuclei](https://github.com/dwisiswant0/continuous-nuclei) | 57      | 16      | Running nuclei Continuously     | 2025-07-31   |
 | [0x0p1n3r](https://github.com/z3dc0ps/0x0p1n3r) | 57      | 18      | 0x0p1n3r is set of combination of other tools and ... | 2025-01-03   |
-| [security-mindmap](https://github.com/kh4sh3i/security-mindmap) | 57      | 16      | This repository stores various roadmap(Mindmaps) f... | 2026-01-28   |
 | [Bot-Bounty](https://github.com/Drayko/Bot-Bounty) | 57      | 17      | Python Script for Telegram Bot is specially built ... | 2026-01-03   |
-| [OneLinerBounty](https://github.com/yogsec/OneLinerBounty) | 57      | 11      | OneLinerBounty is a collection of quick, actionabl... | 2026-03-15   |
 | [malicious-rMQR-Codes](https://github.com/edoardottt/malicious-rMQR-Codes) | 57      | 4       | Collection of (4000+) malicious rMQR Codes for Pen... | 2026-01-25   |
 | [KrazePlanetTraining](https://github.com/KrazePlanet/KrazePlanetTraining) | 56      | 18      | Free BugBounty KrazePlanetTraining | 2026-02-16   |
 | [bugbounty_changelogs](https://github.com/w9w/bugbounty_changelogs) | 56      | 5       | No description                  | 2025-10-08   |
+| [go-recon](https://github.com/D3Ext/go-recon) | 56      | 9       | External recon toolkit          | 2026-03-22   |
 | [Morgan](https://github.com/VFA250/Morgan) | 56      | 9       | Morgan is a powerful tool designed to help securit... | 2025-09-23   |
 | [grapX](https://github.com/kabilan1290/grapX) | 56      | 22      | grapX will iterate through the URLs and grep the e... | 2025-10-16   |
 | [SSTI-XSS-Finder](https://github.com/darklotuskdb/SSTI-XSS-Finder) | 56      | 13      | XSS Finder Via SSTI             | 2025-12-09   |
 | [gitls](https://github.com/hahwul/gitls) | 56      | 9       | 🖇 Enumerate git repository URL from list of URL... | 2026-02-13   |
 | [safe-harbour](https://github.com/trickest/safe-harbour) | 56      | 10      | security.txt collection of most popular world-wide... | 2026-02-18   |
 | [CVE-2022-42889-text4shell](https://github.com/kljunowsky/CVE-2022-42889-text4shell) | 56      | 9       | Apache commons text - CVE-2022-42889 Text4Shell pr... | 2025-10-05   |
-| [go-recon](https://github.com/D3Ext/go-recon) | 55      | 9       | External recon toolkit          | 2026-03-03   |
 | [CVE-2025-53770](https://github.com/MuhammadWaseem29/CVE-2025-53770) | 55      | 3       | Unauthenticated Remote Code Execution via unsafe d... | 2026-03-08   |
 | [cloudrecon](https://github.com/Spix0r/cloudrecon) | 55      | 3       | This script is used to search for cloud certificat... | 2026-01-22   |
 | [Resources](https://github.com/birdbee44/Resources) | 55      | 11      | No description                  | 2026-02-13   |
@@ -745,6 +744,7 @@
 | [credcheck](https://github.com/secxena/credcheck) | 53      | 6       | Credentials Checking Framework  | 2025-12-09   |
 | [open-redirect](https://github.com/random-robbie/open-redirect) | 52      | 22      | Open Redirect Finder.           | 2025-12-31   |
 | [xkeys](https://github.com/vsec7/xkeys) | 52      | 12      | Extract Sensitive Keys, Secret, Token Or Intereste... | 2025-12-09   |
+| [awsEnum](https://github.com/bassammaged/awsEnum) | 52      | 7       | Enumerate AWS cloud resources based on provided cr... | 2026-03-17   |
 | [Virtual-Host](https://github.com/0xAwali/Virtual-Host) | 52      | 17      |  Modified Nuclei Templates Version to FUZZ Host He... | 2026-02-03   |
 | [uforall](https://github.com/rix4uni/uforall) | 52      | 11      | uforall is a fast url crawler this tool crawl all ... | 2026-01-09   |
 | [google-search](https://github.com/gwen001/google-search) | 52      | 8       | Returns results from Google search. | 2026-03-15   |
@@ -754,9 +754,9 @@
 | [GoGitDumper](https://github.com/C-Sto/GoGitDumper) | 51      | 10      | Dump exposed HTTP .git fast     | 2025-12-12   |
 | [My-Methodologies](https://github.com/xalgord/My-Methodologies) | 51      | 20      | Tools and methods that I personally use for Recon ... | 2026-03-09   |
 | [redirex](https://github.com/wfinn/redirex) | 51      | 4       | tool that generates bypasses for open redirects | 2026-02-12   |
-| [awsEnum](https://github.com/bassammaged/awsEnum) | 51      | 7       | Enumerate AWS cloud resources based on provided cr... | 2026-03-02   |
 | [jecretz](https://github.com/sahadnk72/jecretz) | 51      | 10      | Jira Secret Hunter - Helps you find credentials an... | 2026-02-14   |
 | [scary-strings](https://github.com/johnsaigle/scary-strings) | 51      | 5       | If these strings are in your code, you might have ... | 2026-02-17   |
+| [gf-patterns](https://github.com/mrofisr/gf-patterns) | 50      | 16      | A collection of useful grep patterns and tools by ... | 2026-03-16   |
 | [takeover](https://github.com/mzfr/takeover) | 50      | 12      | A tool for testing subdomain takeover possibilitie... | 2026-02-12   |
 | [Gau-Expose](https://github.com/tamimhasan404/Gau-Expose) | 50      | 19      | It grep subdomains, email/username, build custom w... | 2025-12-23   |
 | [bxss](https://github.com/gwen001/bxss) | 50      | 11      | Alternative to XSS Hunter for blind XSS. | 2026-02-12   |
@@ -764,15 +764,14 @@
 | [url-status-checker](https://github.com/BLACK-SCORP10/url-status-checker) | 50      | 12      | Status Checker is a Python tool for swiftly checki... | 2026-02-25   |
 | [Ensemble](https://github.com/DotNetRussell/Ensemble) | 50      | 8       | A Bug Bounty Platform that allows hunters to issue... | 2026-02-25   |
 | [PayloadsAll](https://github.com/andripwn/PayloadsAll) | 50      | 16      | A list of useful payloads and bypass for Web Appli... | 2026-02-28   |
-| [Fray](https://github.com/dalisecurity/Fray) | 50      | 3       | AI-native security toolkit — fray go target.com ... | 2026-03-15   |
 | [awesomeBugbounty](https://github.com/bot8080/awesomeBugbounty) | 49      | 20      | No description                  | 2025-10-10   |
-| [gf-patterns](https://github.com/mrofisr/gf-patterns) | 49      | 16      | A collection of useful grep patterns and tools by ... | 2026-03-05   |
 | [crlf-injector](https://github.com/rudSarkar/crlf-injector) | 49      | 17      | A CRLF ( Carriage Return Line Feed ) Injection att... | 2025-08-31   |
 | [CertStream-Domains](https://github.com/pkgforge-security/CertStream-Domains) | 49      | 8       | [Automated | UpToDate] Daily Dumps of CertStream C... | 2025-12-05   |
 | [bugbountybooks](https://github.com/shinch4n/bugbountybooks) | 48      | 16      | No description                  | 2026-03-08   |
 | [js4bugbounty](https://github.com/cybertechajju/js4bugbounty) | 48      | 3       | No description                  | 2026-01-24   |
 | [js-finding](https://github.com/pikpikcu/js-finding) | 48      | 8       | JS Finding can be used to extract JavaScript (JS) ... | 2026-02-15   |
 | [pathprober](https://github.com/xchopath/pathprober) | 48      | 5       | Probe and discover HTTP pathname using brute-force... | 2025-12-09   |
+| [go-cves](https://github.com/cokeBeer/go-cves) | 48      | 2       | 收录go语言编写的项目、框架和组件出 | 2026-03-18   |
 | [BrokenSMTP](https://github.com/mrlew1s/BrokenSMTP) | 48      | 15      | Small python script to look for common vulnerabili... | 2026-01-29   |
 | [DNS-Hunt](https://github.com/c0brabaghdad1/DNS-Hunt) | 48      | 7       |  The DNS Hunt will make your life easier, and of c... | 2026-03-11   |
 | [juicyurls](https://github.com/alwalxed/juicyurls) | 48      | 5       | CLI tool to scan URLs for suspicious keywords, ext... | 2026-02-26   |
@@ -780,17 +779,19 @@
 | [ultimate_bughunter_tools](https://github.com/dreamer1eh/ultimate_bughunter_tools) | 47      | 10      | Ultimate Package Of 50 Bug Bounty Hunting Tools | 2025-12-08   |
 | [OpenRediWrecked](https://github.com/blackhatethicalhacking/OpenRediWrecked) | 47      | 8       | A powerful and sophisticated tool for detecting an... | 2025-12-31   |
 | [robotstester](https://github.com/p0dalirius/robotstester) | 47      | 4       | This Python script can enumerate all URLs present ... | 2026-01-14   |
-| [go-cves](https://github.com/cokeBeer/go-cves) | 47      | 2       | 收录go语言编写的项目、框架和组件出 | 2026-01-12   |
 | [cloudfish](https://github.com/indianajson/cloudfish) | 47      | 8       | Subdomain enumeration using Cloudflare's scanning ... | 2026-02-18   |
 | [Sub-Ringan-Framework](https://github.com/DevVj-1/Sub-Ringan-Framework) | 47      | 11      | Tool for automate bug hunting process 🔍 --> � | 2026-02-25   |
 | [SecToolkit](https://github.com/n4itr0-07/SecToolkit) | 47      | 11      | Welcome SecToolkit repository! This is a comprehen... | 2025-12-31   |
+| [subdog](https://github.com/rix4uni/subdog) | 47      | 11      | A powerful subdomain enumeration tool that aggrega... | 2026-03-17   |
+| [penetration-testing](https://github.com/kamarkamsib/penetration-testing) | 46      | 10      | Materi memulai penetration testing dari nol berbah... | 2026-03-19   |
 | [rec0n](https://github.com/m0rd3caii/rec0n) | 46      | 7       | A fully automated subdomain reconnaissance and sen... | 2026-02-04   |
 | [PCWT](https://github.com/ascr0b/PCWT) | 46      | 15      | No description                  | 2025-12-09   |
 | [jailbreak](https://github.com/jailbreakme-xyz/jailbreak) | 46      | 19      | jailbreakme.xyz is an open-source decentralized ap... | 2026-03-13   |
 | [apkizer](https://github.com/ko2sec/apkizer) | 46      | 8       | apkizer is a mass downloader for android applicati... | 2025-12-09   |
 | [Burp-Encode-IP](https://github.com/e1abrador/Burp-Encode-IP) | 46      | 7       | Burp Suite extension to encode an IP address focus... | 2026-01-10   |
+| [XSS-Payload](https://github.com/AmoloHT/XSS-Payload) | 46      | 10      | 「💉」XSS Payload List      | 2026-03-17   |
+| [ReconPro](https://github.com/iamshafayat/ReconPro) | 46      | 4       | ReconPro is a specialized Google dorking tool desi... | 2026-03-22   |
 | [rajappan](https://github.com/kaiiyer/rajappan) | 46      | 17      | An All in one Project for Digital Privacy. A step ... | 2026-02-28   |
-| [subdog](https://github.com/rix4uni/subdog) | 46      | 11      | A powerful subdomain enumeration tool that aggrega... | 2026-03-04   |
 | [Social-Engineering-Tactics](https://github.com/yogsec/Social-Engineering-Tactics) | 46      | 4       | Social Engineering Tactics contains real-world soc... | 2026-03-10   |
 | [Open-Source-Nuclei-Templates-Downloader](https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader) | 45      | 11      | Script that download 37+ open source nuclei templa... | 2025-11-30   |
 | [bountyRecon](https://github.com/AdmiralGaust/bountyRecon) | 45      | 15      | Bash script to automate Bug Bounty Reconnaissance | 2025-12-09   |
@@ -798,17 +799,13 @@
 | [yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) | 45      | 10      | This extension tells if visited sites have vulnera... | 2026-03-13   |
 | [ssrf-tool](https://github.com/R0X4R/ssrf-tool) | 45      | 11      | An SSRF detector tool written in golang. I have fi... | 2025-06-29   |
 | [BurpCRLFScan](https://github.com/A0WaQ4/BurpCRLFScan) | 45      | 2       | 使用java编写的CRLF-Injection-burp被动扫描 | 2026-03-05   |
-| [XSS-Payload](https://github.com/AmoloHT/XSS-Payload) | 45      | 10      | 「💉」XSS Payload List      | 2026-02-18   |
-| [ReconPro](https://github.com/iamshafayat/ReconPro) | 45      | 4       | ReconPro is a specialized Google dorking tool desi... | 2026-03-12   |
+| [TeleStrike](https://github.com/er4vn/TeleStrike) | 45      | 13      | TeleStrike is a red team utility designed for adve... | 2026-03-19   |
 | [crlfi](https://github.com/karthi-the-hacker/crlfi) | 44      | 7       | CRLF Bug scanner for WebPentesters and Bugbounty H... | 2026-01-23   |
-| [penetration-testing](https://github.com/kamarkamsib/penetration-testing) | 44      | 10      | Materi memulai penetration testing dari nol berbah... | 2026-02-19   |
 | [Awesome-Security-Repos](https://github.com/njmulsqb/Awesome-Security-Repos) | 44      | 10      | Here's a list of cyber security related github rep... | 2026-02-24   |
 | [zzl](https://github.com/DEMON1A/zzl) | 44      | 11      | Zzl is a reconnaissance tool that collects subdoma... | 2026-01-13   |
-| [AutomationGuide](https://github.com/DevanshRaghav75/AutomationGuide) | 44      | 14      | Learn how to automate XSS, SSRF, LFI, SQLI, NoSQLi | 2026-02-24   |
+| [AutomationGuide](https://github.com/DevanshRaghav75/AutomationGuide) | 44      | 14      | Learn how to automate XSS, SSRF, LFI, SQLI, NoSQLi | 2026-03-22   |
 | [s3-buckets-aio-pwn](https://github.com/blackhatethicalhacking/s3-buckets-aio-pwn) | 44      | 12      | An AIO Tool to check for Vulnerable Amazon S3 Buck... | 2025-12-14   |
 | [Black_Viru5_Recon_v1.0](https://github.com/YazeedOliwah/Black_Viru5_Recon_v1.0) | 44      | 8       | These Repositories About My Recon Methodology  To ... | 2025-09-10   |
-| [TeleStrike](https://github.com/er4vn/TeleStrike) | 44      | 13      | TeleStrike is a red team utility designed for adve... | 2026-02-21   |
-| [originiphunter](https://github.com/rix4uni/originiphunter) | 44      | 10      | A powerful Go tool for finding origin IPs of domai... | 2026-03-12   |
 | [WebExploit](https://github.com/C4ssif3r/WebExploit) | 44      | 6       | Web Exploit here ! advanced web hacking and hacker... | 2026-02-03   |
 | [bugBounty-cheatSheet](https://github.com/Inf3rn0113/bugBounty-cheatSheet) | 43      | 5       | https://github.com/EdOverflow   | 2026-03-12   |
 | [nuclei_templates](https://github.com/h0tak88r/nuclei_templates) | 43      | 14      | Collection of templates from various resources  | 2026-03-03   |
@@ -820,6 +817,8 @@
 | [Lisbook](https://github.com/Ctoic/Lisbook) | 43      | 105     | Listen. Learn. Interact. Powered by open-source ma... | 2026-02-17   |
 | [waf-stressor](https://github.com/theghostshinobi/waf-stressor) | 43      | 9       | Production-grade Web Application Firewall testing ... | 2026-03-10   |
 | [ssl_pinning_remover](https://github.com/HexNio/ssl_pinning_remover) | 43      | 10      | An Android SSL Pinning Remover tool for Security r... | 2025-12-27   |
+| [WP-Hunter](https://github.com/xeloxa/WP-Hunter) | 43      | 8       | WP-Hunter is a WordPress plugin/theme reconnaissan... | 2026-03-17   |
+| [originiphunter](https://github.com/rix4uni/originiphunter) | 43      | 10      | A powerful Go tool for finding origin IPs of domai... | 2026-03-18   |
 | [Bounty_Hunter](https://github.com/pereznacho/Bounty_Hunter) | 42      | 4       | Herramienta de BugBounty atutomatizada | 2026-02-27   |
 | [SubWalker](https://github.com/m8sec/SubWalker) | 42      | 16      | Simultaneously execute various subdomain enumerati... | 2025-12-09   |
 | [open-sesame](https://github.com/humblelad/open-sesame) | 42      | 9       | A python tool which runs to display random publicl... | 2025-02-28   |
@@ -832,7 +831,7 @@
 | [dProgBb](https://github.com/xcapri/dProgBb) | 42      | 15      | Detect Program Bug Bounty       | 2025-12-04   |
 | [ICU](https://github.com/003random/ICU) | 42      | 12      | An Extended, Modulair, Host Discovery Framework | 2025-12-31   |
 | [Sandman](https://github.com/tarunKoyalwar/Sandman) | 42      | 8       | A Target Tracking , NoteTaking , CheckLists and Da... | 2025-12-09   |
-| [WP-Hunter](https://github.com/xeloxa/WP-Hunter) | 42      | 8       | WP-Hunter is a WordPress plugin/theme reconnaissan... | 2026-03-15   |
+| [Beelzebub](https://github.com/InMyMine7/Beelzebub) | 42      | 14      | Beelzebub all in one Hacking Tools, Shell finder, ... | 2026-03-20   |
 | [BugBountyTricks](https://github.com/brosck/BugBountyTricks) | 41      | 10      | 「🐞」Bug Bounty Tricks     | 2025-11-04   |
 | [Some-BugBounty-Tips-from-my-Twitter-feed](https://github.com/emadshanab/Some-BugBounty-Tips-from-my-Twitter-feed) | 41      | 15      | No description                  | 2026-03-14   |
 | [curate](https://github.com/EdOverflow/curate) | 41      | 11      | A tool for fetching archived URLs (to be rewritten... | 2025-09-10   |
@@ -861,10 +860,10 @@
 | [lolcrawler](https://github.com/jonaslejon/lolcrawler) | 39      | 10      | Headless web crawler for bugbounty and penetration... | 2025-12-09   |
 | [hacker-checklist](https://github.com/SolomonSklash/hacker-checklist) | 39      | 16      | Hacking with the power of checklists. | 2026-02-12   |
 | [Emissary](https://github.com/BountyStrike/Emissary) | 39      | 10      | Send notifications on different channels such as S... | 2024-06-12   |
+| [zkFuzz](https://github.com/Koukyosyumei/zkFuzz) | 39      | 4       | ZK Circuit Fuzzer (IEEE S&P'26) | 2026-03-21   |
 | [recce](https://github.com/unstabl3/recce) | 39      | 9       | Domain availbility checker      | 2025-01-03   |
 | [favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick) | 39      | 6       | Python script implementing the favicon hash trick ... | 2026-02-24   |
 | [accesslist](https://github.com/UndercodeUtilities/accesslist) | 39      | 3       | "ACCESS LIST"  Bypass collections used during pent... | 2026-03-14   |
-| [Beelzebub](https://github.com/InMyMine7/Beelzebub) | 39      | 15      | Beelzebub all in one Hacking Tools, Shell finder, ... | 2026-03-14   |
 | [ppfang](https://github.com/acuciureanu/ppfang) | 39      | 0       | A tool which helps identifying client-side prototy... | 2025-04-17   |
 | [PostMessage_Fuzz_Tool](https://github.com/kiranreddyrebel/PostMessage_Fuzz_Tool) | 38      | 8       | #BugBounty #BugBounty Tools #WebDeveloper Tool | 2025-07-01   |
 | [XSS-FINDER](https://github.com/capture0x/XSS-FINDER) | 38      | 13      | #xss #xssfinder #xss-scanner #bugbounty #hacktool | 2026-03-11   |
@@ -873,7 +872,6 @@
 | [Bug-Bounty-Resources](https://github.com/securitycipher/Bug-Bounty-Resources) | 38      | 15      | Dive into a handpicked selection of tools, guides,... | 2026-02-01   |
 | [bughunting-ar](https://github.com/hackarwiki/bughunting-ar) | 38      | 10      | هذا المستودع هي محاولة منا �... | 2025-05-25   |
 | [SuperTruder](https://github.com/ElSicarius/SuperTruder) | 38      | 8       | A python3 intruder that gave me bounties, easy to ... | 2026-02-06   |
-| [zkFuzz](https://github.com/Koukyosyumei/zkFuzz) | 38      | 3       | ZK Circuit Fuzzer (IEEE S&P'26) | 2026-03-12   |
 | [DI.WE.H](https://github.com/t-prado/DI.WE.H) | 38      | 4       | Repositório com conteúdo sobre web hacking em po... | 2026-02-07   |
 | [Bug-Bounty-Tampermonkey-Scripts](https://github.com/rix4uni/Bug-Bounty-Tampermonkey-Scripts) | 38      | 24      | No description                  | 2026-03-09   |
 | [subfree](https://github.com/sl4x0/subfree) | 37      | 8       | Your subdomains are free for the taking - no API k... | 2026-02-14   |
@@ -881,16 +879,17 @@
 | [Do1ng](https://github.com/icekylin/Do1ng) | 37      | 11      | Do1ng 个人维护的安全知识框架, 包括但 | 2025-03-18   |
 | [Pen-Testing-Google-Dorks](https://github.com/yogsec/Pen-Testing-Google-Dorks) | 37      | 5       | Google Dorks that can be used for penetration test... | 2026-03-13   |
 | [haktrailsfree](https://github.com/rix4uni/haktrailsfree) | 37      | 16      | Get 10k subdomains in securitytrails using cookie ... | 2026-03-09   |
-| [bugbounty](https://github.com/cybozu/bugbounty) | 36      | 4       | 脆弱性報奨金制度に関する詳細文書� | 2026-02-16   |
+| [AIAuditor](https://github.com/richeeta/AIAuditor) | 37      | 10      | Lightweight BApp that seamlessly integrates powerf... | 2026-03-20   |
+| [bugbounty](https://github.com/cybozu/bugbounty) | 36      | 4       | 脆弱性報奨金制度に関する詳細文書� | 2026-03-19   |
 | [ScreenShooter](https://github.com/si9int/ScreenShooter) | 36      | 13      | Convert your masscan/subdomain-scan results (80,44... | 2025-12-09   |
+| [ActionsTOCTOU](https://github.com/AdnaneKhan/ActionsTOCTOU) | 36      | 8       | Example repository for GitHub Actions Time of Chec... | 2026-03-21   |
 | [bounty.sh](https://github.com/0xPugal/bounty.sh) | 36      | 11      | simple bash script to earn bounties | 2025-10-07   |
-| [airecon](https://github.com/pikpikcu/airecon) | 36      | 7       | AIRecon is an autonomous cybersecurity agent that ... | 2026-03-16   |
 | [postMessageFinder](https://github.com/pelaohxc/postMessageFinder) | 36      | 5       | No description                  | 2025-12-09   |
+| [aether](https://github.com/l33tdawg/aether) | 36      | 5       | AI Smart Contract Security Analysis and PoC Genera... | 2026-03-20   |
 | [xsschecker](https://github.com/rix4uni/xsschecker) | 36      | 8       | xsschecker tests endpoints for reflected XSS by in... | 2026-01-09   |
 | [BurpText4ShellScan](https://github.com/A0WaQ4/BurpText4ShellScan) | 36      | 2       | Text4Shell的burp被动扫描插件 | 2026-01-21   |
 | [app](https://github.com/csrfshark/app) | 36      | 4       | 🚀 CSRFShark - a utility for manipulating cross-... | 2026-02-06   |
 | [nucleihub-templates](https://github.com/rix4uni/nucleihub-templates) | 36      | 21      | This repo collects nuclei template from 600+ githu... | 2026-02-23   |
-| [AIAuditor](https://github.com/richeeta/AIAuditor) | 36      | 10      | Lightweight BApp that seamlessly integrates powerf... | 2026-03-03   |
 | [bug-bounty-tips](https://github.com/securi3ytalent/bug-bounty-tips) | 36      | 12      | Our main goal is to share tips from some well-know... | 2026-01-18   |
 | [obsidian-ivre-plugin](https://github.com/ivre/obsidian-ivre-plugin) | 36      | 4       | Grabs data from IVRE and brings it into Obsidian n... | 2026-01-25   |
 | [BugBountyStuff](https://github.com/felipecaon/BugBountyStuff) | 35      | 9       | Stuff for bug bounty            | 2025-11-06   |
@@ -900,7 +899,6 @@
 | [ParamFirstCheck](https://github.com/mathis2001/ParamFirstCheck) | 35      | 12      | ParamFirstCheck identifies in a list of urls those... | 2026-01-30   |
 | [BugBounty](https://github.com/BarathkumarJK/BugBounty) | 35      | 1       | No description                  | 2025-06-06   |
 | [Wordlists](https://github.com/h0tak88r/Wordlists) | 35      | 12      | A Collection of Wordlists for Penetration Testing | 2026-03-13   |
-| [ActionsTOCTOU](https://github.com/AdnaneKhan/ActionsTOCTOU) | 35      | 5       | Example repository for GitHub Actions Time of Chec... | 2026-01-28   |
 | [InfoSec-Alfred](https://github.com/0xsha/InfoSec-Alfred) | 35      | 6       | Scrap Latest Information Security Resources  | 2026-02-27   |
 | [bounty-notes](https://github.com/samirettali/bounty-notes) | 35      | 13      | My bug bounty notes             | 2026-01-20   |
 | [Orkestra](https://github.com/BitTheByte/Orkestra) | 35      | 11      | Web-based Android debugger with inspection capabil... | 2025-12-25   |
@@ -908,42 +906,43 @@
 | [ip_widget](https://github.com/psbelin/ip_widget) | 35      | 3       | Taskbar IP widget for kali linux (or any distro ru... | 2026-03-15   |
 | [Hacker-Scoper](https://github.com/ItsIgnacioPortal/Hacker-Scoper) | 35      | 6       | CLI tool for filtering URLs/IPs with automatically... | 2026-03-15   |
 | [HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro) | 35      | 7       | Burp Suite Proxy Toggler Lite Add-on for Mozilla F... | 2026-03-07   |
+| [bugbounty-Tips-and-Tricks](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks) | 34      | 6       | A curated collection of bug bounty tips, tricks, p... | 2026-03-22   |
 | [substats](https://github.com/zzzteph/substats) | 34      | 6       | Subdomain enumeration statistics and wordlists fro... | 2026-01-20   |
 | [about](https://github.com/BountyMachine/about) | 34      | 9       | A central place to keep track of relevant BountyMa... | 2025-11-17   |
 | [enumeraite](https://github.com/oz9un/enumeraite) | 34      | 3       |  AI-Powered Web Attack Surface Enumeration  | 2026-03-12   |
-| [kicks3](https://github.com/abuvanth/kicks3) | 34      | 13      | S3 bucket finder from html,js and bucket misconfig... | 2024-11-28   |
 | [sub-scout](https://github.com/0xAkashsky/sub-scout) | 34      | 5       | Simple bash Script to automate initial recon using... | 2026-01-27   |
+| [kicks3](https://github.com/abuvanth/kicks3) | 34      | 13      | S3 bucket finder from html,js and bucket misconfig... | 2024-11-28   |
 | [crystalball](https://github.com/TypeError/crystalball) | 34      | 2       | An enchanting 🔮 web screenshot tool for capturi... | 2025-11-12   |
-| [aether](https://github.com/l33tdawg/aether) | 34      | 4       | AI Smart Contract Security Analysis and PoC Genera... | 2026-03-14   |
-| [rejig](https://github.com/thelikes/rejig) | 34      | 8       | Turn your VPS into an attack box  | 2025-12-09   |
 | [BurpMCP](https://github.com/swgee/BurpMCP) | 34      | 1       | Burp Suite Extension with MCP Server to enhance ma... | 2026-02-18   |
 | [bugbounty-cheatsheet](https://github.com/encodedguy/bugbounty-cheatsheet) | 33      | 11      | No description                  | 2025-12-04   |
 | [backbomb](https://github.com/hahwul/backbomb) | 33      | 8       | 💣 Dockerized penetration-testing/bugbounty/app-... | 2025-08-19   |
-| [bugbounty-Tips-and-Tricks](https://github.com/cybersecplayground/bugbounty-Tips-and-Tricks) | 33      | 6       | A curated collection of bug bounty tips, tricks, p... | 2026-03-10   |
 | [BugBountyNotes](https://github.com/Maskhe/BugBountyNotes) | 33      | 4       | 简单记录下自己在挖掘SRC | 2026-02-10   |
 | [jsmap](https://github.com/enragedpilgri/jsmap) | 33      | 0       | Fetch Javascript sourcemaps, bounty hunter style b... | 2025-10-31   |
 | [BBstats](https://github.com/gwen001/BBstats) | 33      | 9       | Bug Bounty statistics tool.     | 2025-08-22   |
 | [AdminDirectoryFinder](https://github.com/tausifzaman/AdminDirectoryFinder) | 33      | 9       | Admin Directory Finder is a tool designed to scan ... | 2026-01-14   |
 | [csp-analyzer](https://github.com/gwen001/csp-analyzer) | 33      | 10      | Analyze Content-Security-Policy header of a given ... | 2025-10-24   |
+| [rejig](https://github.com/thelikes/rejig) | 33      | 8       | Turn your VPS into an attack box  | 2026-03-16   |
 | [collectvars](https://github.com/sametsahinnet/collectvars) | 33      | 9       | collectvars collects JavaScript variables, highlig... | 2026-02-02   |
+| [-Ultimate-Cybersecurity-Roadmap](https://github.com/minhaj-313/-Ultimate-Cybersecurity-Roadmap) | 33      | 6       | Ultimate Cybersecurity Roadmap (2025 Edition) | Be... | 2026-03-21   |
+| [Dutch_Gov_Scope](https://github.com/zzzteph/Dutch_Gov_Scope) | 32      | 5       | Dutch Government Bugbounty scope, subdomains and e... | 2026-03-23   |
 | [reconness-agents](https://github.com/reconness/reconness-agents) | 32      | 13      | Reconness Agents Script         | 2026-01-22   |
 | [Bug_Bounty_List](https://github.com/Sajibekanti/Bug_Bounty_List) | 32      | 4       | Day by day Lots of Newbie Come into bug Bounty The... | 2025-07-25   |
+| [ScopesExtractor](https://github.com/JoshuaMart/ScopesExtractor) | 32      | 3       | A tool for monitoring bug bounty programs across m... | 2026-03-21   |
 | [dorker](https://github.com/0xdln1/dorker) | 32      | 14      | Better Google Dorking with Dorker. | 2025-12-09   |
 | [paramx](https://github.com/cyinnove/paramx) | 32      | 9       | ParamX is a tool designed to extract and categoriz... | 2026-01-19   |
 | [Intro-To-Bug-Hunting](https://github.com/nabasteh/Intro-To-Bug-Hunting) | 32      | 5       | I provide educational resources in this repository... | 2026-02-05   |
 | [SecuSploitX](https://github.com/Largo-m/SecuSploitX) | 32      | 6       | Sploit -- All-in-one, AI-powered cybersecurity too... | 2026-02-25   |
 | [Raptor](https://github.com/HJ23/Raptor) | 32      | 4       | Passive subdomain enumeration tool with http-probe... | 2025-12-09   |
 | [BugBountyHunting](https://github.com/novanazizr/BugBountyHunting) | 31      | 12      | Some Tutorials and Things to Help Bug Hunter | 2025-12-28   |
-| [Dutch_Gov_Scope](https://github.com/zzzteph/Dutch_Gov_Scope) | 31      | 5       | Dutch Government Bugbounty scope, subdomains and e... | 2026-03-15   |
-| [ScopesExtractor](https://github.com/JoshuaMart/ScopesExtractor) | 31      | 3       | A tool for monitoring bug bounty programs across m... | 2026-03-12   |
 | [Subdomain-Enumeration-Guide](https://github.com/sidxparab/Subdomain-Enumeration-Guide) | 31      | 12      | This is a comprehensive Subdomain Enumeration Guid... | 2025-02-17   |
 | [Godzilla](https://github.com/AhmedMohamedDev/Godzilla) | 31      | 14      | Godzilla is an automated scanner tool for bug hunt... | 2026-02-17   |
 | [snetra](https://github.com/R0X4R/snetra) | 31      | 6       | A Python based scanner uses shodan-internetdb to s... | 2025-01-22   |
 | [bf_active_sub](https://github.com/blackhatethicalhacking/bf_active_sub) | 31      | 12      | Subdomain Bruteforce - Bounty Quick Code | 2025-12-31   |
 | [Awesome-Security-Resources](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources) | 31      | 16      | Vulnerability Assessment and Penetration Testing T... | 2026-02-15   |
+| [Learn-android-bug-bounty](https://github.com/Raunaksplanet/Learn-android-bug-bounty) | 31      | 9       | Documenting all the sources from where I'm learnin... | 2026-03-21   |
 | [Bounty-VPS](https://github.com/sudosuraj/Bounty-VPS) | 31      | 6       |  Bug Bounty Setup Tools On Fresh VPS. This scripts... | 2026-03-08   |
 | [nodep](https://github.com/dwisiswant0/nodep) | 31      | 4       | A tool for check available dependency packages acr... | 2026-03-13   |
-| [omnichron](https://github.com/oritwoen/omnichron) | 31      | 1       | Unified TypeScript interface for multiple web arch... | 2026-03-13   |
+| [omnichron](https://github.com/oritwoen/omnichron) | 31      | 1       | Unified TypeScript interface for multiple web arch... | 2026-03-22   |
 | [deepsec](https://github.com/TheDeepOpc/deepsec) | 31      | 8       | No description                  | 2026-02-24   |
 | [emailextractor](https://github.com/rix4uni/emailextractor) | 31      | 8       | High-speed Go email scraper that crawls sites and ... | 2026-03-10   |
 | [Some-things](https://github.com/komodoooo/Some-things) | 31      | 11      | Scripts, POCs & bullshit        | 2026-01-09   |
@@ -959,7 +958,6 @@
 | [openredscan](https://github.com/thenurhabib/openredscan) | 30      | 6       | Multifunctional open redirection vulnerability sca... | 2026-01-14   |
 | [OffSec-MISC](https://github.com/RodricBr/OffSec-MISC) | 30      | 4       | Offensive Security MISC Annotations and Payloads f... | 2026-01-18   |
 | [Bug-Hunting-methodologies](https://github.com/mrvcoder/Bug-Hunting-methodologies) | 30      | 8       | this repo contains some public methodologies which... | 2026-01-21   |
-| [-Ultimate-Cybersecurity-Roadmap](https://github.com/minhaj-313/-Ultimate-Cybersecurity-Roadmap) | 30      | 6       | Ultimate Cybersecurity Roadmap (2025 Edition) | Be... | 2026-03-14   |
 | [SQL-Injection-Payloads-List](https://github.com/Ninja-Yubaraj/SQL-Injection-Payloads-List) | 30      | 8       | SQL Injection Payloads List.    | 2026-03-09   |
 | [Barcha](https://github.com/S1N6H/Barcha) | 30      | 4       | Barcha is your Swiss‑Army knife for SQL Injectio... | 2025-12-30   |
 | [tldscan](https://github.com/rix4uni/tldscan) | 30      | 2       | A high-performance domain scanner that discovers a... | 2026-01-28   |
@@ -968,6 +966,7 @@
 | [phpunit-brute](https://github.com/RandomRobbieBF/phpunit-brute) | 29      | 19      | Tool to try multiple paths for PHPunit RCE CVE-201... | 2025-12-16   |
 | [dom-red](https://github.com/Naategh/dom-red) | 29      | 7       | Small script to check a list of domains against op... | 2026-02-18   |
 | [db](https://github.com/ihebski/db) | 29      | 6       | Bugbounty utility to store list of enumerated subd... | 2025-05-11   |
+| [salsa](https://github.com/cosad3s/salsa) | 29      | 6       | SALSA 💃⚡ - SALesforce Scanner for Aura (and b... | 2026-03-16   |
 | [AutoSubRecon](https://github.com/h0tak88r/AutoSubRecon) | 29      | 8       | bash script for automating subdomain enumeration p... | 2026-02-24   |
 | [AlphaScan](https://github.com/Anof-cyber/AlphaScan) | 29      | 4       | A BurpSuite extension for vulnerability Scanning | 2026-02-22   |
 | [bugbounty101](https://github.com/r00tgate/bugbounty101) | 28      | 23      | An entry level resource to learning bug bounty.  | 2025-09-04   |
@@ -976,7 +975,6 @@
 | [ORtester](https://github.com/aldo-moreno-leon/ORtester) | 28      | 10      | Open Redirect scanner - (out of date) | 2025-12-09   |
 | [android-scripts](https://github.com/i5nipe/android-scripts) | 28      | 6       | Some simple scripts that I use during bug bounty h... | 2025-01-30   |
 | [WhoEnum](https://github.com/melbadry9/WhoEnum) | 28      | 8       | Mass querying whois records     | 2026-02-12   |
-| [salsa](https://github.com/cosad3s/salsa) | 28      | 6       | SALSA 💃⚡ - SALesforce Scanner for Aura (and b... | 2026-02-25   |
 | [oty](https://github.com/1hehaq/oty) | 28      | 11      | Oty is a fast, customizable, CLI tool designed to ... | 2026-01-13   |
 | [ZombieVPN](https://github.com/0xsha/ZombieVPN) | 28      | 11      | CVE-2020-12828 PoC and Analysis.  | 2025-12-09   |
 | [BCheck-Burp-scripts](https://github.com/yeswehack/BCheck-Burp-scripts) | 28      | 6       | Bcheck scripts for Burp         | 2025-12-14   |
@@ -984,12 +982,15 @@
 | [er](https://github.com/ImAyrix/er) | 28      | 4       | 😁 Easy Regex                 | 2025-11-17   |
 | [diffJs](https://github.com/shoebpate1/diffJs) | 28      | 13      | Script for monitoring changes in javascript files ... | 2026-01-26   |
 | [pyxss](https://github.com/rix4uni/pyxss) | 28      | 12      | Simple XSS vulnerability checker tool very useful ... | 2026-01-09   |
-| [apk-analyzer](https://github.com/gwen001/apk-analyzer) | 28      | 7       | Analyze an APK archive.         | 2026-01-09   |
 | [coolsubh](https://github.com/shubhdhungana/coolsubh) | 28      | 11      | This Is The Ultimate Bug Bounty Automation & Web H... | 2025-10-12   |
+| [apk-analyzer](https://github.com/gwen001/apk-analyzer) | 28      | 7       | Analyze an APK archive.         | 2026-01-09   |
+| [xalgorix](https://github.com/xalgord/xalgorix) | 28      | 2       | Xalgorix - The Most Powerful Open-Source AI Pentes... | 2026-03-22   |
 | [flydns](https://github.com/shelld3v/flydns) | 28      | 4       | Related subdomains finder       | 2026-02-12   |
 | [bugbounty](https://github.com/bilalmerokhel/bugbounty) | 27      | 7       | No description                  | 2024-08-12   |
-| [clickjack](https://github.com/machine1337/clickjack) | 27      | 9       | An efficient tool To Find click jacking vulnerabil... | 2026-01-09   |
 | [Raceocat](https://github.com/JavanXD/Raceocat) | 27      | 8       | Make exploiting race conditions in web application... | 2025-12-16   |
+| [clickjack](https://github.com/machine1337/clickjack) | 27      | 9       | An efficient tool To Find click jacking vulnerabil... | 2026-01-09   |
+| [hacking_books_collection](https://github.com/pnagasaikiran/hacking_books_collection) | 27      | 4       | A collection of PDF/books about the modern web app... | 2026-03-20   |
+| [CorsOne](https://github.com/omranisecurity/CorsOne) | 27      | 4       | CorsOne - CORS Misconfiguration Discovery Tool | 2026-03-20   |
 | [WDIR](https://github.com/gkhan496/WDIR) | 27      | 3       | Good resources about web security that I have read... | 2025-08-19   |
 | [BitTraversal](https://github.com/BitTheByte/BitTraversal) | 27      | 4       | Burpsuite Plugin to detect Directory Traversal vul... | 2025-11-24   |
 | [GoogleDorker](https://github.com/Zierax/GoogleDorker) | 27      | 3       | Google Dork Finder is a Python tool designed to fa... | 2026-02-17   |
@@ -1000,227 +1001,226 @@
 | [nuclei-template](https://github.com/coookie1010/nuclei-template) | 26      | 10      | My custom created nuclei for SQLi, bugbounty, pent... | 2025-06-22   |
 | [netlas-python](https://github.com/netlas-io/netlas-python) | 26      | 6       | Netlas.io Python SDK & CLI  Tool | 2026-02-02   |
 | [HackerOne-Notifier](https://github.com/VincentDS/HackerOne-Notifier) | 26      | 5       | Send notifications if a new program is published o... | 2025-01-05   |
+| [bug-bounty-tools](https://github.com/rxerium/bug-bounty-tools) | 26      | 5       | A BASH Script to automate the installation of the ... | 2026-03-22   |
 | [bheh-sub-pwner](https://github.com/blackhatethicalhacking/bheh-sub-pwner) | 26      | 11      | This bash script tool, will perform advanced subdo... | 2026-03-05   |
 | [www-project-top-25-parameters](https://github.com/OWASP/www-project-top-25-parameters) | 26      | 12      | OWASP Foundation Web Respository | 2025-10-11   |
 | [Needle](https://github.com/humblelad/Needle) | 26      | 10      | Instant access to you bug bounty submission dashbo... | 2026-02-09   |
 | [rustywitness](https://github.com/swanandx/rustywitness) | 26      | 6       | A CLI tool for getting screenshots of URLs using h... | 2025-12-09   |
-| [CorsOne](https://github.com/omranisecurity/CorsOne) | 26      | 4       | CorsOne - CORS Misconfiguration Discovery Tool | 2026-02-14   |
 | [ipdiscover](https://github.com/JavierOlmedo/ipdiscover) | 26      | 3       | 🔍 A simple tool to obtain long lists of ips fro... | 2025-12-09   |
 | [security-policy-specification-standard](https://github.com/EdOverflow/security-policy-specification-standard) | 26      | 2       | This document proposes a way of standardising the ... | 2025-12-02   |
 | [BountyDork](https://github.com/ElNiak/BountyDork) | 26      | 5       | BountyDork is a comprehensive tool designed for pe... | 2026-01-13   |
-| [Learn-android-bug-bounty](https://github.com/Raunaksplanet/Learn-android-bug-bounty) | 26      | 8       | Documenting all the sources from where I'm learnin... | 2026-03-08   |
+| [GITLEAK_EXPLORER](https://github.com/roodriiigooo/GITLEAK_EXPLORER) | 26      | 4       | Advanced forensic analysis tool for recovering Git... | 2026-03-19   |
 | [CVE-2022-44268](https://github.com/kljunowsky/CVE-2022-44268) | 26      | 7       | CVE-2022-44268 ImageMagick Arbitrary File Read - P... | 2025-10-25   |
 | [hackguard](https://github.com/machine1337/hackguard) | 26      | 5       | FAST WEB APPLICATION VULNERABILITY SCANNER written... | 2026-03-02   |
 | [gotld](https://github.com/WHOISshuvam/gotld) | 26      | 1       | Command-line tool to enumerate top-level domains, ... | 2024-09-25   |
 | [docker-image-generator](https://github.com/tuxotron/docker-image-generator) | 25      | 8       | Customized docker images generation toolkit | 2026-02-12   |
 | [burnrecon](https://github.com/mswell/burnrecon) | 25      | 12      | is a tool to automate and organize reconnaissance ... | 2026-03-04   |
-| [bug-bounty-tools](https://github.com/rxerium/bug-bounty-tools) | 25      | 5       | A BASH Script to automate the installation of the ... | 2026-01-09   |
 | [recon.cloud](https://github.com/Devang-Solanki/recon.cloud) | 25      | 9       | recon.cloud is website that scans AWS, Azure and G... | 2026-01-25   |
 | [extract-endpoints](https://github.com/gwen001/extract-endpoints) | 25      | 7       | Extract endpoints from source files. | 2025-09-22   |
 | [top-burpsuite-plugins-extensions](https://github.com/Elsfa7-110/top-burpsuite-plugins-extensions) | 25      | 9       | No description                  | 2026-01-05   |
 | [BurpCRLFPlugin](https://github.com/vah13/BurpCRLFPlugin) | 25      | 6       | Another plugin for CRLF vulnerability detection | 2025-12-09   |
 | [Cert4Recon](https://github.com/mathis2001/Cert4Recon) | 25      | 5       | Simple passive Python Recon tool for subdomains en... | 2026-02-18   |
-| [hacking_books_collection](https://github.com/pnagasaikiran/hacking_books_collection) | 25      | 4       | A collection of PDF/books about the modern web app... | 2026-03-05   |
 | [WebHacking-Compiled](https://github.com/0xRahim/WebHacking-Compiled) | 25      | 5       | No description                  | 2026-01-12   |
 | [BugHunter](https://github.com/partha7278/BugHunter) | 25      | 7       | No description                  | 2025-10-28   |
-| [GITLEAK_EXPLORER](https://github.com/roodriiigooo/GITLEAK_EXPLORER) | 25      | 4       | Advanced forensic analysis tool for recovering Git... | 2026-03-06   |
 | [crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents) | 25      | 3       | Python script to check if there is any differences... | 2026-03-11   |
-| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 108426  | 10057   | A collection of various awesome lists for hackers,... | 2026-03-16   |
-| [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | 25510   | 4875    | This repository is maintained by Omar Santos (@san... | 2026-03-15   |
-| [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 7462    | 1638    | HexStrike AI MCP Agents is an advanced MCP server ... | 2026-03-16   |
-| [HackTools](https://github.com/LasCC/HackTools) | 6650    | 748     | The all-in-one browser extension for offensive sec... | 2026-03-15   |
-| [keyhacks](https://github.com/streaak/keyhacks) | 6101    | 1199    | Keyhacks is a repository which shows quick ways in... | 2026-03-15   |
-| [naabu](https://github.com/projectdiscovery/naabu) | 5809    | 666     | A fast port scanner written in go with a focus on ... | 2026-03-15   |
-| [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) | 5498    | 1030    | A comprehensive curated list of available Bug Boun... | 2026-03-15   |
-| [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) | 5244    | 953     | Our main goal is to share tips from some well-know... | 2026-03-14   |
-| [axiom](https://github.com/pry0cc/axiom) | 4357    | 719     | The dynamic infrastructure framework for everybody... | 2026-03-14   |
-| [black-hat-rust](https://github.com/skerkour/black-hat-rust) | 4290    | 427     | Applied offensive security with Rust  - https://ke... | 2026-03-15   |
-| [afrog](https://github.com/zan8in/afrog) | 4200    | 467     | A Security Tool for Bug Bounty, Pentest and Red Te... | 2026-03-15   |
-| [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) | 4076    | 1014    | Inspired by https://github.com/djadmin/awesome-bug... | 2026-03-15   |
-| [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) | 3668    | 649     | This repo contains hourly-updated data dumps of bu... | 2026-03-15   |
-| [BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) | 2487    | 502     | This cheatsheet is built for the Bug Bounty Hunter... | 2026-03-15   |
-| [FBI-tools](https://github.com/danieldurnea/FBI-tools) | 2430    | 355     | 🕵️ OSINT Tools for gathering information and ... | 2026-03-15   |
-| [sn0int](https://github.com/kpcyrd/sn0int) | 2411    | 218     | Semi-automatic OSINT framework and package manager | 2026-03-12   |
-| [Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) | 2317    | 299     | This is a resource factory for anyone looking forw... | 2026-03-15   |
-| [dnsReaper](https://github.com/punk-security/dnsReaper) | 2202    | 192     | dnsReaper - subdomain takeover tool for attackers,... | 2026-03-15   |
-| [collection-document](https://github.com/tom0li/collection-document) | 2098    | 512     | Collection of quality safety articles. Awesome art... | 2026-03-14   |
-| [Bug-bounty](https://github.com/sehno/Bug-bounty) | 1910    | 590     | Ressources for bug bounty hunting | 2026-03-15   |
-| [bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks) | 1897    | 482     | List of Google Dorks for sites that have responsib... | 2026-03-15   |
-| [BBTz](https://github.com/m4ll0k/BBTz) | 1884    | 471     | BBT - Bug Bounty Tools (examples💡) | 2026-03-13   |
-| [google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty) | 1782    | 253     | A list of Google Dorks for Bug Bounty, Web Applica... | 2026-03-15   |
-| [pentestagent](https://github.com/GH05TCREW/pentestagent) | 1748    | 370     | PentestAgent is an AI agent framework for black-bo... | 2026-03-15   |
+| [ASN-Eagle](https://github.com/ritiksahni/ASN-Eagle) | 25      | 7       | A tool to discover ASN of any host and fetch IP ra... | 2025-12-09   |
+| [nextassets](https://github.com/icecliffs/nextassets) | 25      | 0       | Bug Hunter/Red Team/Yellow Team/Blue Team/Green Te... | 2026-02-09   |
+| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 108883  | 10076   | A collection of various awesome lists for hackers,... | 2026-03-23   |
+| [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | 25603   | 4891    | This repository is maintained by Omar Santos (@san... | 2026-03-22   |
+| [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 7616    | 1677    | HexStrike AI MCP Agents is an advanced MCP server ... | 2026-03-22   |
+| [HackTools](https://github.com/LasCC/HackTools) | 6664    | 748     | The all-in-one browser extension for offensive sec... | 2026-03-22   |
+| [keyhacks](https://github.com/streaak/keyhacks) | 6113    | 1198    | Keyhacks is a repository which shows quick ways in... | 2026-03-21   |
+| [naabu](https://github.com/projectdiscovery/naabu) | 5825    | 668     | A fast port scanner written in go with a focus on ... | 2026-03-22   |
+| [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) | 5511    | 1030    | A comprehensive curated list of available Bug Boun... | 2026-03-22   |
+| [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) | 5254    | 958     | Our main goal is to share tips from some well-know... | 2026-03-19   |
+| [axiom](https://github.com/pry0cc/axiom) | 4361    | 719     | The dynamic infrastructure framework for everybody... | 2026-03-22   |
+| [black-hat-rust](https://github.com/skerkour/black-hat-rust) | 4295    | 428     | Applied offensive security with Rust  - https://ke... | 2026-03-22   |
+| [afrog](https://github.com/zan8in/afrog) | 4208    | 467     | A Security Tool for Bug Bounty, Pentest and Red Te... | 2026-03-21   |
+| [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) | 4078    | 1013    | Inspired by https://github.com/djadmin/awesome-bug... | 2026-03-22   |
+| [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) | 3673    | 649     | This repo contains hourly-updated data dumps of bu... | 2026-03-23   |
+| [BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) | 2492    | 501     | This cheatsheet is built for the Bug Bounty Hunter... | 2026-03-22   |
+| [FBI-tools](https://github.com/danieldurnea/FBI-tools) | 2436    | 355     | 🕵️ OSINT Tools for gathering information and ... | 2026-03-22   |
+| [sn0int](https://github.com/kpcyrd/sn0int) | 2416    | 218     | Semi-automatic OSINT framework and package manager | 2026-03-22   |
+| [Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) | 2320    | 300     | This is a resource factory for anyone looking forw... | 2026-03-19   |
+| [dnsReaper](https://github.com/punk-security/dnsReaper) | 2202    | 192     | dnsReaper - subdomain takeover tool for attackers,... | 2026-03-19   |
+| [collection-document](https://github.com/tom0li/collection-document) | 2101    | 512     | Collection of quality safety articles. Awesome art... | 2026-03-20   |
+| [Bug-bounty](https://github.com/sehno/Bug-bounty) | 1911    | 591     | Ressources for bug bounty hunting | 2026-03-21   |
+| [bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks) | 1908    | 482     | List of Google Dorks for sites that have responsib... | 2026-03-22   |
+| [BBTz](https://github.com/m4ll0k/BBTz) | 1884    | 472     | BBT - Bug Bounty Tools (examples💡) | 2026-03-21   |
+| [google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty) | 1787    | 256     | A list of Google Dorks for Bug Bounty, Web Applica... | 2026-03-22   |
+| [pentestagent](https://github.com/GH05TCREW/pentestagent) | 1778    | 373     | PentestAgent is an AI agent framework for black-bo... | 2026-03-22   |
 | [Bug-Bounty-Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) | 1717    | 296     | Bug Bounty Roadmaps             | 2026-03-04   |
-| [dumpall](https://github.com/0xHJK/dumpall) | 1559    | 152     | 一款信息泄漏利用工具，适用于.git/.sv | 2026-03-16   |
-| [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) | 1454    | 248     | 🐛 A list of writeups from the Google VRP Bug Bo... | 2026-03-14   |
-| [clairvoyance](https://github.com/nikitastupin/clairvoyance) | 1405    | 124     | Obtain GraphQL API schema even if the introspectio... | 2026-03-15   |
-| [cook](https://github.com/glitchedgitz/cook) | 1334    | 143     | A wordlist framework to fullfill your kinks with y... | 2026-03-13   |
-| [v3-periphery](https://github.com/Uniswap/v3-periphery) | 1308    | 1232    | 🦄 🦄 🦄 Peripheral smart contracts for inte... | 2026-03-15   |
-| [First-Bounty](https://github.com/BehiSecc/First-Bounty) | 1119    | 127     | A complete, beginner-friendly bug bounty roadmap t... | 2026-03-15   |
-| [Immunefi-bug-bounty-writeups-list](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list) | 1117    | 127     | curation of all(most) immunefi bug bounty writeups... | 2026-03-14   |
-| [diodb](https://github.com/disclose/diodb) | 1054    | 325     | Open-source vulnerability disclosure and bug bount... | 2026-03-03   |
-| [sublert](https://github.com/yassineaboukir/sublert) | 1027    | 167     | Sublert is a security and reconnaissance tool whic... | 2026-02-27   |
-| [resolvers](https://github.com/trickest/resolvers) | 964     | 104     | The most exhaustive list of reliable DNS resolvers... | 2026-03-15   |
-| [offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) | 918     | 70      | A collection of bookmarks for penetration testers,... | 2026-03-11   |
-| [SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX) | 916     | 133     | A cross-platform note-taking & target-tracking app... | 2026-03-13   |
-| [reconmap](https://github.com/reconmap/reconmap) | 913     | 127     | Reconmap is a collaboration-first security operati... | 2026-03-15   |
-| [sectemplates](https://github.com/securitytemplates/sectemplates) | 893     | 128     | Open source templates you can use to bootstrap you... | 2026-03-14   |
-| [study-bug-bounty](https://github.com/bobby-lin/study-bug-bounty) | 886     | 108     | Beginner Guide to Bug Hunting   | 2026-03-15   |
+| [dumpall](https://github.com/0xHJK/dumpall) | 1562    | 152     | 一款信息泄漏利用工具，适用于.git/.sv | 2026-03-21   |
+| [awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) | 1463    | 248     | 🐛 A list of writeups from the Google VRP Bug Bo... | 2026-03-21   |
+| [clairvoyance](https://github.com/nikitastupin/clairvoyance) | 1412    | 126     | Obtain GraphQL API schema even if the introspectio... | 2026-03-23   |
+| [cook](https://github.com/glitchedgitz/cook) | 1339    | 143     | A wordlist framework to fullfill your kinks with y... | 2026-03-19   |
+| [v3-periphery](https://github.com/Uniswap/v3-periphery) | 1309    | 1232    | 🦄 🦄 🦄 Peripheral smart contracts for inte... | 2026-03-21   |
+| [First-Bounty](https://github.com/BehiSecc/First-Bounty) | 1136    | 128     | A complete, beginner-friendly bug bounty roadmap t... | 2026-03-22   |
+| [Immunefi-bug-bounty-writeups-list](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list) | 1117    | 128     | curation of all(most) immunefi bug bounty writeups... | 2026-03-22   |
+| [diodb](https://github.com/disclose/diodb) | 1054    | 325     | Open-source vulnerability disclosure and bug bount... | 2026-03-20   |
+| [sublert](https://github.com/yassineaboukir/sublert) | 1026    | 167     | Sublert is a security and reconnaissance tool whic... | 2026-03-20   |
+| [resolvers](https://github.com/trickest/resolvers) | 971     | 106     | The most exhaustive list of reliable DNS resolvers... | 2026-03-22   |
+| [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | 952     | 167     | Claude Code skill for AI-assisted bug bounty hunti... | 2026-03-23   |
+| [offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) | 920     | 70      | A collection of bookmarks for penetration testers,... | 2026-03-20   |
+| [SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX) | 916     | 133     | A cross-platform note-taking & target-tracking app... | 2026-03-19   |
+| [reconmap](https://github.com/reconmap/reconmap) | 914     | 127     | Reconmap is a collaboration-first security operati... | 2026-03-22   |
+| [sectemplates](https://github.com/securitytemplates/sectemplates) | 894     | 128     | Open source templates you can use to bootstrap you... | 2026-03-16   |
+| [study-bug-bounty](https://github.com/bobby-lin/study-bug-bounty) | 889     | 108     | Beginner Guide to Bug Hunting   | 2026-03-19   |
 | [DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) | 883     | 72      |  Quickly Extracts IP's, Email Addresses, Hashes, F... | 2026-03-15   |
-| [bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) | 875     | 182     | A community-powered collection of all known bug bo... | 2026-03-15   |
-| [penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) | 794     | 159     | Work in progress...             | 2026-03-14   |
-| [wpprobe](https://github.com/Chocapikk/wpprobe) | 793     | 100     | A fast WordPress plugin enumeration tool | 2026-03-15   |
-| [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) | 744     | 158     | A vulnerable Android application that shows simple... | 2026-03-15   |
-| [AllForOne](https://github.com/AggressiveUser/AllForOne) | 732     | 110     | AllForOne  allows bug bounty hunters and security ... | 2026-03-04   |
-| [bounty-targets](https://github.com/arkadiyt/bounty-targets) | 708     | 130     | This project crawls bug bounty platform scopes (li... | 2026-03-10   |
-| [vajra](https://github.com/r3curs1v3-pr0xy/vajra) | 705     | 159     | Vajra is a highly customizable target and scope ba... | 2026-02-13   |
-| [chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) | 696     | 99      | ChatGPT Prompts for Bug Bounty & Pentesting | 2026-03-15   |
-| [xurlfind3r](https://github.com/hueristiq/xurlfind3r) | 691     | 77      | A command-line utility designed to discover URLs f... | 2026-03-04   |
-| [ars0n-framework](https://github.com/R-s0n/ars0n-framework) | 654     | 147     | A Modern Framework for Bug Bounty Hunting | 2026-03-12   |
-| [bbrf-client](https://github.com/honoki/bbrf-client) | 641     | 90      | The Bug Bounty Reconnaissance Framework (BBRF) can... | 2026-03-02   |
-| [goop](https://github.com/nyancrimew/goop) | 640     | 54      | Yet another tool to dump a git repository from a w... | 2026-03-06   |
+| [bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) | 877     | 183     | A community-powered collection of all known bug bo... | 2026-03-22   |
+| [wpprobe](https://github.com/Chocapikk/wpprobe) | 799     | 100     | A fast WordPress plugin enumeration tool | 2026-03-22   |
+| [penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) | 796     | 160     | Work in progress...             | 2026-03-22   |
+| [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) | 744     | 159     | A vulnerable Android application that shows simple... | 2026-03-15   |
+| [AllForOne](https://github.com/AggressiveUser/AllForOne) | 733     | 111     | AllForOne  allows bug bounty hunters and security ... | 2026-03-21   |
+| [bounty-targets](https://github.com/arkadiyt/bounty-targets) | 708     | 130     | This project crawls bug bounty platform scopes (li... | 2026-03-22   |
+| [vajra](https://github.com/r3curs1v3-pr0xy/vajra) | 704     | 158     | Vajra is a highly customizable target and scope ba... | 2026-03-19   |
+| [chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) | 697     | 99      | ChatGPT Prompts for Bug Bounty & Pentesting | 2026-03-17   |
+| [xurlfind3r](https://github.com/hueristiq/xurlfind3r) | 696     | 77      | A command-line utility designed to discover URLs f... | 2026-03-22   |
+| [ars0n-framework](https://github.com/R-s0n/ars0n-framework) | 655     | 147     | A Modern Framework for Bug Bounty Hunting | 2026-03-22   |
+| [goop](https://github.com/nyancrimew/goop) | 641     | 54      | Yet another tool to dump a git repository from a w... | 2026-03-19   |
 | [aztec-v1](https://github.com/AztecProtocol/aztec-v1) | 632     | 103     | Public repository for the AZTEC V1 protocol. For t... | 2026-03-15   |
 | [Bug-Bounty-Wordlists](https://github.com/YA551N3/Bug-Bounty-Wordlists) | 631     | 123     | No description                  | 2026-03-15   |
-| [KEV](https://github.com/Ostorlab/KEV) | 606     | 44      | Ostorlab KEV: One-command to detect most remotely ... | 2026-03-12   |
-| [pentest](https://github.com/ZishanAdThandar/pentest) | 605     | 87      | Pentesting and Bug Bounty Notes, Cheetsheets and G... | 2026-03-15   |
-| [ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) | 598     | 126     | Bug Bounty Hunting Framework Designed to Help Begi... | 2026-03-15   |
+| [KEV](https://github.com/Ostorlab/KEV) | 607     | 44      | Ostorlab KEV: One-command to detect most remotely ... | 2026-03-16   |
+| [pentest](https://github.com/ZishanAdThandar/pentest) | 605     | 88      | Pentesting and Bug Bounty Notes, Cheetsheets and G... | 2026-03-22   |
+| [ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) | 601     | 127     | Bug Bounty Hunting Framework Designed to Help Begi... | 2026-03-22   |
 | [revsuit](https://github.com/Li4n0/revsuit) | 562     | 69      | RevSuit is a flexible and powerful reverse connect... | 2026-03-10   |
 | [rustbuster](https://github.com/phra/rustbuster) | 552     | 63      | A Comprehensive Web Fuzzer and Content Discovery T... | 2026-02-12   |
-| [wifi-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/wifi-penetration-testing-cheat-sheet) | 533     | 87      | Work in progress...             | 2026-03-14   |
+| [wifi-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/wifi-penetration-testing-cheat-sheet) | 536     | 87      | Work in progress...             | 2026-03-22   |
+| [awesome-rtc-hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) | 525     | 50      | a list of awesome resources related to security an... | 2026-03-21   |
+| [WebHackingTools](https://github.com/supr4s/WebHackingTools) | 524     | 110     | Automatically install some web hacking/bug bounty ... | 2026-03-21   |
 | [rekono](https://github.com/pablosnt/rekono) | 523     | 82      | Pentesting automation platform that combines hacki... | 2026-03-10   |
-| [WebHackingTools](https://github.com/supr4s/WebHackingTools) | 522     | 110     | Automatically install some web hacking/bug bounty ... | 2026-03-08   |
-| [awesome-rtc-hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) | 522     | 50      | a list of awesome resources related to security an... | 2026-03-13   |
-| [BCHackTool](https://github.com/ByCh4n/BCHackTool) | 521     | 87      | 🔥 Professional Penetration Testing Framework v4... | 2026-03-13   |
-| [cheat-sheets](https://github.com/0xn3va/cheat-sheets) | 493     | 60      | A list of cheat sheets for application security | 2026-03-15   |
-| [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | 483     | 94      | Claude Code skill for AI-assisted bug bounty hunti... | 2026-03-16   |
+| [BCHackTool](https://github.com/ByCh4n/BCHackTool) | 521     | 88      | 🔥 Professional Penetration Testing Framework v4... | 2026-03-13   |
+| [cheat-sheets](https://github.com/0xn3va/cheat-sheets) | 495     | 60      | A list of cheat sheets for application security | 2026-03-22   |
 | [nahamsec.training](https://github.com/nahamsec/nahamsec.training) | 473     | 104     | The labs for my Udemy course (https://www.udemy.co... | 2026-03-05   |
-| [android-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet) | 472     | 71      | Work in progress...             | 2026-03-01   |
-| [xss_vibes](https://github.com/faiyazahmad07/xss_vibes) | 470     | 83      | A modern tool written in Python that automates you... | 2026-03-15   |
+| [android-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet) | 472     | 72      | Work in progress...             | 2026-03-01   |
+| [xss_vibes](https://github.com/faiyazahmad07/xss_vibes) | 471     | 83      | A modern tool written in Python that automates you... | 2026-03-20   |
+| [My-CyberSecurity-Store](https://github.com/Raunaksplanet/My-CyberSecurity-Store) | 471     | 141     | This repository contains a comprehensive collectio... | 2026-03-22   |
 | [sessionprobe](https://github.com/dub-flow/sessionprobe) | 463     | 38      | SessionProbe is a multi-threaded tool designed for... | 2026-03-12   |
-| [My-CyberSecurity-Store](https://github.com/Raunaksplanet/My-CyberSecurity-Store) | 455     | 135     | This repository contains a comprehensive collectio... | 2026-03-15   |
 | [DirDar](https://github.com/M4DM0e/DirDar) | 453     | 96      | DirDar is a tool that searches for (403-Forbidden)... | 2026-02-12   |
-| [god-eye](https://github.com/Vyntral/god-eye) | 436     | 58      | AI-powered subdomain enumeration tool with local L... | 2026-03-14   |
+| [god-eye](https://github.com/Vyntral/god-eye) | 437     | 58      | AI-powered subdomain enumeration tool with local L... | 2026-03-19   |
 | [hysp](https://github.com/pwnwriter/hysp) | 413     | 7       | 📦 An independent package manager that every hac... | 2026-02-06   |
-| [ios-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet) | 408     | 75      | Work in progress...             | 2026-03-09   |
-| [subcat](https://github.com/duty1g/subcat) | 404     | 53      | Lightning-fast passive subdomain discovery tool fo... | 2026-03-15   |
-| [Bug-Bounty-Hunting-Methodology-2025](https://github.com/amrelsagaei/Bug-Bounty-Hunting-Methodology-2025) | 401     | 97      | Bug Bounty Methodology 2025: Tools, techniques, an... | 2026-03-15   |
+| [ios-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet) | 408     | 76      | Work in progress...             | 2026-03-09   |
+| [Bug-Bounty-Hunting-Methodology-2025](https://github.com/amrelsagaei/Bug-Bounty-Hunting-Methodology-2025) | 403     | 96      | Bug Bounty Methodology 2025: Tools, techniques, an... | 2026-03-19   |
+| [subcat](https://github.com/duty1g/subcat) | 403     | 53      | Lightning-fast passive subdomain discovery tool fo... | 2026-03-22   |
 | [chomp-scan](https://github.com/SolomonSklash/chomp-scan) | 397     | 68      | A scripted pipeline of tools to streamline the bug... | 2026-02-12   |
-| [image-upload-exploits](https://github.com/barrracud4/image-upload-exploits) | 350     | 85      | This repository contains various media files for k... | 2026-03-13   |
-| [bbrf-server](https://github.com/honoki/bbrf-server) | 329     | 52      | The Bug Bounty Reconnaissance Framework (BBRF) can... | 2026-03-08   |
-| [SecArchive](https://github.com/MDKAIF302/SecArchive) | 315     | 60      | 🥷 SecArchive - Cybersecurity Resource Collectio... | 2026-02-16   |
+| [image-upload-exploits](https://github.com/barrracud4/image-upload-exploits) | 351     | 85      | This repository contains various media files for k... | 2026-03-22   |
+| [SecArchive](https://github.com/MDKAIF302/SecArchive) | 315     | 59      | 🥷 SecArchive - Cybersecurity Resource Collectio... | 2026-02-16   |
 | [handbook](https://github.com/0xffsec/handbook) | 314     | 48      | A living document for penetration testing and offe... | 2026-03-04   |
-| [SRCMS](https://github.com/martinzhou2015/SRCMS) | 303     | 161     | SRCMS企业应急响应与缺陷管理系统 | 2026-01-26   |
-| [powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) | 302     | 66      | PowerShell scripts for communicating with a remote... | 2026-03-13   |
+| [SRCMS](https://github.com/martinzhou2015/SRCMS) | 302     | 161     | SRCMS企业应急响应与缺陷管理系统 | 2026-03-22   |
+| [powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp) | 302     | 67      | PowerShell scripts for communicating with a remote... | 2026-03-13   |
 | [Subdominator](https://github.com/Stratus-Security/Subdominator) | 301     | 24      | The Internets #1 Subdomain Takeover Tool | 2026-03-08   |
 | [Bug_Bounty_Notes](https://github.com/R-s0n/Bug_Bounty_Notes) | 281     | 96      | A collection of notes for bug bounty hunting | 2026-03-05   |
 | [Facebook-Bug-Bounty-Write-ups](https://github.com/1hack0/Facebook-Bug-Bounty-Write-ups) | 276     | 48      | Hunting Bugs for Fun and Profit | 2026-03-09   |
 | [huntr](https://github.com/418sec/huntr) | 269     | 88      | Public Roadmap | huntr.dev      | 2025-11-22   |
-| [crt.sh](https://github.com/az7rb/crt.sh) | 263     | 34      | Crtsh Subdomain Enumeration | This bash script mak... | 2026-02-08   |
+| [crt.sh](https://github.com/az7rb/crt.sh) | 264     | 34      | Crtsh Subdomain Enumeration | This bash script mak... | 2026-03-20   |
 | [forbidden](https://github.com/ivan-sincek/forbidden) | 257     | 50      | Bypass 4xx HTTP response status codes and more. Th... | 2026-03-14   |
 | [Automated-Scanner](https://github.com/0xspade/Automated-Scanner) | 255     | 52      | Trying to make automated recon for bug bounties | 2026-01-27   |
-| [mySapAdventures](https://github.com/shipcod3/mySapAdventures) | 254     | 74      | A quick methodology on testing / hacking SAP Appli... | 2026-03-12   |
+| [mySapAdventures](https://github.com/shipcod3/mySapAdventures) | 255     | 74      | A quick methodology on testing / hacking SAP Appli... | 2026-03-16   |
 | [dorky](https://github.com/codingo/dorky) | 245     | 18      | A tool to quickly do keyword searches over Gitlab ... | 2026-02-08   |
-| [BugTrace-AI](https://github.com/yz9yt/BugTrace-AI) | 244     | 48      | [ARCHIVED] Evolved into BugTraceAI v2 — github.c... | 2026-03-13   |
-| [WebHeckScanner](https://github.com/grahamzemel/WebHeckScanner) | 242     | 50      | A hacking tool for bug bounties. Sharing and modif... | 2025-12-31   |
+| [BugTrace-AI](https://github.com/yz9yt/BugTrace-AI) | 244     | 48      | [ARCHIVED] Evolved into BugTraceAI v2 — github.c... | 2026-03-19   |
+| [WebHeckScanner](https://github.com/grahamzemel/WebHeckScanner) | 242     | 50      | A hacking tool for bug bounties. Sharing and modif... | 2026-03-22   |
 | [hawkeye](https://github.com/Ice3man543/hawkeye) | 242     | 42      | Hawkeye filesystem analysis tool | 2025-12-20   |
 | [dorkscout](https://github.com/R4yGM/dorkscout) | 241     | 29      | DorkScout - Golang tool to automate google dork sc... | 2026-02-05   |
+| [Payloader](https://github.com/3516634930/Payloader) | 241     | 61      | 渗透测试Payload速查平台 | Pentest Payload ... | 2026-03-21   |
 | [bug-bounty-standards](https://github.com/hakluke/bug-bounty-standards) | 236     | 13      | A list of edge cases that occur in bug bounty prog... | 2026-02-26   |
 | [Bug-Bounty-Methodology](https://github.com/trilokdhaked/Bug-Bounty-Methodology) | 233     | 42      | No description                  | 2026-03-09   |
 | [bug-bounty](https://github.com/ton-blockchain/bug-bounty) | 230     | 42      | TON security bug bounty description | 2026-03-15   |
 | [bounty-monitor](https://github.com/nashcontrol/bounty-monitor) | 224     | 49      | Leverage certificate transparency live feed to mon... | 2025-11-07   |
+| [SILENTCHAIN](https://github.com/silentchainai/SILENTCHAIN) | 219     | 61      | AI-powered vulnerability scanner extension for Bur... | 2026-03-22   |
+| [h1-brain](https://github.com/PatrikFehrenbach/h1-brain) | 218     | 32      | MCP server that connects AI assistants to HackerOn... | 2026-03-22   |
 | [viewstamped-replication-made-famous](https://github.com/tigerbeetle/viewstamped-replication-made-famous) | 218     | 11      | A $20k consensus challenge based on TigerBeetle's ... | 2026-03-13   |
-| [pidrila](https://github.com/enemy-submarine/pidrila) | 218     | 28      | Python Interactive Deepweb-oriented Rapid Intellig... | 2026-02-12   |
-| [goaltdns](https://github.com/subfinder/goaltdns) | 209     | 29      | A permutation generation tool written in golang | 2026-02-27   |
-| [bug-bounty-village-defcon32-workshop](https://github.com/R-s0n/bug-bounty-village-defcon32-workshop) | 205     | 51      | The repo contains all the the notes, slides, and s... | 2026-03-04   |
-| [SILENTCHAIN](https://github.com/silentchainai/SILENTCHAIN) | 202     | 59      | AI-powered vulnerability scanner extension for Bur... | 2026-03-15   |
+| [pidrila](https://github.com/enemy-submarine/pidrila) | 217     | 28      | Python Interactive Deepweb-oriented Rapid Intellig... | 2026-03-17   |
+| [goaltdns](https://github.com/subfinder/goaltdns) | 210     | 30      | A permutation generation tool written in golang | 2026-03-18   |
+| [bug-bounty-village-defcon32-workshop](https://github.com/R-s0n/bug-bounty-village-defcon32-workshop) | 206     | 51      | The repo contains all the the notes, slides, and s... | 2026-03-22   |
 | [bug-bounty-labs](https://github.com/leetCipher/bug-bounty-labs) | 199     | 63      | All the labs in this repository simulate real worl... | 2026-03-02   |
 | [bash_scripting](https://github.com/bing0o/bash_scripting) | 195     | 66      | bash scripting thing!           | 2026-03-12   |
 | [TotalPass](https://github.com/0xHJK/TotalPass) | 193     | 15      | Default password scanner. 默认密码扫描器 | 2025-12-09   |
 | [secops-mcp](https://github.com/securityfortech/secops-mcp) | 190     | 32      | All-in-one security testing toolbox that brings to... | 2026-03-12   |
-| [Payloader](https://github.com/3516634930/Payloader) | 184     | 52      | 渗透测试Payload速查平台 | Pentest Payload ... | 2026-03-16   |
+| [xssorRecon](https://github.com/xss0r/xssorRecon) | 182     | 57      | Automate Recon XSS Bug Bounty   | 2026-03-19   |
 | [audits](https://github.com/solidified-platform/audits) | 182     | 41      | Audits performed by Solidified  | 2025-11-13   |
-| [xssorRecon](https://github.com/xss0r/xssorRecon) | 179     | 57      | Automate Recon XSS Bug Bounty   | 2026-03-10   |
-| [Drana-Infinity](https://github.com/IHA089/Drana-Infinity) | 177     | 31      | Drana-Infinity is a locally hosted advanced AI ass... | 2026-03-15   |
-| [Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) | 177     | 38      | According to all known laws of aviation, there is ... | 2026-03-15   |
+| [Drana-Infinity](https://github.com/IHA089/Drana-Infinity) | 180     | 31      | Drana-Infinity is a locally hosted advanced AI ass... | 2026-03-20   |
+| [Comp_Sci_Sem_2](https://github.com/danderfer/Comp_Sci_Sem_2) | 178     | 38      | According to all known laws of aviation, there is ... | 2026-03-22   |
 | [firebaseExploiter](https://github.com/securebinary/firebaseExploiter) | 175     | 17      | FirebaseExploiter is a vulnerability discovery too... | 2026-02-14   |
-| [fucking-Awesome-Hacking](https://github.com/Correia-jpv/fucking-Awesome-Hacking) | 175     | 19      | A collection of various awesome lists for hackers,... | 2026-03-14   |
-| [Awesome_CyberSec_Bible](https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible) | 174     | 30      | Cyber-Security Bible! Theory and Tools, Kali Linux... | 2026-03-14   |
+| [Awesome_CyberSec_Bible](https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible) | 175     | 30      | Cyber-Security Bible! Theory and Tools, Kali Linux... | 2026-03-19   |
+| [fucking-Awesome-Hacking](https://github.com/Correia-jpv/fucking-Awesome-Hacking) | 175     | 19      | A collection of various awesome lists for hackers,... | 2026-03-22   |
+| [scammy-bbp](https://github.com/pdelteil/scammy-bbp) | 172     | 22      | Self-hosted bug bounty programs that are "scammy" ... | 2026-03-21   |
 | [Magic-CheckList-for-Web-Applications](https://github.com/soy-elmago/Magic-CheckList-for-Web-Applications) | 171     | 64      | Web Security Checklist (Bug Bounty & Pentesting) | 2026-02-27   |
-| [scammy-bbp](https://github.com/pdelteil/scammy-bbp) | 168     | 22      | Self-hosted bug bounty programs that are "scammy" ... | 2026-02-24   |
-| [h1-brain](https://github.com/PatrikFehrenbach/h1-brain) | 166     | 21      | MCP server that connects AI assistants to HackerOn... | 2026-03-15   |
 | [secrets-ninja](https://github.com/NikhilPanwar/secrets-ninja) | 159     | 21      | Secrets Ninja is an GUI tool for validating & inve... | 2026-03-05   |
 | [Clickjacking-Tester](https://github.com/D4Vinci/Clickjacking-Tester) | 157     | 61      | A python script designed to check if the website i... | 2026-03-10   |
 | [merklemap-cli](https://github.com/Merklemap/merklemap-cli) | 156     | 9       | Discover and enumerate all subdomains associated w... | 2026-03-09   |
-| [pathbuster](https://github.com/ethicalhackingplayground/pathbuster) | 152     | 14      | A path-normalization pentesting tool. | 2026-03-11   |
+| [pathbuster](https://github.com/ethicalhackingplayground/pathbuster) | 153     | 14      | A path-normalization pentesting tool. | 2026-03-22   |
 | [GAE-RCE](https://github.com/ezequielpereira/GAE-RCE) | 151     | 20      | Google App Engine - Remote Code Execution bug ($36... | 2025-09-04   |
 | [subtake](https://github.com/jakejarvis/subtake) | 150     | 29      | Automatic finder for subdomains vulnerable to take... | 2026-03-07   |
 | [not-your-average-web-crawler](https://github.com/tijme/not-your-average-web-crawler) | 149     | 35      | A web crawler (for bug hunting) that gathers more ... | 2025-12-09   |
-| [Past-Audit-Competitions](https://github.com/immunefi-team/Past-Audit-Competitions) | 147     | 24      | Bug reports from Immunefi Bounty Boosts | 2026-03-12   |
-| [SQL_Injection-Techniques](https://github.com/ifconfig-me/SQL_Injection-Techniques) | 146     | 80      | Advanced SQL Injection Techniques for Bug Bounty H... | 2026-03-11   |
-| [react2shell-ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate) | 143     | 32      | React2Shell Ultimate - The most comprehensive CVE-... | 2026-03-15   |
+| [SQL_Injection-Techniques](https://github.com/ifconfig-me/SQL_Injection-Techniques) | 147     | 81      | Advanced SQL Injection Techniques for Bug Bounty H... | 2026-03-22   |
+| [Past-Audit-Competitions](https://github.com/immunefi-team/Past-Audit-Competitions) | 147     | 25      | Bug reports from Immunefi Bounty Boosts | 2026-03-12   |
+| [react2shell-ultimate](https://github.com/hackersatyamrastogi/react2shell-ultimate) | 144     | 32      | React2Shell Ultimate - The most comprehensive CVE-... | 2026-03-19   |
 | [Bug-Hunting](https://github.com/Vanshal/Bug-Hunting) | 142     | 22      | The aim of this Reposiotry is to Provide the Resou... | 2025-09-04   |
+| [bounty-challenge](https://github.com/PlatformNetwork/bounty-challenge) | 140     | 22      | [🤝] bounty-challenge incentivizes bug discovery... | 2026-03-20   |
 | [bug-bounty-101](https://github.com/1hack0/bug-bounty-101) | 138     | 34      | Happy Hunting                   | 2025-09-18   |
+| [KALI-CMDs](https://github.com/bhavesh-pardhi/KALI-CMDs) | 138     | 33      | "Essential Kali Linux commands for ethical hackers... | 2026-03-22   |
 | [Security-Guide](https://github.com/Tikam02/Security-Guide) | 135     | 37      | Capture The Flag  | HackTheBox | OSCP | Bug Bounty... | 2026-01-13   |
-| [malware-apk](https://github.com/ivan-sincek/malware-apk) | 135     | 35      | As a bug hunter, are your bug bounty reports getti... | 2026-03-06   |
-| [KALI-CMDs](https://github.com/bhavesh-pardhi/KALI-CMDs) | 134     | 33      | "Essential Kali Linux commands for ethical hackers... | 2026-03-15   |
+| [malware-apk](https://github.com/ivan-sincek/malware-apk) | 135     | 36      | As a bug hunter, are your bug bounty reports getti... | 2026-03-18   |
 | [Ecommerce-Website-Security-CheckList](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList) | 131     | 28      | List of considerations for commerce site auditing ... | 2026-02-26   |
-| [bounty-challenge](https://github.com/PlatformNetwork/bounty-challenge) | 130     | 17      | [🤝] bounty-challenge incentivizes bug discovery... | 2026-03-15   |
+| [google-hacking-assistant](https://github.com/Pa55w0rd/google-hacking-assistant) | 130     | 7       | 🔍 Chrome扩展，为安全研究和渗透测试... | 2026-03-19   |
 | [legion](https://github.com/muellerberndt/legion) | 129     | 24      | Scrappy assistant that automates web3 bug hunting ... | 2026-01-27   |
-| [google-hacking-assistant](https://github.com/Pa55w0rd/google-hacking-assistant) | 127     | 7       | 🔍 Chrome扩展，为安全研究和渗透测试... | 2026-03-11   |
-| [BugHunterMethodology](https://github.com/alihussainzada/BugHunterMethodology) | 126     | 33      | A comprehensive bug bounty methodology compiled fr... | 2026-03-13   |
+| [BugHunterMethodology](https://github.com/alihussainzada/BugHunterMethodology) | 127     | 33      | A comprehensive bug bounty methodology compiled fr... | 2026-03-19   |
 | [Beetlebug](https://github.com/hafiz-ng/Beetlebug) | 125     | 23      | Beetlebug is an open source insecure Android appli... | 2026-03-12   |
 | [public-reports](https://github.com/phlmox/public-reports) | 123     | 41      | bug bounty disclosed reports    | 2026-02-24   |
 | [Bug-Bounty](https://github.com/zapstiko/Bug-Bounty) | 123     | 25      | Here Are Some Bug Bounty Resource From Twitter | 2026-03-08   |
-| [bugz-tools](https://github.com/D4Vinci/bugz-tools) | 122     | 42      | A collection of tools I wrote for bug bounty or ha... | 2026-03-01   |
+| [bugz-tools](https://github.com/D4Vinci/bugz-tools) | 122     | 42      | A collection of tools I wrote for bug bounty or ha... | 2026-03-21   |
 | [evil-twin](https://github.com/ivan-sincek/evil-twin) | 122     | 15      | Learn how to set up a fake authentication web page... | 2026-02-25   |
 | [mach](https://github.com/clickswave/mach) | 118     | 5       | Mach is a fast, reliable, and extensible web fuzzi... | 2026-02-01   |
 | [xsubfind3r](https://github.com/hueristiq/xsubfind3r) | 117     | 9       | A command-line utility designed to discover subdom... | 2026-03-14   |
 | [Bug-Bounty-Automation](https://github.com/0xElkot/Bug-Bounty-Automation) | 116     | 37      | No description                  | 2026-01-23   |
 | [collection-web3-bug-bounty](https://github.com/JeffCX/collection-web3-bug-bounty) | 116     | 13      | No description                  | 2025-12-04   |
 | [cloud_osint](https://github.com/7WaySecurity/cloud_osint) | 116     | 17      | ☁️ Curated Cloud OSINT resources — dorks, to... | 2026-03-14   |
+| [Wa3r-OffSec-Kit](https://github.com/Abdowaer098/Wa3r-OffSec-Kit) | 115     | 19      | 🔐 Offensive security knowledge base — 50+ doc... | 2026-03-22   |
+| [public-skills-builder](https://github.com/shuvonsec/public-skills-builder) | 113     | 21      | Generate Claude Code bug bounty skills from public... | 2026-03-22   |
 | [bug-bounty-guide](https://github.com/hetmehtaa/bug-bounty-guide) | 109     | 28      | No description                  | 2026-01-30   |
+| [reconic](https://github.com/fkkarakurt/reconic) | 107     | 5       | A Powerful Network Reconnaissance Tool for Securit... | 2026-03-20   |
 | [facebook-bug-bounty-writeups](https://github.com/emadshanab/facebook-bug-bounty-writeups) | 106     | 26      | Facebook Bug Bounties           | 2026-02-22   |
 | [Bug-Bounty-Wordlists](https://github.com/HacktivistRO/Bug-Bounty-Wordlists) | 106     | 29      | This repository contains some of the most exhausti... | 2026-02-12   |
 | [red-team-tools-for-azure](https://github.com/ws-research/red-team-tools-for-azure) | 106     | 47      | A powerful reconnaissance toolkit for authorized A... | 2026-02-28   |
-| [reconic](https://github.com/fkkarakurt/reconic) | 106     | 5       | A Powerful Network Reconnaissance Tool for Securit... | 2025-11-29   |
 | [awesome-bug-bounty-tips](https://github.com/ajdumanhug/awesome-bug-bounty-tips) | 105     | 15      | A curated list of amazingly bug bounty tips from s... | 2026-03-13   |
 | [xcrawl3r](https://github.com/hueristiq/xcrawl3r) | 105     | 8       | A command-line utility designed to recursively spi... | 2026-03-02   |
-| [awesome-infosec](https://github.com/0xedward/awesome-infosec) | 104     | 22      | A curated list of awesome infosec blog posts, cour... | 2025-12-13   |
+| [awesome-infosec](https://github.com/0xedward/awesome-infosec) | 105     | 22      | A curated list of awesome infosec blog posts, cour... | 2026-03-22   |
+| [CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | 104     | 20      | AI-powered offensive security agent. Autonomous pe... | 2026-03-22   |
 | [Offensive-Pentesting-Web](https://github.com/InfoSecWarrior/Offensive-Pentesting-Web) | 103     | 53      | A proper approach to pentest a Web application wit... | 2026-03-09   |
 | [GG-Dorking](https://github.com/eslam3kl/GG-Dorking) | 102     | 20      | GG Dorking is a tool to generate GitHub and Google... | 2026-03-02   |
 | [BrokenLinkHijacker](https://github.com/MayankPandey01/BrokenLinkHijacker) | 100     | 14      | A Fast Broken Link Hijacker Tool written in Python | 2026-03-12   |
+| [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) | 99      | 14      | Security testing toolkit for Claude Code: curated ... | 2026-03-21   |
 | [Keye](https://github.com/clirimemini/Keye) | 99      | 33      | Keye is a reconnaissance tool that was written in ... | 2025-12-09   |
 | [Payloads](https://github.com/1BlackLine/Payloads) | 98      | 20      | Payload for bug bounty          | 2026-01-01   |
 | [practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) | 98      | 7       | A Django web application for curating Bug Bounty e... | 2026-02-12   |
 | [AspGoat](https://github.com/Soham7-dev/AspGoat) | 98      | 72      | AspGoat is an intentionally vulnerable ASP.NET Cor... | 2026-03-14   |
 | [sectracker](https://github.com/SecFathy/sectracker) | 97      | 17      | A Modern Bug Bounty and Security Research Manageme... | 2026-01-19   |
+| [rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties) | 96      | 140     | Earn RTC crypto by contributing to the RustChain e... | 2026-03-22   |
 | [mildew](https://github.com/daehee/mildew) | 94      | 19      | Dotmil subdomain discovery tool that scrapes domai... | 2026-02-18   |
 | [secbutler](https://github.com/thelicato/secbutler) | 93      | 10      | The perfect butler for pentesters, bug-bounty hunt... | 2026-02-20   |
-| [cloud](https://github.com/trickest/cloud) | 92      | 16      | Monitoring the Cloud Landscape  | 2026-03-12   |
-| [CopyMyWrite](https://github.com/LabGuy94/CopyMyWrite) | 91      | 15      | Abusing DDMA alongside Copy On Write for Cross Pro... | 2026-03-08   |
-| [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) | 89      | 13      | Security testing toolkit for Claude Code: curated ... | 2026-03-15   |
+| [cloud](https://github.com/trickest/cloud) | 92      | 15      | Monitoring the Cloud Landscape  | 2026-03-19   |
+| [CopyMyWrite](https://github.com/LabGuy94/CopyMyWrite) | 91      | 16      | Abusing DDMA alongside Copy On Write for Cross Pro... | 2026-03-08   |
 | [stalker](https://github.com/red-kite-solutions/stalker) | 89      | 6       | Red Kite, the Extensible Attack Surface Management... | 2026-02-20   |
 | [onaws](https://github.com/amalmurali47/onaws) | 88      | 11      | Fetch the details of assets hosted on AWS. | 2025-12-09   |
 | [exp0s3d](https://github.com/gotr00t0day/exp0s3d) | 87      | 16      | Maximize your bug bounty hunting efficiency with e... | 2026-03-14   |
-| [Hunting-Tips](https://github.com/Fawadkhanfk/Hunting-Tips) | 86      | 19      | Tips For Bug Bounty Hunters     | 2025-09-04   |
-| [orgs-data](https://github.com/nikitastupin/orgs-data) | 85      | 22      | Mapping from bug bounty and vulnerability disclosu... | 2026-03-14   |
-| [rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties) | 85      | 122     | Earn RTC crypto by contributing to the RustChain e... | 2026-03-15   |
-| [Bug-Bounty-Dorks-And-Platforms](https://github.com/hemantsolo/Bug-Bounty-Dorks-And-Platforms) | 83      | 40      | This are some Dorks and Platform to find the Bug B... | 2026-03-15   |
+| [Hunting-Tips](https://github.com/Fawadkhanfk/Hunting-Tips) | 86      | 18      | Tips For Bug Bounty Hunters     | 2025-09-04   |
+| [orgs-data](https://github.com/nikitastupin/orgs-data) | 85      | 22      | Mapping from bug bounty and vulnerability disclosu... | 2026-03-21   |
 | [gho-bug-bounty](https://github.com/aave/gho-bug-bounty) | 83      | 21      | No description                  | 2025-09-04   |
-| [keylogger](https://github.com/ivan-sincek/keylogger) | 81      | 33      | Windows OS keylogger with a hook mechanism (i.e. w... | 2026-03-13   |
-| [Bug-Bounty-Resources](https://github.com/Tikam02/Bug-Bounty-Resources) | 80      | 18      | Bug-Bounty Resources and Articles | 2025-12-18   |
+| [Bug-Bounty-Dorks-And-Platforms](https://github.com/hemantsolo/Bug-Bounty-Dorks-And-Platforms) | 82      | 40      | This are some Dorks and Platform to find the Bug B... | 2026-03-18   |
+| [keylogger](https://github.com/ivan-sincek/keylogger) | 82      | 33      | Windows OS keylogger with a hook mechanism (i.e. w... | 2026-03-17   |
+| [Bug-Bounty-Resources](https://github.com/Tikam02/Bug-Bounty-Resources) | 81      | 18      | Bug-Bounty Resources and Articles | 2026-03-16   |
+| [communitytools](https://github.com/transilienceai/communitytools) | 81      | 13      | Open-source Claude Code skills, agents, and slash ... | 2026-03-22   |
 | [awesome-blockchain-bug-bounty](https://github.com/slowmist/awesome-blockchain-bug-bounty) | 79      | 14      | A comprehensive curated list of available Blockcha... | 2026-01-15   |
 | [SourceCodeReview](https://github.com/rahulbhichher/SourceCodeReview) | 79      | 18      | Source Code Review resources for Bug Bounty Hunter... | 2026-02-14   |
-| [in-class-project-2](https://github.com/MarkipTheMudkip/in-class-project-2) | 79      | 37      | According to all known laws of aviation,     there... | 2026-03-07   |
+| [in-class-project-2](https://github.com/MarkipTheMudkip/in-class-project-2) | 78      | 37      | According to all known laws of aviation,     there... | 2026-03-16   |
 | [actarus](https://github.com/gwen001/actarus) | 77      | 23      | Actarus is a custom tool for bug bounty | 2025-09-04   |
 | [Layla](https://github.com/mathfaria/Layla) | 75      | 20      | [EN] BETA: Layla - recon tool for bug bounty | 2025-12-09   |
 | [Bug-Bounty-Beginner-Roadmap](https://github.com/UCYBERS/Bug-Bounty-Beginner-Roadmap) | 75      | 4       | This repository is a curated resource for aspiring... | 2026-03-13   |
-| [public-skills-builder](https://github.com/shuvonsec/public-skills-builder) | 75      | 13      | Generate Claude Code bug bounty skills from public... | 2026-03-16   |
 | [50-Days-Of-SQLi](https://github.com/arpeetrathii/50-Days-Of-SQLi) | 75      | 15      | Learning and hunting SQL injection bugs for 50 con... | 2026-02-13   |
 | [bounty-domains](https://github.com/jakejarvis/bounty-domains) | 74      | 28      | List of domains in scope for bug bounties (HackerO... | 2025-11-10   |
+| [Immunefi-Bug-Bounty-Programs-Unofficial](https://github.com/infosec-us-team/Immunefi-Bug-Bounty-Programs-Unofficial) | 74      | 8       | Every time a Bug Bounty Program in Immunefi modifi... | 2026-03-21   |
+| [Facebook-Bug-Bounty-Writeups](https://github.com/corrupted-brain/Facebook-Bug-Bounty-Writeups) | 70      | 8       | No description                  | 2026-03-18   |
 | [Workflow-Bug-Bounty](https://github.com/xElkomy/Workflow-Bug-Bounty) | 69      | 22      | My Tools For Bug Bounty         | 2026-02-05   |
-| [Facebook-Bug-Bounty-Writeups](https://github.com/corrupted-brain/Facebook-Bug-Bounty-Writeups) | 69      | 8       | No description                  | 2026-02-22   |
-| [Immunefi-Bug-Bounty-Programs-Unofficial](https://github.com/infosec-us-team/Immunefi-Bug-Bounty-Programs-Unofficial) | 69      | 9       | Every time a Bug Bounty Program in Immunefi modifi... | 2026-03-14   |
-| [communitytools](https://github.com/transilienceai/communitytools) | 68      | 10      | Open-source Claude Code skills, agents, and slash ... | 2026-03-15   |
 | [dioterms](https://github.com/disclose/dioterms) | 68      | 8       | Open-source vulnerability disclosure policy templa... | 2026-02-09   |
 | [daf](https://github.com/infosec-us-team/daf) | 66      | 9       | Daily activity feed of bug fixes and code changes ... | 2026-02-20   |
 | [java-reverse-tcp](https://github.com/ivan-sincek/java-reverse-tcp) | 66      | 11      | JAR, Java, and JSP shells that work on Linux OS, m... | 2026-03-03   |
@@ -1230,52 +1230,52 @@
 | [ex-param](https://github.com/rootDR/ex-param) | 63      | 14      | ex-param is an automated tool designed for finding... | 2025-12-23   |
 | [security_whitepapers](https://github.com/fr34k8/security_whitepapers) | 62      | 158     | Collection of misc IT Security related whitepapers... | 2025-10-31   |
 | [bug-bounty-resources](https://github.com/SmitherSec/bug-bounty-resources) | 61      | 18      | Resources I consider useful for security research ... | 2025-12-28   |
-| [Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter](https://github.com/momika233/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter) | 61      | 10      | Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter | 2026-02-28   |
+| [Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter](https://github.com/momika233/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter) | 61      | 10      | Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter | 2026-03-18   |
 | [Bug-Bounty-Roadmap](https://github.com/alhamrizvi-cloud/Bug-Bounty-Roadmap) | 61      | 4       | Best Bug Bounty Roadmap for 2026 | 2026-02-25   |
 | [hackerone_wordlist](https://github.com/elamaran619/hackerone_wordlist) | 60      | 61      | The wordlists that have been compiled using disclo... | 2026-03-04   |
 | [ShoLister](https://github.com/eslam3kl/ShoLister) | 60      | 20      | ShoLister is a tool that collects all available su... | 2026-01-09   |
 | [Parshu](https://github.com/R0X4R/Parshu) | 60      | 9       | Filter URLs to save your time.  | 2025-04-17   |
+| [URILoot](https://github.com/rsingh0x/URILoot) | 59      | 12      | URILoot is a browser extension designed for Bug Bo... | 2026-03-22   |
+| [365](https://github.com/aryanguenthner/365) | 59      | 10      | BlueTeam, RedTeam, Bug bounty, CTI, OSINT, Threat ... | 2026-03-16   |
 | [keysec-hunter---Chrome-extension](https://github.com/dirtycoder0124/keysec-hunter---Chrome-extension) | 59      | 9       | KeySec Hunter is a **Chrome extension** that scans... | 2026-02-28   |
 | [notes](https://github.com/Dheerajmadhukar/notes) | 58      | 16      | Bug Bounty & Other Stuff        | 2025-09-04   |
-| [365](https://github.com/aryanguenthner/365) | 58      | 10      | BlueTeam, RedTeam, Bug bounty, CTI, OSINT, Threat ... | 2026-03-10   |
-| [Wordlist-for-Bug-Bounty](https://github.com/abdallaabdalrhman/Wordlist-for-Bug-Bounty) | 57      | 9       | I collected it to help the bug hunter get a reward | 2025-12-04   |
+| [HuntTheBug](https://github.com/vikrantbatra05/HuntTheBug) | 58      | 16      | Advanced reconnaissance framework for bug bounty h... | 2026-03-19   |
 | [LibreOffice_Tips_Bug_Bounty](https://github.com/Icare1337/LibreOffice_Tips_Bug_Bounty) | 57      | 6       | Some tips for Bug Bounty using LibreOffice | 2026-03-13   |
-| [AutoAR](https://github.com/h0tak88r/AutoAR) | 56      | 14      | AutoAR is a comprehensive, modular security automa... | 2026-03-13   |
+| [AutoAR](https://github.com/h0tak88r/AutoAR) | 57      | 14      | AutoAR is an automated security reconnaissance too... | 2026-03-21   |
+| [Wordlist-for-Bug-Bounty](https://github.com/abdallaabdalrhman/Wordlist-for-Bug-Bounty) | 56      | 9       | I collected it to help the bug hunter get a reward | 2026-03-19   |
 | [SSRFmap](https://github.com/dreadlocked/SSRFmap) | 56      | 18      | Simple Server Side Request Forgery services enumer... | 2026-01-07   |
 | [Pinakastra](https://github.com/who0xac/Pinakastra) | 56      | 7       | AI-powered pentesting framework with automated rec... | 2026-02-28   |
-| [RECON-GHOST](https://github.com/FaizanAnwar01/RECON-GHOST) | 56      | 2       | A powerful Bash-based automated reconnaissance too... | 2026-03-16   |
 | [Meta-Owned-IT-Assets](https://github.com/win3zz/Meta-Owned-IT-Assets) | 56      | 7       | Curated list of Meta (formerly Facebook) owned IT ... | 2026-01-20   |
 | [bug-bounty-testing-essential-guideline-startup-bug-hunters](https://github.com/twseptian/bug-bounty-testing-essential-guideline-startup-bug-hunters) | 55      | 17      | Bug Bounty Testing Essential Guideline : Startup B... | 2026-03-09   |
-| [URILoot](https://github.com/rsingh0x/URILoot) | 55      | 12      | URILoot is a browser extension designed for Bug Bo... | 2026-03-14   |
+| [RECON-GHOST](https://github.com/FaizanAnwar01/RECON-GHOST) | 55      | 2       | A powerful Bash-based automated reconnaissance too... | 2026-03-22   |
 | [Recon-tools](https://github.com/Sambal0x/Recon-tools) | 52      | 17      | Some of my bug bounty tools     | 2025-09-04   |
 | [bug-bounty](https://github.com/ston-fi/bug-bounty) | 51      | 11      | STON.FI Bug Bounty program      | 2026-01-15   |
+| [Security-Books](https://github.com/mizazhaider-ceh/Security-Books) | 51      | 17      | 🛡️ The Ultimate Cybersecurity Library | 160+ ... | 2026-03-22   |
 | [Bugzee](https://github.com/SecFathy/Bugzee) | 50      | 15      | Simple Script to install recommended Bug Bounty Hu... | 2025-12-27   |
 | [xforwardy](https://github.com/roottusk/xforwardy) | 50      | 14      | Host Header Injection Scanner   | 2026-01-17   |
 | [Discovery-Header-Bug-Bounty](https://github.com/KingOfBugbounty/Discovery-Header-Bug-Bounty) | 49      | 18      | Discovery Header Bug Bounty to DoD | 2025-12-15   |
+| [OhMyBounty](https://github.com/kapeka0/OhMyBounty) | 49      | 12      | Active monitoring bug bounty programs tool | 2026-03-17   |
+| [awesome-repos](https://github.com/glaucusec/awesome-repos) | 49      | 5       | Repositories, Links, Payloads, Blogs, Tools, etc..... | 2026-03-16   |
 | [xss-catcher](https://github.com/ivan-sincek/xss-catcher) | 49      | 8       | Simple API for storing all incoming XSS requests a... | 2026-03-03   |
 | [bounty_tools](https://github.com/gradiuscypher/bounty_tools) | 48      | 13      | Various tools for managing bug bounty recon and ex... | 2025-11-28   |
-| [CobraAudit](https://github.com/Jakkxbt/CobraAudit) | 48      | 8       | Bug bounty audit framework — API key validation,... | 2026-03-15   |
-| [awesome-repos](https://github.com/glaucusec/awesome-repos) | 48      | 5       | Repositories, Links, Payloads, Blogs, Tools, etc..... | 2026-01-26   |
 | [ClickjackPoc](https://github.com/Raiders0786/ClickjackPoc) | 48      | 9       | Seamlessly Detect and Construct Exploit POCs for C... | 2026-01-31   |
+| [Hexstrike-redteam](https://github.com/Yenn503/Hexstrike-redteam) | 48      | 8       |   AI-powered MCP penetration testing framework com... | 2026-03-20   |
 | [Bug-Bounty-Resources](https://github.com/soulvivek/Bug-Bounty-Resources) | 47      | 15      | No description                  | 2025-12-29   |
 | [Bug_Bounty_Reports](https://github.com/pwnpanda/Bug_Bounty_Reports) | 47      | 10      | Summary of almost all paid bounty reports on H1 | 2026-02-14   |
-| [OhMyBounty](https://github.com/kapeka0/OhMyBounty) | 47      | 12      | Active monitoring bug bounty programs tool | 2026-02-20   |
 | [n8n-for-bug-bounty](https://github.com/ethicxlhuman/n8n-for-bug-bounty) | 47      | 9       | n8n workflows related to bug bounty | 2026-03-13   |
 | [bash-hacks](https://github.com/ksharinarayanan/bash-hacks) | 47      | 17      | Handy bash and python scripts for bug bounty hunti... | 2025-10-27   |
 | [100DaysofBugBounty](https://github.com/dn0m1n8tor/100DaysofBugBounty) | 46      | 5       | No description                  | 2025-12-04   |
 | [ethereum-bounty-hunters](https://github.com/JGcarv/ethereum-bounty-hunters) | 46      | 1       | Repository dedicated to listing current bug bounty... | 2023-10-11   |
-| [Security-Books](https://github.com/mizazhaider-ceh/Security-Books) | 46      | 16      | 🛡️ The Ultimate Cybersecurity Library | 160+ ... | 2026-03-12   |
-| [Hexstrike-redteam](https://github.com/Yenn503/Hexstrike-redteam) | 46      | 8       |   AI-powered MCP penetration testing framework com... | 2026-03-12   |
+| [hackerone-bug-bounty-reports](https://github.com/codebygk/hackerone-bug-bounty-reports) | 45      | 14      | Complete collection of bug bounty reports from Hac... | 2026-03-19   |
 | [JWTXposer](https://github.com/chaudharyarjun/JWTXposer) | 45      | 15      | An advanced JWT extraction & decoding tool for bug... | 2025-10-19   |
 | [recon-automation](https://github.com/machine1337/recon-automation) | 45      | 14      | This script will install all the essential bug bou... | 2026-01-09   |
-| [hackerone-bug-bounty-reports](https://github.com/codebygk/hackerone-bug-bounty-reports) | 44      | 14      | Complete collection of bug bounty reports from Hac... | 2026-03-15   |
 | [trusty-bbp](https://github.com/pdelteil/trusty-bbp) | 44      | 2       | Legitimate bug bounty programs value ethical pract... | 2025-12-23   |
 | [awesome-bug-bounty](https://github.com/Muhammd/awesome-bug-bounty) | 43      | 20      | No description                  | 2025-12-29   |
-| [sublist3rV2](https://github.com/hxlxmj/sublist3rV2) | 43      | 6       | Fast subdomains enumeration tool for penetration t... | 2026-03-05   |
-| [Awesome-Hacking](https://github.com/Hunterdii/Awesome-Hacking) | 43      | 8       | 🔐 Welcome to Hack-Academia, your ultimate resou... | 2026-03-12   |
-| [Beemovie](https://github.com/S4ltster/Beemovie) | 43      | 8       | Bee Movie script for educational purposes only, an... | 2026-03-11   |
+| [sublist3rV2](https://github.com/hxlxmj/sublist3rV2) | 43      | 7       | Fast subdomains enumeration tool for penetration t... | 2026-03-05   |
+| [Awesome-Hacking](https://github.com/Hunterdii/Awesome-Hacking) | 43      | 8       | 🔐 Welcome to Hack-Academia, your ultimate resou... | 2026-03-22   |
+| [bug-bounty](https://github.com/hktalent/bug-bounty) | 42      | 10      | bounty collection               | 2026-03-18   |
 | [CyberDeck](https://github.com/DotNetRussell/CyberDeck) | 42      | 6       | Hackers Cookbook - Tons of hacker cli recipes read... | 2026-03-15   |
-| [bug-bounty](https://github.com/hktalent/bug-bounty) | 41      | 10      | bounty collection               | 2026-02-04   |
+| [Beemovie](https://github.com/S4ltster/Beemovie) | 42      | 8       | Bee Movie script for educational purposes only, an... | 2026-03-16   |
 | [vilicus](https://github.com/PatrikFehrenbach/vilicus) | 41      | 10      | vīlicus is a bug bounty api dashboard  | 2026-02-12   |
 | [waybackshot](https://github.com/sam5epi0l/waybackshot) | 41      | 5       | (CLI wrapper) Takes a list of URLs and retrieve sc... | 2026-01-25   |
 | [Bug-Bounty-Search-Engine.io](https://github.com/gatiella/Bug-Bounty-Search-Engine.io) | 40      | 9       | 🔍 Bug Bounty Search Engine - Advanced reconnais... | 2026-03-09   |
@@ -1308,7 +1308,7 @@
 | [coli](https://github.com/justakazh/coli) | 35      | 10      | COLI (Command Orchestration & Logic Interface) –... | 2026-03-01   |
 | [HTTPCustomHouse](https://github.com/ariary/HTTPCustomHouse) | 35      | 4       | HTTP request smuggling attack helper/CLI tools to ... | 2025-08-29   |
 | [1ndi-hacks](https://github.com/1ndianl33t/1ndi-hacks) | 34      | 8       | Bug Bounty Tools                | 2025-04-01   |
-| [OWASPBugBounty](https://github.com/OWASP/OWASPBugBounty) | 34      | 28      | This is a container of web applications that work ... | 2026-01-07   |
+| [OWASPBugBounty](https://github.com/OWASP/OWASPBugBounty) | 34      | 26      | This is a container of web applications that work ... | 2026-01-07   |
 | [immunefi-terminal](https://github.com/shortdoom/immunefi-terminal) | 34      | 4       | A datasette dashboard and source code downloader f... | 2026-03-10   |
 | [mongobleed-scanner](https://github.com/Black1hp/mongobleed-scanner) | 34      | 6       | MongoDB CVE-2025-14847 Heap Memory Leak Scanner | ... | 2026-02-06   |
 | [gh_scanner](https://github.com/alifathi-h1/gh_scanner) | 34      | 4       | GH Scanner Tool is written in Python3 and designed... | 2025-04-21   |
@@ -1320,109 +1320,111 @@
 | [Bug_Bounty-Google_Dorks](https://github.com/BH4R4T-SINGH/Bug_Bounty-Google_Dorks) | 33      | 5       | List of Google dorks to find VDPs and Bug Bounty P... | 2025-11-06   |
 | [getting-started](https://github.com/bugbountyhunters/getting-started) | 33      | 5       | Getting started in bug bounty!  | 2025-08-04   |
 | [ecdsaPredictableNonce](https://github.com/jonasnick/ecdsaPredictableNonce) | 33      | 7       | Ethereum Bug Bounty Submission: Breaking ecdsa tha... | 2026-02-11   |
+| [B00t2R00t](https://github.com/H3llKa1ser/B00t2R00t) | 33      | 9       | A penetration testing Swiss Army Knife that's suit... | 2026-03-21   |
 | [Web-Scraper](https://github.com/Encryptor-Sec/Web-Scraper) | 33      | 13      | Web Scraper is a melange of Web tools for web hack... | 2025-12-07   |
 | [github-scanner-local](https://github.com/arshadkazmi42/github-scanner-local) | 33      | 16      | Locally scan all the repositories of a github orga... | 2026-03-04   |
-| [Wa3r-OffSec-Kit](https://github.com/Abdowaer098/Wa3r-OffSec-Kit) | 33      | 1       | 🔐 Offensive security knowledge base — 50+ doc... | 2026-03-15   |
 | [Hardware-Hacking-Tools](https://github.com/yogsec/Hardware-Hacking-Tools) | 33      | 3       | Lists various tools used in hardware hacking.  | 2026-02-24   |
 | [bug-bounty-dorks](https://github.com/abhinavporwal/bug-bounty-dorks) | 32      | 9       | List of Google Dorks for sites that have responsib... | 2025-01-26   |
 | [Bug-Bounty-Tips](https://github.com/byt3hx/Bug-Bounty-Tips) | 32      | 9       | I will share my bug bounty tips here | 2025-02-01   |
 | [telegram_bbbot](https://github.com/maddevsio/telegram_bbbot) | 32      | 4       | Telegram Bug Bounty Bot         | 2025-01-21   |
 | [Wildfire-Toolkit](https://github.com/R-s0n/Wildfire-Toolkit) | 32      | 10      | A collection of automation scripts for bug bounty ... | 2026-01-23   |
-| [B00t2R00t](https://github.com/H3llKa1ser/B00t2R00t) | 32      | 9       | A penetration testing Swiss Army Knife that's suit... | 2026-03-15   |
-| [bountymeter](https://github.com/rynosec/bountymeter) | 32      | 3       | [BASH] Bounty Meter is a command-line utility tool... | 2026-02-12   |
+| [bountymeter](https://github.com/rohsec/bountymeter) | 32      | 3       | [BASH] Bounty Meter is a command-line utility tool... | 2026-02-12   |
 | [fire](https://github.com/thelicato/fire) | 32      | 2       | Take domains on stdin and output them on stdout if... | 2025-11-24   |
 | [filter-var-sqli](https://github.com/Xib3rR4dAr/filter-var-sqli) | 32      | 1       | Bypassing FILTER_SANITIZE_EMAIL & FILTER_VALIDATE_... | 2025-02-20   |
-| [Function](https://github.com/landonasato/Function) | 32      | 12      | According to all known laws of aviation, there is ... | 2026-03-07   |
+| [For-Bug-Bounty-Hunter-](https://github.com/Xero-Zero/For-Bug-Bounty-Hunter-) | 31      | 16      | README.md                       | 2026-03-22   |
 | [Bug-Bounty-RoadMap](https://github.com/PwnAwan/Bug-Bounty-RoadMap) | 31      | 10      | Bug Bounty Methodology-slides by Muhammad M. Awali... | 2026-01-04   |
 | [ApiBrute](https://github.com/kaifcodec/ApiBrute) | 31      | 2       | An async API bruteforcer. it is a fast, lightweigh... | 2026-02-03   |
+| [JWTLens](https://github.com/chawdamrunal/JWTLens) | 31      | 7       | JWTLens - Burp Suite extension for automated JWT s... | 2026-03-20   |
+| [Function](https://github.com/landonasato/Function) | 31      | 12      | According to all known laws of aviation, there is ... | 2026-03-16   |
 | [Bug-Bounty-Search-Engine](https://github.com/NitinYadav00/Bug-Bounty-Search-Engine) | 30      | 30      | No description                  | 2026-01-28   |
+| [BetterBugBounty](https://github.com/rohsec/BetterBugBounty) | 30      | 12      | BetterBugBounty - Here tools are classic, bugs are... | 2026-03-20   |
 | [Bug-Bounty-Dorks](https://github.com/tushar-arch/Bug-Bounty-Dorks) | 30      | 10      | No description                  | 2024-12-06   |
 | [ghmon](https://github.com/sl4x0/ghmon) | 30      | 6       | Automated GitHub secret scanning with smart alerti... | 2026-02-19   |
-| [chad](https://github.com/ivan-sincek/chad) | 30      | 5       | Search Google Dorks like Chad. / Broken link hijac... | 2026-03-10   |
+| [chad](https://github.com/ivan-sincek/chad) | 30      | 5       | Search Google Dorks like Chad. / Broken link hijac... | 2026-03-22   |
 | [hackgpt](https://github.com/Divinemonk/hackgpt) | 30      | 0       | HackGPT is a collective one place resource project... | 2026-01-15   |
-| [BetterBugBounty](https://github.com/rynosec/BetterBugBounty) | 29      | 12      | BetterBugBounty - Here tools are classic, bugs are... | 2024-12-05   |
-| [For-Bug-Bounty-Hunter-](https://github.com/Xero-Zero/For-Bug-Bounty-Hunter-) | 29      | 14      | README.md                       | 2025-09-04   |
+| [Bug_bounty_Notes](https://github.com/hack-with-rohit/Bug_bounty_Notes) | 29      | 12      | No description                  | 2026-03-21   |
 | [Bug-Bounty-Scripts](https://github.com/OdinF13/Bug-Bounty-Scripts) | 29      | 8       | Script for Bug Bounty           | 2025-06-13   |
 | [Bug-Bounty-Page](https://github.com/uber-archive/Bug-Bounty-Page) | 29      | 8       | A repo to make our changes more transparent to bug... | 2023-01-28   |
 | [Bug-Bounty-Checklist](https://github.com/crackallcode/Bug-Bounty-Checklist) | 29      | 7       | No description                  | 2025-06-11   |
 | [Bug-Bounty-Tips-Collection](https://github.com/emadshanab/Bug-Bounty-Tips-Collection) | 29      | 6       | A collection of Bug Bounty Tips collected from Git... | 2025-10-24   |
 | [h1-asset-fetcher](https://github.com/bug-vs-me/h1-asset-fetcher) | 29      | 5       | Tools for bug bounty            | 2025-10-27   |
 | [beta](https://github.com/liquity/beta) | 29      | 21      | Pre-release of Liquity Protocol smart contracts, i... | 2025-09-12   |
-| [greaper](https://github.com/algorethmpwd/greaper) | 29      | 4       | Bug Bounty ultimate tool        | 2026-01-07   |
 | [bountycatchremix](https://github.com/adelaramadhina/bountycatchremix) | 29      | 9       | Bug bounty domain manager with validation, exports... | 2026-02-02   |
 | [NextRecon](https://github.com/juoum00000/NextRecon) | 29      | 3       | Advanced Recon tool for Bug Bounty and Pentesting | 2026-02-26   |
 | [aws-s3-bucket-wordlist](https://github.com/koaj/aws-s3-bucket-wordlist) | 29      | 16      | Most common AWS S3 bucket names. | 2026-02-26   |
 | [penetration-testing-notes](https://github.com/kiro6/penetration-testing-notes) | 29      | 8       | this my repo with notes i take in penetration test... | 2026-02-14   |
 | [Recon](https://github.com/D1rk9ghT/Recon) | 28      | 11      | Bug Bounty Recon Tools          | 2025-09-04   |
-| [Bug_bounty_Notes](https://github.com/hack-with-rohit/Bug_bounty_Notes) | 28      | 12      | No description                  | 2026-02-25   |
 | [OpenBugBounty-Scrapper](https://github.com/Emoe/OpenBugBounty-Scrapper) | 28      | 6       | This script scrapes the list of open Bug Bounty Pr... | 2026-01-16   |
+| [greaper](https://github.com/algorethmpwd/greaper) | 28      | 4       | Bug Bounty ultimate tool        | 2026-03-20   |
 | [findbbprograms](https://github.com/System00-Security/findbbprograms) | 28      | 10      | Check if domain has bug bounty program or not | 2025-06-26   |
 | [ibb](https://github.com/infosec-us-team/ibb) | 28      | 5       | Is like jq for Immunefi REST API. Search, filter a... | 2026-02-13   |
 | [raymond](https://github.com/m3z0diac/raymond) | 28      | 2       | Rayomd is a gathering information Framework for pe... | 2025-12-09   |
 | [cybersec](https://github.com/CodingRanjith/cybersec) | 28      | 9       | CyberSecurity Resources and Tools | 2026-02-23   |
 | [Clear-Sky](https://github.com/R-s0n/Clear-Sky) | 27      | 9       | Bug Bounty Recon Automation Script -- Scan AWS IP ... | 2025-12-27   |
 | [Bug-bounty-methodology](https://github.com/ManasHarsh/Bug-bounty-methodology) | 27      | 1       | No description                  | 2025-10-08   |
+| [bug-reaper](https://github.com/shaniidev/bug-reaper) | 27      | 5       | Web2 bug bounty Agent Skill — evidence-based, no... | 2026-03-21   |
 | [HTB-certifiedCBBH](https://github.com/Ferdibrgl/HTB-certifiedCBBH) | 27      | 4       | # HTB-certified-bug-bounty-hunter-exam-cheetsheet ... | 2026-03-15   |
 | [HackerGPT-Plasmoid](https://github.com/MrGovindDubey/HackerGPT-Plasmoid) | 27      | 4       | HackerGPT Plasmoid is a KDE Plasma plasmoid that p... | 2026-03-15   |
+| [Anvil](https://github.com/shellkraft/Anvil) | 27      | 2       | Anvil is a runtime-first attack surface assessment... | 2026-03-22   |
 | [webdojo](https://github.com/0xffsec/webdojo) | 27      | 5       | A learning and testing environment for web applica... | 2025-12-23   |
 | [Bug-Bounty-Platforms](https://github.com/Micro0x00/Bug-Bounty-Platforms) | 26      | 7       | Bug Bounty Platforms            | 2025-10-01   |
 | [pentest-scripts](https://github.com/skateforever/pentest-scripts) | 26      | 10      | Compilation of scripts/tools (made by me or not) t... | 2025-10-04   |
 | [pentest-toolkit](https://github.com/therealilyas/pentest-toolkit) | 26      | 6       | GitHub - therealilyas/pentest-toolkit: PentestKit ... | 2026-02-26   |
 | [writeups](https://github.com/k1tten/writeups) | 26      | 1       | My CTF & Bug Bounty writups     | 2023-03-23   |
-| [BLT-Flutter](https://github.com/OWASP-BLT/BLT-Flutter) | 26      | 40      | The official OWASP BLT App repository | 2026-03-14   |
+| [BLT-Flutter](https://github.com/OWASP-BLT/BLT-Flutter) | 26      | 40      | The official OWASP BLT App repository | 2026-03-22   |
+| [hexstrike-ai-community-edition](https://github.com/CommonHuman-Lab/hexstrike-ai-community-edition) | 26      | 7       | HexStrike AI Community Edition - Cybersecurity too... | 2026-03-21   |
 | [subdomainator](https://github.com/skorov/subdomainator) | 26      | 4       | Stay on top of new domains! Bug bounty hunters can... | 2025-02-12   |
-| [Math-Quiz](https://github.com/HimangshuCyber/Math-Quiz) | 26      | 11      | According to all known laws of aviation, there is ... | 2026-03-07   |
 | [Bug-Bounty-Roadmaps-Collection](https://github.com/emadshanab/Bug-Bounty-Roadmaps-Collection) | 25      | 6       | No description                  | 2025-06-25   |
 | [recon-raven](https://github.com/hahwul/recon-raven) | 25      | 8       | Reconnaissance tool of Penetration test & Bug Boun... | 2025-12-09   |
 | [Sling-Shot-R3con](https://github.com/haqqibrahim/Sling-Shot-R3con) | 25      | 6       | 🚀 Sling Shot R3con: Automate Your Bug Bounty an... | 2025-05-19   |
 | [Fuzzout](https://github.com/0xelixer/Fuzzout) | 25      | 4       | Every Hacker's Go to Fuzzing List. Introducing the... | 2025-10-28   |
+| [Math-Quiz](https://github.com/HimangshuCyber/Math-Quiz) | 25      | 11      | According to all known laws of aviation, there is ... | 2026-03-16   |
 | [bug-bounty](https://github.com/aave/bug-bounty) | 24      | 4       | No description                  | 2025-08-07   |
 | [secrets](https://github.com/stevemcilwain/secrets) | 24      | 12      | Offsec Pentest and Bug Bounty Notes | 2026-02-12   |
 | [bug_bounty_tools](https://github.com/oliveira-andre/bug_bounty_tools) | 24      | 6       | This project is to install some tools to help me a... | 2024-12-29   |
 | [log4shell-looker](https://github.com/ravro-ir/log4shell-looker) | 24      | 4       | log4jshell vulnerability scanner for bug bounty | 2026-02-26   |
 | [Bugbounty-VPS-config](https://github.com/paulogmota/Bugbounty-VPS-config) | 24      | 6       | My Ubuntu 22.04 VPS general configs and scripts I ... | 2026-03-07   |
-| [hexstrike-ai-community-edition](https://github.com/CommonHuman-Lab/hexstrike-ai-community-edition) | 24      | 6       | HexStrike AI Community Edition - Cybersecurity too... | 2026-03-15   |
 | [KeysKit](https://github.com/MrMax4o4/KeysKit) | 24      | 4       | An opensource tool built to help bug bounty hunter... | 2025-12-04   |
+| [Tools](https://github.com/ALMADADALI/Tools) | 24      | 4       | 🛠️ This repository is continuously updated wi... | 2026-03-19   |
 | [kali-dockerized](https://github.com/jz543fm/kali-dockerized) | 24      | 7       | Kali Linux in Docker + Ubuntu 22.04 in Docker for ... | 2025-07-25   |
 | [subtron](https://github.com/cyb3ratul/subtron) | 24      | 3       | Subtron is a professional grade subdomain enumerat... | 2026-02-14   |
 | [BadGPT](https://github.com/NeM0x00/BadGPT) | 24      | 0       | BadGPT is a robust framework designed to simplify ... | 2025-12-19   |
-| [JWTLens](https://github.com/chawdamrunal/JWTLens) | 24      | 6       | JWTLens - Burp Suite extension for automated JWT s... | 2026-03-15   |
 | [Bug-Bounty-Oneliners](https://github.com/XalfiE/Bug-Bounty-Oneliners) | 23      | 16      | Oneliners curated from my experience and from the ... | 2025-09-04   |
 | [Wordlist](https://github.com/hisxo/Wordlist) | 23      | 9       | Wordlists for Bug Bounty        | 2025-10-14   |
+| [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 23      | 13      | 18 Claude Code skill files for smart contract secu... | 2026-03-22   |
 | [Practical-Bug-Bounty-Hunting-for-Hackers-and-Pentesters](https://github.com/ec-council-learning/Practical-Bug-Bounty-Hunting-for-Hackers-and-Pentesters) | 23      | 7       | Practical Bug Bounty Hunting for Hackers and Pente... | 2026-01-23   |
 | [norske-bug-bounty-program](https://github.com/roys/norske-bug-bounty-program) | 23      | 5       | List over kjente norske bug bounty-program 🇳� | 2025-12-26   |
 | [BugBountyTips](https://github.com/xNaughty/BugBountyTips) | 23      | 2       | BugBountyTips en Español       | 2025-10-28   |
 | [bugbounty-monitor-bot](https://github.com/JackJuly/bugbounty-monitor-bot) | 23      | 4       | A basic Bug Bounty target monitoring tool based on... | 2025-08-24   |
 | [hackfruit](https://github.com/hdks-bug/hackfruit) | 23      | 10      | Hackfruit is an easy search tool that finds hackin... | 2025-08-03   |
-| [bug-reaper](https://github.com/shaniidev/bug-reaper) | 23      | 5       | Web2 bug bounty Agent Skill — evidence-based, no... | 2026-03-07   |
-| [Tools](https://github.com/ALMADADALI/Tools) | 23      | 4       | 🛠️ This repository is continuously updated wi... | 2026-03-11   |
 | [Explorer](https://github.com/eslam3kl/Explorer) | 23      | 6       | Explorer is a very useful tool which will help you... | 2025-03-03   |
 | [urlx](https://github.com/alhamrizvi-cloud/urlx) | 23      | 1       | Multi-source URL discovery & live host probing for... | 2026-02-24   |
 | [semgrep-rules](https://github.com/vmnguyen/semgrep-rules) | 23      | 4       | My custom semgrep rules         | 2026-02-09   |
 | [Security-Engineer-Toolkit](https://github.com/regex-33/Security-Engineer-Toolkit) | 23      | 3       | An all-in-one repository for setting up a new VM w... | 2026-03-11   |
 | [DomXssFinder](https://github.com/ariary/DomXssFinder) | 23      | 3       |  Find sources and sinks in js code that could lead... | 2026-01-21   |
 | [dns-exfiltrator](https://github.com/ivan-sincek/dns-exfiltrator) | 23      | 8       | Exfiltrate data with DNS queries. Based on CertUti... | 2026-02-25   |
-| [this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol](https://github.com/Skattermuffin/this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol) | 23      | 0       | According to all known laws of aviation, there is ... | 2026-03-07   |
 | [yahoo-subdomains](https://github.com/emadshanab/yahoo-subdomains) | 22      | 11      | Yahoo subdomains for bug bounty | 2024-07-07   |
 | [Pavan-BugBounty-PlayBook](https://github.com/ehpavan/Pavan-BugBounty-PlayBook) | 22      | 9       | A BugBounty playbook covering vulnerability bypass... | 2026-01-16   |
 | [verylazytech.github.io](https://github.com/verylazytech/verylazytech.github.io) | 22      | 6       | Google Dorks for Bug Bounty     | 2026-02-23   |
 | [Bug-Bounty-Free-Resources](https://github.com/penetestersquad/Bug-Bounty-Free-Resources) | 22      | 4       | Elevate your bug bounty game with our treasure tro... | 2026-03-13   |
+| [VulneraMCP](https://github.com/telmon95/VulneraMCP) | 22      | 6       | An AI-Powered Bug Bounty Hunting Platform - Compre... | 2026-03-22   |
+| [bugbounty-mcp-server](https://github.com/gokulapap/bugbounty-mcp-server) | 22      | 8       | Comprehensive MCP server for bug bounty hunting an... | 2026-03-22   |
 | [cryptokitties-bounty-2](https://github.com/dapperlabs/cryptokitties-bounty-2) | 22      | 4       | Bug bounty program for CryptoKitties Offers featur... | 2026-02-07   |
 | [HackerOneAlchemy](https://github.com/uber-archive/HackerOneAlchemy) | 22      | 5       | A tool to generate statistics and help manage bug ... | 2025-01-06   |
 | [dark_wxlf](https://github.com/ibdtech/dark_wxlf) | 22      | 7       | bug bounty automation with 4-phase workflow: passi... | 2026-02-23   |
 | [pler](https://github.com/justakazh/pler) | 22      | 5       | Pler - Domain Probe and Cloudflare Filter Tool. Pl... | 2025-10-22   |
 | [Go-Tools-for-BBH](https://github.com/Shivang0/Go-Tools-for-BBH) | 22      | 7       | This Repo help you to download most helpful GO too... | 2025-10-23   |
-| [numasec](https://github.com/FrancescoStabile/numasec) | 22      | 2       | Fully autonomous AI Pentester, finds actual vulner... | 2026-03-10   |
-| [Ai-Prompts](https://github.com/zebbern/Ai-Prompts) | 22      | 1       | 🧾 | Use these AI prompts to refine your searche... | 2026-03-07   |
+| [numasec](https://github.com/FrancescoStabile/numasec) | 22      | 6       | Fully autonomous AI Pentester, finds actual vulner... | 2026-03-10   |
+| [Ai-Prompts](https://github.com/zebbern/Ai-Prompts) | 22      | 2       | 🧾 | Use these AI prompts to refine your searche... | 2026-03-07   |
+| [this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol](https://github.com/Skattermuffin/this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol) | 22      | 0       | According to all known laws of aviation, there is ... | 2026-03-16   |
 | [faraday_bugbounty](https://github.com/infobyte/faraday_bugbounty) | 21      | 10      | Faraday Workspaces for Bug Bounties | 2025-03-31   |
+| [BugSquasher](https://github.com/bhavesh-pardhi/BugSquasher) | 21      | 7       | BugSquasher Bug Bounty Tools List | 2026-03-18   |
 | [web-recon](https://github.com/Anof-cyber/web-recon) | 21      | 6       | Web application recon for bug bounty | 2025-12-31   |
 | [Bug-Bounty---Important-Books](https://github.com/PritamKundu/Bug-Bounty---Important-Books) | 21      | 5       | Bug Bounty - Important Books    | 2026-03-10   |
 | [Bug-Bounty-Resources](https://github.com/smaul0/Bug-Bounty-Resources) | 21      | 6       | Write-ups of All types Bugs     | 2025-11-18   |
 | [1ndiwordlist](https://github.com/1ndianl33t/1ndiwordlist) | 21      | 5       | Bug Bounty Recon wordlist Generator  | 2025-04-01   |
 | [bug_bounty_tweets](https://github.com/prinsharma1999/bug_bounty_tweets) | 21      | 4       | No description                  | 2025-01-26   |
-| [VulneraMCP](https://github.com/telmon95/VulneraMCP) | 21      | 6       | An AI-Powered Bug Bounty Hunting Platform - Compre... | 2026-03-06   |
 | [blog](https://github.com/ZishanAdThandar/blog) | 21      | 4       | CTF and Bug Bounty Hunting WriteUps.  | 2026-02-20   |
-| [bugbounty-mcp-server](https://github.com/gokulapap/bugbounty-mcp-server) | 21      | 8       | Comprehensive MCP server for bug bounty hunting an... | 2026-03-15   |
 | [google-dork-generator](https://github.com/youngvanda/google-dork-generator) | 21      | 5       | Handy Collection of Google Dorks for Bug Bounty Hu... | 2026-02-24   |
 | [ars0n-framework-v2-scan-data](https://github.com/R-s0n/ars0n-framework-v2-scan-data) | 21      | 2       | A repo to store public scan data for my bug bounty... | 2026-02-10   |
 | [PenHunter](https://github.com/cc1a2b/PenHunter) | 21      | 4       | Pen Hunter is a comprehensive vulnerability scanni... | 2025-10-31   |
@@ -1433,7 +1435,6 @@
 | [crossjoin](https://github.com/d3mondev/crossjoin) | 21      | 2       | Generate a cross join, also known as a Cartesian p... | 2025-08-24   |
 | [vulysisBugBounty](https://github.com/movingname/vulysisBugBounty) | 20      | 10      | No description                  | 2025-08-03   |
 | [Cheat-for-common-bugs-for-Bug-Bounty-Hunting](https://github.com/tcrsecurity/Cheat-for-common-bugs-for-Bug-Bounty-Hunting) | 20      | 11      | No description                  | 2025-12-24   |
-| [BugSquasher](https://github.com/bhavesh-pardhi/BugSquasher) | 20      | 7       | BugSquasher Bug Bounty Tools List | 2025-04-07   |
 | [Proviesec-Bug-Bounty-Dorking-Site-PBBDS](https://github.com/Proviesec/Proviesec-Bug-Bounty-Dorking-Site-PBBDS) | 20      | 5       | This page should help you with the recon for secur... | 2025-12-09   |
 | [security-arsenal](https://github.com/cybersaki/security-arsenal) | 20      | 5       | Security pentesting/devsecops/bug bounty/Cloud etc... | 2025-12-09   |
 | [Offensive-Recon](https://github.com/InfoSecWarrior/Offensive-Recon) | 20      | 15      | Passive Reconnaissance Techniques Approach helps f... | 2026-02-26   |
@@ -1445,7 +1446,8 @@
 | [Active-Defense-Tracing-Tool](https://github.com/s7safe/Active-Defense-Tracing-Tool) | 20      | 3       | 帮助苦逼溯源人员快速分析和追踪可� | 2026-01-19   |
 | [android-ssl-pinning-bypass](https://github.com/themultimind/android-ssl-pinning-bypass) | 20      | 1       | Android SSL Pinning Bypass      | 2026-03-10   |
 | [Elite-Google-Dorks-Search-by-Biscuit](https://github.com/Raunaksplanet/Elite-Google-Dorks-Search-by-Biscuit) | 20      | 8       | Discover hidden information on the web with "Elite... | 2026-03-15   |
-| [cloud_data](https://github.com/mrvcoder/cloud_data) | 20      | 8       | Get some useful data from Clouds for your targets | 2026-03-15   |
+| [cloud_data](https://github.com/mrvcoder/cloud_data) | 20      | 8       | Get some useful data from Clouds for your targets | 2026-03-22   |
+| [CyberInject](https://github.com/CyberNilsen/CyberInject) | 20      | 6       | A comprehensive browser extension designed for aut... | 2026-03-16   |
 | [cert-x-gen](https://github.com/Bugb-Technologies/cert-x-gen) | 20      | 0       | Polyglot execution engine and CLI for vulnerabilit... | 2026-03-13   |
 | [BugBounty-Dorks](https://github.com/Bhagavan-Bollina/BugBounty-Dorks) | 19      | 8       | Highly recommended dorks for bug bounty | 2025-12-09   |
 | [tts-buy-bug-bounty](https://github.com/18F/tts-buy-bug-bounty) | 19      | 11      | Solicitation and acquisition documents created for... | 2023-01-28   |
@@ -1459,11 +1461,12 @@
 | [eth-neg-value-tx](https://github.com/jonasnick/eth-neg-value-tx) | 19      | 5       | Ethereum Bug Bounty Submission: Sending Negative V... | 2025-12-02   |
 | [bug-bounty-wall-of-shame.github.io](https://github.com/bug-bounty-wall-of-shame/bug-bounty-wall-of-shame.github.io) | 19      | 4       | No description                  | 2026-02-04   |
 | [craxify](https://github.com/vulncrax/craxify) | 19      | 5       | Craxify Automated Reconnaissance Framework for Bug... | 2025-10-05   |
+| [serverspy](https://github.com/masaudsec/serverspy) | 19      | 8       | Full-stack server fingerprinting tool for bug boun... | 2026-03-20   |
 | [My-Mind-Maps](https://github.com/Virdoexhunter/My-Mind-Maps) | 19      | 5       | Mind map for certifcation, vulnerability finding a... | 2025-12-10   |
+| [awesome-bug-bounty](https://github.com/itsmohitnarayan/awesome-bug-bounty) | 19      | 1       | A curated list of resources, tools, and wordlists ... | 2026-03-18   |
 | [domainExtractor](https://github.com/intrudir/domainExtractor) | 19      | 10      | Extract domains/subdomains/FQDNs from files and UR... | 2025-12-09   |
 | [vasuki](https://github.com/cyb3rzest/vasuki) | 19      | 7       | An automation tool that scans sub-domains, sub-dom... | 2026-02-26   |
-| [resolvers](https://github.com/rix4uni/resolvers) | 19      | 7       | List of Fresh DNS resolvers updates every 1 hour | 2026-03-16   |
-| [CyberInject](https://github.com/CyberNilsen/CyberInject) | 19      | 6       | A comprehensive browser extension designed for aut... | 2026-03-14   |
+| [resolvers](https://github.com/rix4uni/resolvers) | 19      | 7       | List of Fresh DNS resolvers updates every 1 hour | 2026-03-23   |
 | [pvreplace](https://github.com/rix4uni/pvreplace) | 19      | 4       | A powerful URL parameter and request fuzzing tool ... | 2026-01-09   |
 | [Kali-Linux-Complete-Setup](https://github.com/nikhilpatidar01/Kali-Linux-Complete-Setup) | 19      | 2       | Step-by-step guide to install, configure, and hard... | 2026-03-03   |
 | [recon-boot.sh](https://github.com/rkpr0xy13/recon-boot.sh) | 18      | 5       | Script for Reconnaissance(Bug Bounty) | 2025-03-19   |
@@ -1473,7 +1476,6 @@
 | [A-Comprehensive-Bug-Bounty-Roadmap-](https://github.com/Thunderwolfistesting/A-Comprehensive-Bug-Bounty-Roadmap-) | 18      | 4       | No description                  | 2025-12-03   |
 | [recon](https://github.com/offhourscoding/recon) | 18      | 3       | Bug Bounty Recon Script         | 2024-03-23   |
 | [The-ULTIMATE-Bug-Bounty-Dork](https://github.com/Thameruss/The-ULTIMATE-Bug-Bounty-Dork) | 18      | 2       |  Ultimate Google Dork Collection for Bug Bounty Hu... | 2026-02-15   |
-| [awesome-bug-bounty](https://github.com/itsmohitnarayan/awesome-bug-bounty) | 18      | 1       | A curated list of resources, tools, and wordlists ... | 2026-03-15   |
 | [bugbounty-toolkit](https://github.com/rootbakar/bugbounty-toolkit) | 18      | 5       | A curated collection of essential tools and script... | 2026-03-13   |
 | [d0rk1ng](https://github.com/gotr00t0day/d0rk1ng) | 18      | 1       | The Complete Guide to Dorking for Bug Bounty Hunte... | 2026-03-05   |
 | [HACKING-BOT](https://github.com/yogsec/HACKING-BOT) | 18      | 5       | HACKING BOT is an automated bug bounty tool that s... | 2026-03-10   |
@@ -1481,8 +1483,10 @@
 | [isXSS-Burp](https://github.com/JoshMorrison99/isXSS-Burp) | 18      | 2       | Passively check for XSS character encodings | 2026-03-09   |
 | [GoldMine](https://github.com/bayegaspard/GoldMine) | 18      | 1       | AI-powered tool designed to help security professi... | 2025-11-19   |
 | [NameScraper](https://github.com/Macmod/NameScraper) | 18      | 3       | A Selenium scraper for public domain search tools. | 2025-10-06   |
+| [Vulnshop](https://github.com/nr-yolo/Vulnshop) | 18      | 0       | Web Application Pentesting Lab with over 40 plus v... | 2026-03-22   |
 | [Krypton](https://github.com/BlockchainLabs/Krypton) | 18      | 6       | Ethereum has brought us tools like Smart Contract,... | 2026-01-18   |
 | [BBClip](https://github.com/vavkamil/BBClip) | 17      | 7       | Bug Bounty Clipboard            | 2024-09-30   |
+| [Bug-Bounty-GitBook](https://github.com/Raunaksplanet/Bug-Bounty-GitBook) | 17      | 10      | Biscuit's Bug Bounty Playbook is a curated hub for... | 2026-03-19   |
 | [aztec-2-bug-bounty](https://github.com/AztecProtocol/aztec-2-bug-bounty) | 17      | 8       | No description                  | 2023-07-28   |
 | [ETHERBOTS-Bug-Bounty](https://github.com/EtherBots/ETHERBOTS-Bug-Bounty) | 17      | 6       | Code implemented on Rinkeby testnet, along with a ... | 2022-06-03   |
 | [attack-tools](https://github.com/bbhunter/attack-tools) | 17      | 13      | A set of tools, procedures, and playbooks for perf... | 2026-02-10   |
@@ -1495,12 +1499,11 @@
 | [SubHound](https://github.com/sl4x0/SubHound) | 17      | 4       | Stay on the beat with SubHound - receive notificat... | 2024-04-28   |
 | [penstaller](https://github.com/0xSaikat/penstaller) | 17      | 4       | Penstaller: A Python tool to automate the installa... | 2025-11-19   |
 | [tr01d](https://github.com/alhamrizvi-cloud/tr01d) | 17      | 1       | Tr10d is a command-line tool designed for security... | 2026-01-29   |
-| [wordpress-plugins](https://github.com/rix4uni/wordpress-plugins) | 17      | 7       | Scrape all wordpress plugins (updates every 6 hour... | 2026-03-15   |
+| [wordpress-plugins](https://github.com/rix4uni/wordpress-plugins) | 17      | 7       | Scrape all wordpress plugins (updates every 6 hour... | 2026-03-22   |
 | [cryptocat-gitbook](https://github.com/Crypto-Cat/cryptocat-gitbook) | 17      | 4       | OLD repo for my GitBook (CTF writeups / vuln resea... | 2025-12-30   |
 | [scrapy-scraper](https://github.com/ivan-sincek/scrapy-scraper) | 17      | 6       | Web crawler and scraper based on Scrapy and Playwr... | 2026-03-10   |
 | [file-scraper](https://github.com/ivan-sincek/file-scraper) | 17      | 3       | Scrape files for sensitive information, and genera... | 2026-02-13   |
 | [thc-scalpel](https://github.com/toxy4ny/thc-scalpel) | 17      | 1       | Stealth Reconnaissance Toolkit for Red Team Operat... | 2026-02-06   |
-| [Bug-Bounty-GitBook](https://github.com/Raunaksplanet/Bug-Bounty-GitBook) | 16      | 10      | Biscuit's Bug Bounty Playbook is a curated hub for... | 2026-02-03   |
 | [cyxbot](https://github.com/CyberLight/cyxbot) | 16      | 5       | Bug bounty bot for channel      | 2022-12-31   |
 | [shell-scripts](https://github.com/B-and-w-sec/shell-scripts) | 16      | 9       | This repo contains scripts i used while bug bounty... | 2024-08-07   |
 | [penum](https://github.com/drtychai/penum) | 16      | 11      | Parallelized enumeration tool for red team engagem... | 2025-12-09   |
@@ -1513,6 +1516,8 @@
 | [reFresh](https://github.com/retkoussa/reFresh) | 16      | 5       | A bash tool used to install famous bug bounty tool... | 2026-02-13   |
 | [XOE](https://github.com/D4Vinci/XOE) | 16      | 11      | Exploit XXE Out-Of-Band Vulnerability Easily | 2025-12-13   |
 | [bugbounty](https://github.com/cybertechajju/bugbounty) | 16      | 1       | this files only for bug bounty tools AtoZ | 2026-03-03   |
+| [jsrip](https://github.com/mouteee/jsrip) | 16      | 2       | Crawl and analyze JavaScript for secrets, tokens, ... | 2026-03-17   |
+| [bounty-search-engine](https://github.com/Vulnpire/bounty-search-engine) | 16      | 7       | This search engine automates the discovery of sens... | 2026-03-18   |
 | [ErrorEyes-Domain-Scanner](https://github.com/AbzeeSaminu/ErrorEyes-Domain-Scanner) | 16      | 4       | 🔍 erroreyes – Lightweight Subdomain Enumerati... | 2025-06-13   |
 | [Cybersecurity-Notes](https://github.com/penetestersquad/Cybersecurity-Notes) | 16      | 5       | Explore the cyber realm with our concise collectio... | 2026-01-28   |
 | [Parameter-Reflect-Finder](https://github.com/h33tlit/Parameter-Reflect-Finder) | 16      | 7       | Parameter-Reflect-Finder is a python based tool th... | 2025-10-25   |
@@ -1525,6 +1530,7 @@
 | [hashtag-fuzz](https://github.com/Hashtag-AMIN/hashtag-fuzz) | 16      | 1       | The nightmare of WAFs & CDNs, Use multi tricks for... | 2025-09-17   |
 | [subdomainx](https://github.com/itszeeshan/subdomainx) | 16      | 1       | all-in-one subdomain enumeration and reconnaissanc... | 2025-12-20   |
 | [hey-game-pepople-i-know-you-r-ment-to-like-make-these-long-but-come-on-its-fun-but-arrow-game-lol](https://github.com/Skattermuffin/hey-game-pepople-i-know-you-r-ment-to-like-make-these-long-but-come-on-its-fun-but-arrow-game-lol) | 16      | 0       | According to all known laws of aviation, there is ... | 2026-03-07   |
+| [xpfarm](https://github.com/A3-N/xpfarm) | 15      | 14      | Free XP on bug bounty           | 2026-03-22   |
 | [Awake](https://github.com/woj-ciech/Awake) | 15      | 6       | Bug Bounty Monitor              | 2025-11-19   |
 | [bugbounty_profile](https://github.com/0xPugal/bugbounty_profile) | 15      | 8       | Automate bug bounty recon using bash alias | 2025-10-07   |
 | [Bugbounty](https://github.com/rakesh0x7/Bugbounty) | 15      | 6       | Start your journey with Bug Bounty. | 2025-12-09   |
@@ -1534,23 +1540,23 @@
 | [Subdomain-Takeover-Checker](https://github.com/fdzdev/Subdomain-Takeover-Checker) | 15      | 8       | Python tool for detecting subdomain takeover vulne... | 2025-12-28   |
 | [S0x4](https://github.com/c0brabaghdad1/S0x4) | 15      | 8       | DNS Misconfiguration : S0x4 - Same Site Scripting ... | 2025-12-09   |
 | [world-editor](https://github.com/hytopiagg/world-editor) | 15      | 14      | This is the codebase for the HYTOPIA world editor,... | 2026-03-08   |
-| [jsrip](https://github.com/mouteee/jsrip) | 15      | 2       | Crawl and analyze JavaScript for secrets, tokens, ... | 2026-02-28   |
 | [policymaker](https://github.com/disclose/policymaker) | 15      | 9       | A free, open-source, multi-lingual, template-based... | 2025-05-20   |
 | [Dork-Like-a-Demon-Shodan-Edition-for-Hackers-and-Bug-Bounty-Hunters](https://github.com/AdityaBhatt3010/Dork-Like-a-Demon-Shodan-Edition-for-Hackers-and-Bug-Bounty-Hunters) | 15      | 0       | Mastering Shodan Dorks from beginner to beast mode... | 2026-02-28   |
-| [bounty-search-engine](https://github.com/Vulnpire/bounty-search-engine) | 15      | 7       | This search engine automates the discovery of sens... | 2025-11-15   |
 | [Auto-IDOR](https://github.com/CypherNova1337/Auto-IDOR) | 15      | 0       | An interactive bash script for detecting IDOR vuln... | 2026-02-28   |
 | [Web-Recon-Automation](https://github.com/fxrhan/Web-Recon-Automation) | 15      | 2       | A bash script to automate the necessary Reconnaiss... | 2025-12-09   |
 | [endpoints-extractor](https://github.com/yogsec/endpoints-extractor) | 15      | 2       | A powerful Bash script for extracting URLs and API... | 2026-01-26   |
 | [Web-See](https://github.com/indiancybertroops/Web-See) | 15      | 0       | Web-See is Tool For Checkout Status Of Urls in Mas... | 2024-05-18   |
+| [sourceCodeProgramsH1](https://github.com/actuallyclover/sourceCodeProgramsH1) | 15      | 0       | A full-stack web application that aggregates all H... | 2026-03-21   |
 | [BJS-PR-Bounty-Pool](https://github.com/BitReelCo/BJS-PR-Bounty-Pool) | 15      | 0       | Bounties in this pool are incentives for pushing B... | 2024-07-16   |
+| [socialfinder](https://github.com/rix4uni/socialfinder) | 15      | 5       | Hunt down social media accounts by username across... | 2026-03-16   |
 | [nucleihubquery](https://github.com/rix4uni/nucleihubquery) | 15      | 8       | A bash script that extracts `shodan-query, google-... | 2026-02-17   |
 | [unew](https://github.com/rix4uni/unew) | 15      | 3       | A high-performance command-line utility for proces... | 2026-01-07   |
 | [AcquiFinder](https://github.com/ammarsaber-dev/AcquiFinder) | 15      | 2       | Get acquisitions by scraping titles of crunchbase. | 2026-02-16   |
+| [bucky](https://github.com/umair9747/bucky) | 15      | 0       | An S3 account ID enumeration and bucket discovery ... | 2026-03-20   |
 | [BugBounty](https://github.com/0xlipon/BugBounty) | 14      | 7       | Recon for Pentesting and BugBounty 🕵️ | 2026-02-18   |
 | [IABE-BugBounty-Framework](https://github.com/cardangi/IABE-BugBounty-Framework) | 14      | 6       | BugBounty framework with main function to ORGANIZE... | 2024-12-25   |
 | [bug-bounty](https://github.com/Polaristow/bug-bounty) | 14      | 2       | bug-bounty                      | 2025-11-24   |
 | [HTB_CBBH_Writeup](https://github.com/reewardius/HTB_CBBH_Writeup) | 14      | 6       | HackTheBox: Certified Bug Bounty Hunter's Writeup ... | 2026-03-15   |
-| [serverspy](https://github.com/masaudsec/serverspy) | 14      | 7       | Full-stack server fingerprinting tool for bug boun... | 2026-03-15   |
 | [Wounty](https://github.com/egrullon/Wounty) | 14      | 4       | Wounty is a simple web enumeration script that mak... | 2022-12-12   |
 | [Dork-Like-a-Demon-FOFA-Edition-for-Hackers-Bug-Bounty-Hunters](https://github.com/AdityaBhatt3010/Dork-Like-a-Demon-FOFA-Edition-for-Hackers-Bug-Bounty-Hunters) | 14      | 2       | A hacker’s guide to FOFA dorking, packed with po... | 2026-02-28   |
 | [The-Bug-Hunters-Methodology](https://github.com/oneplus-x/The-Bug-Hunters-Methodology) | 14      | 6       | Welcome! This repo is a conglomeration of tips, tr... | 2025-06-12   |
@@ -1558,30 +1564,33 @@
 | [DGWiki](https://github.com/saintmicha3l/DGWiki) | 14      | 10      | DigitalGangsterWiki – A community-driven platfor... | 2026-03-12   |
 | [JWT-Authentication-Bypass-via-JWK-Header-Injection-for-Bug-Bounty](https://github.com/AdityaBhatt3010/JWT-Authentication-Bypass-via-JWK-Header-Injection-for-Bug-Bounty) | 14      | 0       | JWT authentication bypass via insecure jwk header ... | 2026-02-28   |
 | [Bug-Bounty-Practical-Lab-Finding-and-Exploiting-an-Unused-API-Endpoint](https://github.com/AdityaBhatt3010/Bug-Bounty-Practical-Lab-Finding-and-Exploiting-an-Unused-API-Endpoint) | 14      | 0       | Manipulate a hidden API endpoint to change product... | 2026-02-28   |
-| [noshit](https://github.com/rynosec/noshit) | 14      | 1       | A simple bug bounty utility tool to remove uninter... | 2025-03-12   |
+| [gitdork](https://github.com/ExploitCraft/gitdork) | 14      | 1       | Google, Shodan, and GitHub dork generator for pent... | 2026-03-22   |
+| [noshit](https://github.com/rohsec/noshit) | 14      | 1       | A simple bug bounty utility tool to remove uninter... | 2025-03-12   |
 | [ex-redirect](https://github.com/rootDR/ex-redirect) | 14      | 3       | ex-redirect — An automated open redirect scanner... | 2026-01-25   |
 | [bugcrowd](https://github.com/mattreduce/bugcrowd) | 14      | 2       | (Unofficial) Ruby wrapper for the Bugcrowd HTTP AP... | 2023-11-29   |
 | [CodeArgos](https://github.com/DanaEpp/CodeArgos) | 14      | 6       | A python module for red teams to support the conti... | 2025-12-09   |
-| [socialfinder](https://github.com/rix4uni/socialfinder) | 14      | 4       | Hunt down social media accounts by username across... | 2026-02-07   |
+| [RedTiger](https://github.com/medjahdi/RedTiger) | 14      | 5       | RedTiger - Automated XSS vulnerability testing too... | 2026-03-21   |
 | [vulntechfinder](https://github.com/rix4uni/vulntechfinder) | 14      | 7       | vulntechfinder is a powerful security tool that au... | 2025-12-06   |
 | [WebHunterScreen](https://github.com/lgcarmo/WebHunterScreen) | 14      | 0       | This program aims to check active targets by savin... | 2025-09-01   |
+| [CyberElite](https://github.com/uttambodara/CyberElite) | 14      | 3       | 🔐 Welcome to Hack-Academia — your go-to desti... | 2026-03-21   |
 | [crivo](https://github.com/GMDSantana/crivo) | 14      | 2       | A tool for extracting and filtering URLs, IPs, dom... | 2026-01-26   |
 | [ShinobiShell](https://github.com/DotNetRussell/ShinobiShell) | 14      | 0       | An experimental shell that handles file exfiltrati... | 2026-03-07   |
 | [GoatOS](https://github.com/GoatCommunity/GoatOS) | 14      | 1       | 🐐 GoatOS - A lightweight Linux distribution foc... | 2026-02-26   |
+| [ReconFusionAi](https://github.com/george1-adel/ReconFusionAi) | 14      | 1       | Next-Gen Secret Scanner powered by Local AI (Ollam... | 2026-03-20   |
 | [Beginner-Bug-Bounty-Guide](https://github.com/Le4kno3/Beginner-Bug-Bounty-Guide) | 13      | 13      | Beginner-Bug-Bounty-Guide       | 2025-05-14   |
 | [bug-buster](https://github.com/crypto-bug-hunters/bug-buster) | 13      | 12      | 🪲 Bug Buster, a bug bounty platform powered by ... | 2025-11-08   |
 | [bba](https://github.com/ap062/bba) | 13      | 4       | bug bounty automation           | 2024-10-03   |
 | [Bug-Bounty-Roadmap1](https://github.com/mrH0411/Bug-Bounty-Roadmap1) | 13      | 3       | Bug Bounty                      | 2026-03-10   |
 | [Ultimate-Bug-Bounty](https://github.com/winsecurity/Ultimate-Bug-Bounty) | 13      | 4       | No description                  | 2024-07-05   |
 | [yahoo-bug-bounty](https://github.com/random-robbie/yahoo-bug-bounty) | 13      | 4       | List of hosts from yahoo.com    | 2025-12-09   |
-| [Bug-Bounty-tips-from-Twitter](https://github.com/Samsar4/Bug-Bounty-tips-from-Twitter) | 13      | 5       | This is a collection of Bug Bounty Tips collected ... | 2026-03-01   |
+| [Bug-Bounty-tips-from-Twitter](https://github.com/Samsar4/Bug-Bounty-tips-from-Twitter) | 13      | 6       | This is a collection of Bug Bounty Tips collected ... | 2026-03-01   |
 | [HunterX](https://github.com/JoasASantos/HunterX) | 13      | 6       | King of Bug Bounty Tips Simple Tool | 2025-04-16   |
 | [KrazePlanetPrograms](https://github.com/KrazePlanet/KrazePlanetPrograms) | 13      | 7       | SelfHosted - Bug Bounty Programs | Discover new an... | 2026-01-26   |
 | [huntr-com-bug-bounties-collector](https://github.com/password123456/huntr-com-bug-bounties-collector) | 13      | 4       | keep watching new bug bounty (vulnerability) posti... | 2025-03-12   |
 | [Domain2IP-Converter](https://github.com/blackhatethicalhacking/Domain2IP-Converter) | 13      | 11      | Convert domain lists to resolved IP without duplic... | 2025-12-31   |
-| [BountyHound](https://github.com/iamthefrogy/BountyHound) | 13      | 4       | Monitors and curates bug-bounty related repositori... | 2026-03-09   |
-| [Bug-Bounty-Tools](https://github.com/sachinn403/Bug-Bounty-Tools) | 13      | 3       | Awesome Bug bounty tools        | 2025-10-16   |
+| [BountyHound](https://github.com/iamthefrogy/BountyHound) | 13      | 4       | Monitors and curates bug-bounty related repositori... | 2026-03-16   |
 | [tk0-bugbounty](https://github.com/tomikoski/tk0-bugbounty) | 13      | 3       | Something and everything related to Bug Bounties | 2026-03-03   |
+| [Bug-Bounty-Tools](https://github.com/sachinn403/Bug-Bounty-Tools) | 13      | 3       | Awesome Bug bounty tools        | 2025-10-16   |
 | [bugbounty](https://github.com/amanmahendra00/bugbounty) | 13      | 1       | All Items Related to bug bounty | 2025-09-17   |
 | [Hacking-Toolkits](https://github.com/PR-Peri/Hacking-Toolkits) | 13      | 3       | Hack Tricks and survival kit (For Bug Bounty Progr... | 2025-06-30   |
 | [abspider-recon](https://github.com/zanesense/abspider-recon) | 13      | 4       |  A modern, browser-based reconnaissance dashboard ... | 2026-01-31   |
@@ -1597,31 +1606,30 @@
 | [JWT-Authentication-Bypass-via-Weak-Signing-Key-for-Bug-Bounty](https://github.com/AdityaBhatt3010/JWT-Authentication-Bypass-via-Weak-Signing-Key-for-Bug-Bounty) | 13      | 0       | Exploiting weak JWT secrets to forge admin access ... | 2026-02-28   |
 | [locksmith](https://github.com/rodrigoramosrs/locksmith) | 13      | 2       | Locksmith is a tool which allow simple way to test... | 2025-09-25   |
 | [audits](https://github.com/MarioPoneder/audits) | 13      | 1       | My public findings/reports from decentralized audi... | 2026-03-01   |
-| [Octocrawl](https://github.com/b3rt1ng/Octocrawl) | 13      | 0       | Fast, parallel and easy to use web crawler for pen... | 2026-03-10   |
+| [Octocrawl](https://github.com/b3rt1ng/Octocrawl) | 13      | 1       | Fast, parallel and easy to use web crawler for pen... | 2026-03-10   |
 | [HackingGPT](https://github.com/DouglasRao/HackingGPT) | 13      | 3       | HackingGPT é uma ferramenta avançada para pentes... | 2025-12-03   |
 | [CHAPTGPT-PROMPT-FOR-ETHICAL-HACKING](https://github.com/IamNiskey/CHAPTGPT-PROMPT-FOR-ETHICAL-HACKING) | 13      | 2       | A collection of ChatGPT prompts designed to assist... | 2026-02-15   |
 | [Report-Templates](https://github.com/dewcode91/Report-Templates) | 13      | 2       | This repository is dedicated to documenting and sh... | 2026-03-04   |
 | [OWASP-Automated-Threats-to-Web-Applications-OATv2](https://github.com/AdityaBhatt3010/OWASP-Automated-Threats-to-Web-Applications-OATv2) | 13      | 0       | OWASP Automated Threats (OATv2) concise guide, hig... | 2026-02-28   |
 | [Web-App-Methodology](https://github.com/naufalan/Web-App-Methodology) | 13      | 1       | Collection of web app methodology from initial rec... | 2022-07-30   |
 | [rio](https://github.com/llamaonsecurity/rio) | 13      | 4       | A handy plugin for copying requests/responses dire... | 2024-04-17   |
-| [RedTiger](https://github.com/medjahdi/RedTiger) | 13      | 5       | RedTiger - Automated XSS vulnerability testing too... | 2026-02-27   |
+| [ReconNinja](https://github.com/ExploitCraft/ReconNinja) | 13      | 2       | ⚡ ReconNinja v6 — 21-phase recon framework for... | 2026-03-22   |
 | [Endpoint-Javascript-Explorer](https://github.com/Hacking-Notes/Endpoint-Javascript-Explorer) | 13      | 0       | Powerful JavaScript bookmarklet designed for disco... | 2026-01-13   |
 | [0-click-RCE-Exploit-for-CVE-2024-10924](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924) | 13      | 2       | Unauthenticated authentication bypass to RCE explo... | 2026-02-18   |
 | [osint-recon-tool](https://github.com/Sauban-Kidwai/osint-recon-tool) | 13      | 0       | A CMS-aware OSINT and recon tool for red teamers a... | 2025-10-12   |
-| [Excalibur](https://github.com/Teycir/Excalibur) | 13      | 0       | Dual-component security testing tool for bypassing... | 2026-03-12   |
+| [Excalibur](https://github.com/Teycir/Excalibur) | 13      | 0       | Dual-component security testing tool for bypassing... | 2026-03-21   |
 | [NarrowX](https://github.com/afssec/NarrowX) | 13      | 2       | Chrome MV3 extension that auto-discovers JS endpoi... | 2025-10-07   |
 | [DorkHunter](https://github.com/cybertechajju/DorkHunter) | 13      | 1       | No description                  | 2026-02-27   |
 | [pentesting-cyber-mcp](https://github.com/hackersatyamrastogi/pentesting-cyber-mcp) | 13      | 8       | 🔐 50+ MCP Security Servers for AI-Powered Pente... | 2026-02-19   |
 | [Archer](https://github.com/umair9747/Archer) | 13      | 6       | A tool to check for response status codes with eas... | 2025-12-09   |
 | [ipfinder](https://github.com/rix4uni/ipfinder) | 13      | 5       | IP Finder tool, ipfinder collects IP addresses fro... | 2026-02-18   |
-| [CyberElite](https://github.com/uttambodara/CyberElite) | 13      | 3       | 🔐 Welcome to Hack-Academia — your go-to desti... | 2026-02-18   |
 | [BlindSQL](https://github.com/zebbern/BlindSQL) | 13      | 1       | Accurate & Fast BlindSQL Scanner, This tool automa... | 2026-01-22   |
-| [ReconFusionAi](https://github.com/george1-adel/ReconFusionAi) | 13      | 1       | Next-Gen Secret Scanner powered by Local AI (Ollam... | 2026-02-13   |
 | [recon-007](https://github.com/sickuritywizard/recon-007) | 12      | 7       | Bug Bounty tool to automate the recon process. | 2024-09-16   |
 | [BugBounty-Automated-Recons](https://github.com/aashifm1/BugBounty-Automated-Recons) | 12      | 3       | Automating the process of bug bounty. | 2026-02-18   |
 | [master_discovery](https://github.com/aringo/master_discovery) | 12      | 10      | Files and Folders list used in file enumeration du... | 2024-08-12   |
 | [contracts-bounty](https://github.com/gocryptobot/contracts-bounty) | 12      | 3       | GoCryptobot Contract Bug Bounty | 2024-08-29   |
 | [bugbounty-dorks](https://github.com/DevanshRaghav75/bugbounty-dorks) | 12      | 3       | Google dorks for bug bounty hunting  | 2025-04-07   |
+| [Bug-Bounty-Methodology](https://github.com/alhamrizvi-cloud/Bug-Bounty-Methodology) | 12      | 2       | No description                  | 2026-03-19   |
 | [subzero](https://github.com/t0thkr1s/subzero) | 12      | 4       | Passive subdomain enumeration tool for bug-bounty ... | 2025-12-09   |
 | [bug-bounty-toolkit](https://github.com/SoufianeZEG/bug-bounty-toolkit) | 12      | 1       | Advanced Bash automation script for bug bounty rec... | 2026-02-21   |
 | [bug-bounty-recon](https://github.com/H4cksploit/bug-bounty-recon) | 12      | 1       | Recon tool utilises 58 different techniques using ... | 2026-02-14   |
@@ -1633,36 +1641,34 @@
 | [pwnctl](https://github.com/aristosMiliaressis/pwnctl) | 12      | 3       | a recon framework that facilitates discovering, sc... | 2025-12-29   |
 | [JWT-Authentication-Bypass-via-Flawed-Signature-Verification-for-Bug-Bounty-Hunting](https://github.com/AdityaBhatt3010/JWT-Authentication-Bypass-via-Flawed-Signature-Verification-for-Bug-Bounty-Hunting) | 12      | 0       | Exploit insecure JWT signature verification by for... | 2026-02-28   |
 | [From-Recon-to-Root-A-MongoDB-NoSQL-Injection-Bug-Bounty-Journey](https://github.com/AdityaBhatt3010/From-Recon-to-Root-A-MongoDB-NoSQL-Injection-Bug-Bounty-Journey) | 12      | 0       | Exploiting NoSQL injection to extract admin creden... | 2026-02-28   |
-| [Arsenal](https://github.com/Vulnpire/Arsenal) | 12      | 3       | Collection of tools, scripts, one-liners, template... | 2025-12-13   |
+| [Arsenal](https://github.com/Vulnpire/Arsenal) | 12      | 3       | Collection of tools, scripts, one-liners, template... | 2026-03-21   |
 | [bugbounty](https://github.com/alpernae/bugbounty) | 12      | 4       | Hey there! Welcome to my collection of bug bounty ... | 2026-03-09   |
 | [MSP-Vendors-VDP-BBP](https://github.com/DanaEpp/MSP-Vendors-VDP-BBP) | 12      | 0       | An index of vendors in the MSP space who have publ... | 2025-08-12   |
+| [Beatrix](https://github.com/SudoPacman-Syuu/Beatrix) | 12      | 1       | The Black Mamba — Bug bounty hunting CLI framewo... | 2026-03-22   |
 | [crawlex](https://github.com/Defend-X/crawlex) | 12      | 1       | Crawlex is a powerful Chrome extension designed to... | 2025-02-22   |
 | [urlExtract](https://github.com/eversinc33/urlExtract) | 12      | 3       | Recursively extract urls from a web page for recon... | 2024-10-28   |
 | [metagoofeel](https://github.com/ivan-sincek/metagoofeel) | 12      | 4       | Web crawler and downloader based on GNU Wget. | 2024-11-17   |
 | [get-acq](https://github.com/HanibalAntePortas/get-acq) | 12      | 3       | GET-ACQ is a python tool used to gather all compan... | 2025-12-09   |
 | [waybackurlsx](https://github.com/rix4uni/waybackurlsx) | 12      | 7       | A powerful and efficient Go-based tool for extract... | 2026-02-10   |
 | [reconWTF](https://github.com/solo10010/reconWTF) | 12      | 6       | :boom: This tool is intended for bounty hunters, t... | 2025-12-09   |
+| [ffuf-GUI](https://github.com/aaravshah1311/ffuf-GUI) | 12      | 0       | ffuf-GUI is a web-based fuzzing tool inspired by f... | 2026-03-16   |
 | [xss_finder](https://github.com/shinch4n/xss_finder) | 12      | 0       | Cross-Site Scripting (XSS) is one of the most well... | 2026-01-05   |
-| [BypassFuzzer-Burp](https://github.com/intrudir/BypassFuzzer-Burp) | 12      | 1       | The Java Burp Extension version of my BypassFuzzer... | 2026-03-15   |
-| [poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) | 12      | 3       | This repository contains a POC of CVE-2025-55182, ... | 2026-01-23   |
+| [BypassFuzzer-Burp](https://github.com/intrudir/BypassFuzzer-Burp) | 12      | 2       | The Java Burp Extension version of my BypassFuzzer... | 2026-03-15   |
+| [poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) | 12      | 3       | This repository contains a POC of CVE-2025-55182, ... | 2026-03-22   |
 | [tempor](https://github.com/Wh1t3Fox/tempor) | 12      | 1       | Ephemeral Infrastructure for Dummies | 2026-01-02   |
-| [VISTA](https://github.com/Adw0rm-sec/VISTA) | 12      | 1       | 🎯 VISTA — AI-Powered Security Testing Assista... | 2026-03-02   |
 | [loopfi-bug-bounty](https://github.com/code-423n4/loopfi-bug-bounty) | 11      | 6       | No description                  | 2025-08-07   |
 | [bug-bounty-tools](https://github.com/buffermet/bug-bounty-tools) | 11      | 3       | Collection of HTTP scanners and fuzzers. | 2025-11-17   |
-| [FortiChain-Dapp](https://github.com/skill-mind/FortiChain-Dapp) | 11      | 45      | FortiChain is a decentralized platform designed to... | 2025-09-20   |
 | [Markdown-Bug-Bounty-Recon](https://github.com/Markdown-Bug-Bounty-Recon/Markdown-Bug-Bounty-Recon) | 11      | 3       | A recon Framework for Bug Bounty Hunters that woul... | 2025-09-05   |
 | [My-Current-Bug-Bounty-Recon](https://github.com/wadgamaraldeen/My-Current-Bug-Bounty-Recon) | 11      | 4       | No description                  | 2026-01-23   |
 | [kaiju-p2e-bug-bounty](https://github.com/augmintedlabs/kaiju-p2e-bug-bounty) | 11      | 2       | KaijuKingz P2E Bug Bounty       | 2024-02-27   |
-| [Bug-Bounty-Methodology](https://github.com/alhamrizvi-cloud/Bug-Bounty-Methodology) | 11      | 2       | No description                  | 2026-03-14   |
 | [silicondzor](https://github.com/fxfactorial/silicondzor) | 11      | 4       | The Armenian tech community, tech commentary, bug ... | 2025-09-11   |
 | [bug-bounty](https://github.com/ali-kaptanoglu/bug-bounty) | 11      | 1       |  bug bounty                     | 2024-09-10   |
 | [BugBountyChecklist](https://github.com/cybertechajju/BugBountyChecklist) | 11      | 0       | No description                  | 2026-01-12   |
 | [BugBounty_Roadmap](https://github.com/imsandeepkumar/BugBounty_Roadmap) | 11      | 1       | How to Get Started into  Bug Bounty Complete Begin... | 2025-04-03   |
 | [subdomains_wordlist](https://github.com/shriyanss/subdomains_wordlist) | 11      | 2       | Subdomains wordlist generted from subdomains of pu... | 2025-09-19   |
 | [Techincal_CheatSheet](https://github.com/justakazh/Techincal_CheatSheet) | 11      | 3       | A cheat sheet regarding Penetration testing, Bug B... | 2025-12-01   |
-| [Bug-Bounty-Program](https://github.com/Supporters-Of-Chromium-Based-Browsers/Bug-Bounty-Program) | 11      | 0       | No description                  | 2026-03-06   |
+| [Bug-Bounty-Program](https://github.com/Supporters-Of-Chromium-Based-Browsers/Bug-Bounty-Program) | 11      | 0       | No description                  | 2026-03-19   |
 | [cybersecurity-roadmap-bug-bounty](https://github.com/imanikchopra/cybersecurity-roadmap-bug-bounty) | 11      | 0       | No description                  | 2025-11-30   |
-| [mcd-security](https://github.com/sky-ecosystem/mcd-security) | 11      | 11      | The Maker Foundation's highest priority is the sec... | 2025-05-08   |
 | [audits](https://github.com/NicolaMirchev/audits) | 11      | 1       | Repository to store all audits from public contest... | 2025-05-18   |
 | [ctfpwn](https://github.com/bl4de/ctfpwn) | 11      | 1       | Framework for making CTFs, bug bounty and pentesti... | 2025-06-15   |
 | [BugbountiesMCP](https://github.com/rootThatBox/BugbountiesMCP) | 11      | 3       | A curated collection of MCP servers useful for bug... | 2025-12-22   |
@@ -1672,16 +1678,18 @@
 | [corscan](https://github.com/geisonn/corscan) | 11      | 3       | Corscan is a Go-based tool that automates the dete... | 2026-03-01   |
 | [auth-bypass](https://github.com/mchklt/auth-bypass) | 11      | 6       | auth-bypass is a collection of common techniques a... | 2026-01-06   |
 | [AuthInspector](https://github.com/karma9874/AuthInspector) | 11      | 0       | Automated authorization checks with multiple heade... | 2026-01-13   |
-| [ffuf-GUI](https://github.com/aaravshah1311/ffuf-GUI) | 11      | 0       | ffuf-GUI is a web-based fuzzing tool inspired by f... | 2026-03-14   |
+| [wordlist-extender](https://github.com/ivan-sincek/wordlist-extender) | 11      | 3       | Extend wordlist by appending digits and special ch... | 2026-03-22   |
 | [ps.sh](https://github.com/enenumxela/ps.sh) | 11      | 4       | A bash script that automates the process of servic... | 2025-12-09   |
 | [amounts](https://github.com/ivan-sincek/amounts) | 11      | 3       | Generate a wordlist to fuzz amounts or any other n... | 2025-11-01   |
+| [find-cve-agent](https://github.com/ByamB4/find-cve-agent) | 11      | 2       | CVE hunting harness for Claude Code - 20 skills, 5... | 2026-03-21   |
+| [Awesome-Hacking-Learning-Path](https://github.com/uttambodara/Awesome-Hacking-Learning-Path) | 11      | 2       | A comprehensive hacking learning path covering Pen... | 2026-03-19   |
 | [ReconBEEs](https://github.com/Devarsh33/ReconBEEs) | 11      | 1       | A tool which can perform advance recon automatical... | 2023-08-05   |
 | [paramfinder](https://github.com/rix4uni/paramfinder) | 11      | 2       | Find input and textarea hidden parameters in html. | 2026-02-20   |
-| [KrazePlanetLabs](https://github.com/KrazePlanet/KrazePlanetLabs) | 11      | 3       | XSS, SQLI, LFI, RCE Practice Labs in php | 2026-01-05   |
 | [certinfo](https://github.com/rix4uni/certinfo) | 11      | 1       | certinfo is a powerful SSL certificate scraping to... | 2025-11-23   |
-| [Vulnshop](https://github.com/nr-yolo/Vulnshop) | 11      | 0       | Web Application Pentesting Lab with over 40 plus v... | 2026-03-15   |
-| [nagooglesearch](https://github.com/ivan-sincek/nagooglesearch) | 11      | 0       | Not another Google searching tool. | 2026-03-13   |
+| [KrazePlanetLabs](https://github.com/KrazePlanet/KrazePlanetLabs) | 11      | 3       | XSS, SQLI, LFI, RCE Practice Labs in php | 2026-01-05   |
+| [nagooglesearch](https://github.com/ivan-sincek/nagooglesearch) | 11      | 0       | Not another Google searching tool. | 2026-03-22   |
 | [sub4bug](https://github.com/NeverSpot/sub4bug) | 11      | 1       | This is automation tool which utilize 2 sub -domai... | 2025-12-08   |
+| [VISTA](https://github.com/Adw0rm-sec/VISTA) | 11      | 1       | 🎯 VISTA — AI-Powered Security Testing Assista... | 2026-03-18   |
 | [BugBounty-notes](https://github.com/sumitjat/BugBounty-notes) | 10      | 7       | BugBounty Notes (with writeup ) for me  | 2025-07-25   |
 | [bounties](https://github.com/hCaptcha/bounties) | 10      | 8       | Bug bounty policies             | 2025-12-09   |
 | [Reconkil3r](https://github.com/amazigh-kil3r/Reconkil3r) | 10      | 6       | Script Recon Bug Bounty         | 2025-03-19   |
@@ -1698,13 +1706,14 @@
 | [Legal-bug-bounty](https://github.com/Amitelazari/Legal-bug-bounty) | 10      | 1       | This is the #legalbugbounty standardization projec... | 2025-09-27   |
 | [web3-sec-ai-prompts](https://github.com/pantheraudits/web3-sec-ai-prompts) | 10      | 2       | AI prompts for web3 security researchers — bug b... | 2026-03-15   |
 | [Vigilo](https://github.com/PurpleAILAB/Vigilo) | 10      | 3       | An AI hacker for Web3 Smart Contract. for bug boun... | 2026-03-06   |
+| [mcd-security](https://github.com/sky-ecosystem/mcd-security) | 10      | 11      | The Maker Foundation's highest priority is the sec... | 2026-03-20   |
 | [GitSD](https://github.com/Rhyru9/GitSD) | 10      | 3       | scan domains for Git source code disclosure vulner... | 2025-12-09   |
+| [Reconator](https://github.com/rootsploit/Reconator) | 10      | 0       | AI-powered reconnaissance framework for bug bounty... | 2026-03-17   |
 | [DLL-Hijack-Calculator](https://github.com/ZemlyakovDmitry/DLL-Hijack-Calculator) | 10      | 3       | No description                  | 2026-01-27   |
 | [Trinetra](https://github.com/indiancybertroops/Trinetra) | 10      | 3       | Trinetra  is Web Crawling Tool For Bug Bounty And ... | 2026-02-28   |
 | [keyana](https://github.com/shaniidev/keyana) | 10      | 0       | High-performance JavaScript reconnaissance tool wi... | 2026-03-03   |
 | [KeyReaper](https://github.com/gotr00t0day/KeyReaper) | 10      | 0       | Extract and assess exposed Google Cloud (AIza) API... | 2026-03-06   |
 | [DorkRunner](https://github.com/offsecrunner/DorkRunner) | 10      | 0       | Dorkrunner is an interactive CLI-based Google & Du... | 2026-02-08   |
-| [Beatrix](https://github.com/SudoPacman-Syuu/Beatrix) | 10      | 1       | The Black Mamba — Bug bounty hunting CLI framewo... | 2026-03-14   |
 | [sweetuu](https://github.com/cspshivam/sweetuu) | 10      | 1       | Sweetuu is a Advance Shell which can be used to ac... | 2025-08-18   |
 | [Algopwn](https://github.com/Suryesh/Algopwn) | 10      | 2       | Algopwn is an interactive Python tool for security... | 2026-01-07   |
 | [CiscoResearcherToolkit](https://github.com/scriptingxss/CiscoResearcherToolkit) | 10      | 0       | The Cisco Researcher Toolkit is a comprehensive, A... | 2026-01-12   |
@@ -1715,47 +1724,43 @@
 | [GoDork](https://github.com/siditrix17/GoDork) | 10      | 3       | This is a Python based GUI(Graphical User Interfac... | 2025-08-18   |
 | [SecPayloads](https://github.com/ogh-bnz/SecPayloads) | 10      | 1       | Sec-Payloads, It's a collection of multiple types ... | 2025-11-17   |
 | [CTF-to-Pentest-Translating-CTF-Patterns-into-Real-World-Exploits](https://github.com/AdityaBhatt3010/CTF-to-Pentest-Translating-CTF-Patterns-into-Real-World-Exploits) | 10      | 0       | Bridging the gap between capture-the-flag challeng... | 2026-02-28   |
-| [wordlist-extender](https://github.com/ivan-sincek/wordlist-extender) | 10      | 3       | Extend wordlist by appending digits and special ch... | 2025-06-22   |
 | [HTTP-FILTER](https://github.com/yogsec/HTTP-FILTER) | 10      | 0       | HTTP FILTER is a fast and efficient Bash tool that... | 2026-02-24   |
 | [JSextractor](https://github.com/ariary/JSextractor) | 10      | 2       | Fastly gather all JavaScript from url  (CLi+TUI) | 2025-11-24   |
-| [Subfind3r](https://github.com/ASafarzadeh/Subfind3r) | 10      | 1       | An improved version of Sublist3r, a python based F... | 2025-10-16   |
-| [BurpSuite-Config](https://github.com/rix4uni/BurpSuite-Config) | 10      | 4       | Useful "Match and Replace" & "TLS Pass Through" in... | 2026-03-07   |
-| [Awesome-Hacking-Learning-Path](https://github.com/uttambodara/Awesome-Hacking-Learning-Path) | 10      | 2       | A comprehensive hacking learning path covering Pen... | 2026-03-15   |
-| [hacker101-CTF-Solutions](https://github.com/CyberNilsen/hacker101-CTF-Solutions) | 10      | 3       | Comprehensive walkthroughs and solutions for Hacke... | 2026-03-14   |
-| [portmap](https://github.com/rix4uni/portmap) | 10      | 2       | portmap is a fast portscan tool, uses shodan publi... | 2026-02-02   |
-| [InstaRecon](https://github.com/Faizee-Asad/InstaRecon) | 10      | 2       | 🔍 Professional Instagram OSINT tool for penetra... | 2026-03-10   |
-| [bug-bounty](https://github.com/18F/bug-bounty) | 9       | 9       | OUT OF DATE: Internal documentation for TTS's bug ... | 2023-12-27   |
-| [RVD](https://github.com/aliasrobotics/RVD) | 221     | 36      | Robot Vulnerability Database. An archive of robot ... | 2026-03-02   |
-| [bountydash](https://github.com/avlidienbrunn/bountydash) | 163     | 21      | BountyDash is a tool to combine your rewards from ... | 2026-02-24   |
+| [RVD](https://github.com/aliasrobotics/RVD) | 223     | 36      | Robot Vulnerability Database. An archive of robot ... | 2026-03-18   |
+| [bountydash](https://github.com/avlidienbrunn/bountydash) | 163     | 20      | BountyDash is a tool to combine your rewards from ... | 2026-02-24   |
 | [Dons](https://github.com/dragonked2/Dons) | 86      | 23      | Dons Js Scanner is a sleek command-line tool that ... | 2026-03-04   |
 | [RVSS](https://github.com/aliasrobotics/RVSS) | 31      | 4       | Robot Vulnerability Scoring System (RVSS) Python 3... | 2026-02-24   |
 | [pentesting-report-generator](https://github.com/Marmeus/pentesting-report-generator) | 27      | 3       | This repository is made to create your own pentest... | 2026-03-10   |
 | [LLM-PROMPT-INJECTION-PAYLOAD-S](https://github.com/cybertechajju/LLM-PROMPT-INJECTION-PAYLOAD-S) | 23      | 0       | Unlock safe, high-signal prompt workflows for ethi... | 2026-03-15   |
 | [proxylist](https://github.com/almroot/proxylist) | 21      | 0       | List of continuously updated proxy servers | 2025-12-04   |
+| [Apache-GOExploiter](https://github.com/drcrypterdotru/Apache-GOExploiter) | 19      | 4       | Apache (CVE-2025-24813) GOExploiter Checker & Expl... | 2026-03-17   |
 | [bug-reports](https://github.com/BuildOnViction/bug-reports) | 18      | 5       | No description                  | 2025-12-04   |
-| [Apache-GOExploiter](https://github.com/drcrypterdotru/Apache-GOExploiter) | 18      | 4       | Apache (CVE-2025-24813) GOExploiter Checker & Expl... | 2026-02-20   |
 | [Payloads_Tool_box](https://github.com/bountyhacking/Payloads_Tool_box) | 15      | 4       | At this repo you can find any tools, tricks or tem... | 2025-12-07   |
 | [kai](https://github.com/linuxmobile/kai) | 13      | 2       | A curated atelier for security research. Decipheri... | 2026-02-18   |
 | [private_bechek](https://github.com/cybertechajju/private_bechek) | 12      | 0       | PrivateBChecks Collection BY CyberTechAjju | 2026-01-24   |
+| [bug-bounty](https://github.com/18F/bug-bounty) | 9       | 9       | OUT OF DATE: Internal documentation for TTS's bug ... | 2023-12-27   |
 | [bounty-targets](https://github.com/decal/bounty-targets) | 9       | 7       | :dart: Information About Bug Bounty Program Target... | 2025-01-05   |
 | [Bug-Bounty](https://github.com/JoshMorrison99/Bug-Bounty) | 9       | 5       | Bug Bounty Notes                | 2026-02-27   |
 | [BugBounty-Dorks](https://github.com/akhilkoradiya/BugBounty-Dorks) | 9       | 4       | Help to find batter TARGET for bug bounty | 2025-12-30   |
 | [public-bugbounty-data](https://github.com/bbsetup/public-bugbounty-data) | 9       | 6       | Recon Data for public bug bounty sites useful for ... | 2025-08-29   |
 | [Methodology](https://github.com/0x4rk0/Methodology) | 9       | 4       | Bug Bounty Methodology.         | 2025-09-18   |
+| [BugHunt3r](https://github.com/akr3ch/BugHunt3r) | 9       | 4       | Virtual machine for Bug Bounty Hunters. | 2026-03-19   |
 | [bb-reports-generator](https://github.com/khaledibnalwalid/bb-reports-generator) | 9       | 4       | Bug bounty reports generator    | 2024-10-12   |
 | [Bug_Scraper](https://github.com/R-s0n/Bug_Scraper) | 9       | 9       | A tool for bug bounty researchers to identify vali... | 2025-12-16   |
 | [Bug-Bounty](https://github.com/ekomsSavior/Bug-Bounty) | 9       | 2       | Bug bounty cheat sheets and resources  | 2026-02-05   |
-| [huntr-extension](https://github.com/418sec/huntr-extension) | 9       | 7       | huntr.dev browser extension, allowing you to view ... | 2024-08-12   |
 | [3PleB](https://github.com/1hehaq/3PleB) | 9       | 4       | Set up minimal bug bounty environment, No more blo... | 2025-12-01   |
+| [huntr-extension](https://github.com/418sec/huntr-extension) | 9       | 7       | huntr.dev browser extension, allowing you to view ... | 2024-08-12   |
 | [tools](https://github.com/Pilum-Murialis/tools) | 9       | 3       | scripts for ctf , bug bounty and stuffs | 2026-02-14   |
 | [r3dpower_toolkit](https://github.com/r3dpower/r3dpower_toolkit) | 9       | 5       | A script to install a collection of tools for web ... | 2025-11-26   |
-| [dorkengine.github.io](https://github.com/dorkengine/dorkengine.github.io) | 9       | 4       | Introducing "Dork Engine" – the ultimate bug bou... | 2026-02-07   |
+| [dorkengine.github.io](https://github.com/dorkengine/dorkengine.github.io) | 9       | 5       | Introducing "Dork Engine" – the ultimate bug bou... | 2026-02-07   |
 | [Burp-Suite-AI-extensions-for-bug-bounty](https://github.com/emadshanab/Burp-Suite-AI-extensions-for-bug-bounty) | 9       | 2       | No description                  | 2025-08-13   |
 | [BugBountyKit](https://github.com/Mmansoor89/BugBountyKit) | 9       | 0       | No description                  | 2025-11-09   |
 | [XSS-LAB](https://github.com/zack0x01/XSS-LAB) | 9       | 5       | A hands-on lab environment based on real bug bount... | 2026-02-20   |
 | [rexC0n](https://github.com/Wahid-najim/rexC0n) | 9       | 4       | Powerful Bash-based subdomain enumeration tool for... | 2025-05-13   |
+| [Bugbounty-Dorks](https://github.com/Gaurav-Jadhav/Bugbounty-Dorks) | 9       | 0       | Bug Bounty Program Finder       | 2026-03-18   |
 | [bbradar.io](https://github.com/bbradar-io/bbradar.io) | 9       | 2       | A web tool to aggregate the latest publicly listed... | 2026-03-10   |
 | [Automated-Bug-Bounty-Scanner](https://github.com/Threadlinee/Automated-Bug-Bounty-Scanner) | 9       | 1       | Automated Bug Bounty Scanner Tool | 2026-01-02   |
+| [Important_Websites](https://github.com/403glitch/Important_Websites) | 9       | 3       | These are websites which can help a Script Kiddie ... | 2026-03-20   |
 | [kali](https://github.com/samirettali/kali) | 9       | 1       | Kali Linux containers for bug bounty and CTFs | 2025-12-09   |
 | [ReconX](https://github.com/2u1fuk4r/ReconX) | 9       | 1       | Automated reconnaissance framework for bug bounty ... | 2026-03-11   |
 | [lazyRecon](https://github.com/WyvDoesDev/lazyRecon) | 9       | 0       | Tool to automate the recon phase for bug bounties | 2025-03-21   |
@@ -1764,6 +1769,7 @@
 | [Reconal](https://github.com/mohmmedalariki/Reconal) | 9       | 1       | Lightweight OSINT reconnaissance tool with web UI ... | 2026-03-15   |
 | [Bug-Hunting-Cheatsheet](https://github.com/l1ackersalman/Bug-Hunting-Cheatsheet) | 9       | 1       | This cheatsheet serves as a comprehensive guide fo... | 2026-02-18   |
 | [ywh_program_selector](https://github.com/jdouliez/ywh_program_selector) | 9       | 1       | YWH Programs Selector is a CLI tool to filter bug ... | 2026-01-29   |
+| [ReconOPS](https://github.com/expl0itlab/ReconOPS) | 9       | 0       | A structured recon-only framework for bug bounty h... | 2026-03-16   |
 | [whitesecross](https://github.com/whiteseccybersecurity/whitesecross) | 9       | 3       | Whitesecross is an advanced Python-based XSS scann... | 2025-12-01   |
 | [urlscan.io-Cheat-Sheet-by-SinaYeganeh](https://github.com/sinaayeganeh/urlscan.io-Cheat-Sheet-by-SinaYeganeh) | 9       | 1       | A comprehensive cheat sheet for using urlscan.io i... | 2025-11-04   |
 | [Codehunter](https://github.com/Acorzo1983/Codehunter) | 9       | 1       | Ultra-fast pattern scanner for Bug Bounty and pent... | 2026-03-12   |
@@ -1775,15 +1781,18 @@
 | [Bug-Bounty-Automation](https://github.com/Retr0-45809/Bug-Bounty-Automation) | 8       | 6       | Bash Script to perform bug bounty automation | 2025-09-16   |
 | [bug-bounty](https://github.com/iotaledger-archive/bug-bounty) | 8       | 4       | IOTA Bug Bounty program.        | 2025-05-20   |
 | [bug-bounty-fuzz-wordlist](https://github.com/linuxadi/bug-bounty-fuzz-wordlist) | 8       | 5       | This is a wordlist of directory fuzzing directorie... | 2026-03-14   |
-| [BugHunt3r](https://github.com/akr3ch/BugHunt3r) | 8       | 4       | Virtual machine for Bug Bounty Hunters. | 2026-01-26   |
 | [BbSpider](https://github.com/daeken/BbSpider) | 8       | 5       | Simple spider for bug bounty recon | 2025-06-18   |
 | [bug-bounty](https://github.com/gustavoguimaraes/bug-bounty) | 8       | 3       | Example on setting up Bug Bounty Programs for Smar... | 2024-12-11   |
+| [Google-Dorking-for-Bug-Bounty-](https://github.com/abu76/Google-Dorking-for-Bug-Bounty-) | 8       | 5       | Here's an updated Google Dorking list for 2025 Bug... | 2026-03-22   |
 | [myreconmethods](https://github.com/glyptho/myreconmethods) | 8       | 5       | This includes the methods of recon and exploit for... | 2024-08-12   |
 | [bug_bounty_scripts](https://github.com/geeknik/bug_bounty_scripts) | 8       | 2       | scripts made for bug bounty hunting and other task... | 2026-02-26   |
+| [AI-for-Cybersecurity-and-Bug-Bounty-Hunting](https://github.com/ec-council-learning/AI-for-Cybersecurity-and-Bug-Bounty-Hunting) | 8       | 3       | AI for Cybersecurity and Bug Bounty Hunting, by EC... | 2026-03-18   |
 | [Bug-Bounty-Platforms](https://github.com/Bhagavan-Bollina/Bug-Bounty-Platforms) | 8       | 2       | Sites which you permission to check their security | 2025-07-16   |
 | [easy_hunt](https://github.com/takshal/easy_hunt) | 8       | 3       | this repo content common bug bounty hunting techni... | 2025-09-28   |
+| [Bug-Bounty-Reporting-Templates](https://github.com/azwisec/Bug-Bounty-Reporting-Templates) | 8       | 2       | Report Templates One of the most important element... | 2026-03-22   |
+| [Penquin](https://github.com/xibhi/Penquin) | 8       | 3       | Streamline Your Bug Bounty Workflow — Hack Smart... | 2026-03-20   |
 | [disas_apk](https://github.com/kr-b/disas_apk) | 8       | 7       | All-in-one tool to help bug bounty hunters easily ... | 2025-09-15   |
-| [InfoScraper](https://github.com/0xsyr0/InfoScraper) | 8       | 3       | Python implementation of two famous JavaScript pay... | 2026-01-21   |
+| [InfoScraper](https://github.com/0xsyr0/InfoScraper) | 8       | 3       | Python implementation of two famous JavaScript pay... | 2026-03-18   |
 | [reconX](https://github.com/attacker-codeninja/reconX) | 8       | 2       | An Automated Recon Tool For Bug bounty Hunters | 2024-06-14   |
 | [DorksNight](https://github.com/whoiskumaratul/DorksNight) | 8       | 5       |  DorksNight search deeply and gain result for bug ... | 2022-11-24   |
 | [EyeOfRa](https://github.com/electro0nes/EyeOfRa) | 8       | 2       | Eye Of Ra A Program Watcher For Bug Bounty Platfor... | 2026-02-17   |
@@ -1796,26 +1805,23 @@
 | [kidrecon](https://github.com/AngixBlack/kidrecon) | 8       | 1       |  automated tool for reconnaissance and enumeration... | 2025-08-09   |
 | [Bug-Bounty-Vulnerability-Research](https://github.com/Gitr007/Bug-Bounty-Vulnerability-Research) | 8       | 0       | Vulnerability research and exploits in Public Bug ... | 2022-07-26   |
 | [dork-creator](https://github.com/Z3R0Z3D/dork-creator) | 8       | 0       | dork-creator(Bug Bounty Dorks)  | 2025-10-24   |
-| [Important_Websites](https://github.com/403glitch/Important_Websites) | 8       | 3       | These are websites which can help a Script Kiddie ... | 2025-10-27   |
 | [BugBrowser](https://github.com/Hackdromeda/BugBrowser) | 8       | 1       | Bug Browser provides information security, program... | 2025-01-05   |
 | [Web-Pentest-Checklists-and-Bug-Bounty-Checklists](https://github.com/MrMahile/Web-Pentest-Checklists-and-Bug-Bounty-Checklists) | 8       | 0       | Best Checklists for web Pentest Testing or for a B... | 2025-08-14   |
 | [Bug-Hunterx](https://github.com/iTroxB/Bug-Hunterx) | 8       | 0       | Automated tool under scripting in Bash, which allo... | 2024-07-02   |
 | [PutYourMoneyWhereYourContractIs](https://github.com/rmerom/PutYourMoneyWhereYourContractIs) | 8       | 0       | Ethereum-based autonomous Bug Bounty framework for... | 2022-02-14   |
 | [newassets](https://github.com/glyptho/newassets) | 8       | 6       | I have collected different open source tools for m... | 2025-03-07   |
 | [Secret-Search-Engine](https://github.com/cybertechajju/Secret-Search-Engine) | 8       | 0       | 🔍 Secret-Search-Engine Advanced recon toolkit w... | 2026-01-12   |
-| [Reconator](https://github.com/rootsploit/Reconator) | 8       | 0       | AI-powered reconnaissance framework for bug bounty... | 2026-03-13   |
 | [h4fan.github.io](https://github.com/h4fan/h4fan.github.io) | 8       | 0       | web sec | bug bounty | web安全 | 网络安全 | 2025-11-19   |
 | [SecTrainingData](https://github.com/ResistanceIsUseless/SecTrainingData) | 8       | 0       | Data for training machine learning models related ... | 2025-08-07   |
-| [thexwriteup](https://github.com/thexnumb/thexwriteup) | 8       | 2       | Store all the latest Medium Articles by specific t... | 2026-03-15   |
+| [thexwriteup](https://github.com/thexnumb/thexwriteup) | 8       | 2       | Store all the latest Medium Articles by specific t... | 2026-03-22   |
 | [c-no-3v1l](https://github.com/R-s0n/c-no-3v1l) | 8       | 1       | Blind Cross-Site Scripting (XSS) Testing Tool For ... | 2026-01-26   |
-| [NeuroRift](https://github.com/demonking369/NeuroRift) | 8       | 0       | An AI-powered vulnerability research framework for... | 2026-03-14   |
+| [NeuroRift](https://github.com/demonking369/NeuroRift) | 8       | 0       | An AI-powered vulnerability research framework for... | 2026-03-22   |
 | [FiddlerKit](https://github.com/u0pattern/FiddlerKit) | 8       | 1       | for pentesting, security research, bug bounty hunt... | 2024-08-12   |
 | [KageRecon](https://github.com/pohackontas/KageRecon) | 8       | 1       | A modular, Docker-ready recon pipeline for Red Tea... | 2025-12-02   |
 | [hacks](https://github.com/NitescuLucian/hacks) | 8       | 1       | A collection of scripts that I use in bug bounty a... | 2025-10-13   |
 | [Hacking-PDF-Books](https://github.com/RoguePayload/Hacking-PDF-Books) | 8       | 1       | My personal repo containing a variety of PDF books... | 2026-02-10   |
-| [ReconOPS](https://github.com/expl0itlab/ReconOPS) | 8       | 0       | A structured recon-only framework for bug bounty h... | 2026-03-07   |
 | [ShoMe](https://github.com/Vishnuxx/ShoMe) | 8       | 1       | ShoMe is a web recon tool used to list out hidden ... | 2023-08-05   |
-| [Wayback-Recon](https://github.com/pbarucco/Wayback-Recon) | 8       | 1       | 🔍 Discover and analyze historical URLs from the... | 2026-03-16   |
+| [Wayback-Recon](https://github.com/pbarucco/Wayback-Recon) | 8       | 1       | 🔍 Discover and analyze historical URLs from the... | 2026-03-22   |
 | [2cmd](https://github.com/Zarcolio/2cmd) | 8       | 2       | Got a command that doesn't support input files lik... | 2025-06-04   |
 | [submon](https://github.com/rodnt/submon) | 8       | 2       | Python script to monitor subs from crt.sh | The sc... | 2025-12-19   |
 | [shadowrecon](https://github.com/Luscious8/shadowrecon) | 8       | 0       | ShadowRecon is a professional, all-in-one cybersec... | 2025-12-29   |
@@ -1824,17 +1830,13 @@
 | [Bug-Bounty](https://github.com/Faizee-Asad/Bug-Bounty) | 7       | 4       | No description                  | 2024-12-13   |
 | [google-bounty](https://github.com/thebuggeddev/google-bounty) | 7       | 4       | A google bug bounty clone using gemini | 2026-02-06   |
 | [Bug_Bounty_Hand_Book](https://github.com/Sajibekanti/Bug_Bounty_Hand_Book) | 7       | 4       | This is a 1st Part Of Bug Bounty Guideline . Hope ... | 2022-10-27   |
-| [Google-Dorking-for-Bug-Bounty-](https://github.com/abu76/Google-Dorking-for-Bug-Bounty-) | 7       | 4       | Here's an updated Google Dorking list for 2025 Bug... | 2026-03-13   |
-| [Roadmap-pentest-bug-bounty](https://github.com/hack-with-rohit/Roadmap-pentest-bug-bounty) | 7       | 3       | No description                  | 2026-02-25   |
+| [Roadmap-pentest-bug-bounty](https://github.com/hack-with-rohit/Roadmap-pentest-bug-bounty) | 7       | 2       | No description                  | 2026-02-25   |
 | [BugBountyFile](https://github.com/BlueSecc/BugBountyFile) | 7       | 2       | No description                  | 2025-12-02   |
 | [awesomebugbounty](https://github.com/WhitePrime/awesomebugbounty) | 7       | 3       | Список источников, площадо�... | 2026-03-12   |
 | [chaos_recondata](https://github.com/bbhunt-2020/chaos_recondata) | 7       | 7       | CHAOS - Recon data for Public Bug Bounty Programs ... | 2025-09-17   |
-| [AI-for-Cybersecurity-and-Bug-Bounty-Hunting](https://github.com/ec-council-learning/AI-for-Cybersecurity-and-Bug-Bounty-Hunting) | 7       | 3       | AI for Cybersecurity and Bug Bounty Hunting, by EC... | 2026-02-25   |
 | [bugmenace](https://github.com/3lpsy/bugmenace) | 7       | 2       | A Bug Bounty Packer Build       | 2022-10-19   |
 | [Bug-Bounty-Resources](https://github.com/Ethxmnhz/Bug-Bounty-Resources) | 7       | 2       | No description                  | 2025-10-15   |
-| [Bug-Bounty-Reporting-Templates](https://github.com/azwisec/Bug-Bounty-Reporting-Templates) | 7       | 2       | Report Templates One of the most important element... | 2025-10-31   |
 | [dorks](https://github.com/0xlipon/dorks) | 7       | 2       | Advanced Dorks for Bug Bounty!  | 2026-02-26   |
-| [Penquin](https://github.com/xibhi/Penquin) | 7       | 3       | Streamline Your Bug Bounty Workflow — Hack Smart... | 2026-03-04   |
 | [all-domains](https://github.com/nickyqqq/all-domains) | 7       | 9       | a tool for finding all existing domain that is in ... | 2026-02-27   |
 | [Web-Application-Penetration-Testing-Bug-Bounty-Notes](https://github.com/jagat-singh-chaudhary/Web-Application-Penetration-Testing-Bug-Bounty-Notes) | 7       | 2       | Web application penetration testing  | 2026-01-20   |
 | [CBBH-Preparation](https://github.com/francescolonardo/CBBH-Preparation) | 7       | 3       | Practical exercises and checklists to prepare for ... | 2026-03-15   |
@@ -1854,22 +1856,24 @@
 | [BugBullets](https://github.com/humblelad/BugBullets) | 7       | 1       | An Ammo store containing < 100 words summary of se... | 2025-07-05   |
 | [Portscan](https://github.com/TsukiCTF/Portscan) | 7       | 0       | Hardcoded nmap command automation for CTFs / Bug B... | 2024-07-17   |
 | [scopeNotifier](https://github.com/AmirhosseinBidokhti/scopeNotifier) | 7       | 1       | Getting the latest scopes (domains that are eligib... | 2025-01-05   |
-| [awesome-hacker-search-engines](https://github.com/drakyanerlanggarizkiwardhana/awesome-hacker-search-engines) | 7       | 2       | A curated list of awesome search engines useful du... | 2026-01-31   |
+| [awesome-hacker-search-engines](https://github.com/drakyanerlanggarizkiwardhana/awesome-hacker-search-engines) | 7       | 3       | A curated list of awesome search engines useful du... | 2026-01-31   |
 | [china-src](https://github.com/openeasm/china-src) | 7       | 0       | The Missing Security Response Center Data For Chin... | 2025-12-11   |
 | [webhook-mcp-server](https://github.com/zebbern/webhook-mcp-server) | 7       | 4       | A Model Context Protocol (MCP) server for webhook.... | 2026-03-02   |
 | [bb-tools](https://github.com/RemmyNine/bb-tools) | 7       | 0       | This repo contains wordlist gathered from bug boun... | 2025-12-25   |
 | [bb-reformater](https://github.com/sl4x0/bb-reformater) | 7       | 0       | A browser extension that helps bug bounty hunters ... | 2026-02-21   |
 | [Deptakeover](https://github.com/Swayamyadav01/Deptakeover) | 7       | 0       | Package takeover finder for bug bounty hunting. Sc... | 2026-03-15   |
+| [Hexstrike-AI](https://github.com/netcuter/Hexstrike-AI) | 7       | 3       | HexStrike AI MCP Agents is an advanced MCP server ... | 2026-03-21   |
 | [DorkingWordlists](https://github.com/zebbern/DorkingWordlists) | 7       | 1       | 🧾 | Google Dorks for automation and manual sear... | 2026-03-03   |
 | [Keyleaksecret](https://github.com/0xSojalSec/Keyleaksecret) | 7       | 0       | Keyleaksecret  is a repository which shows quick w... | 2026-03-09   |
 | [JavaScript-Analysis-Masterclass-Lab](https://github.com/amrelsagaei/JavaScript-Analysis-Masterclass-Lab) | 7       | 0       | JavaScript Analysis Masterclass Lab is a hands-on ... | 2026-02-04   |
 | [BrahmAstra](https://github.com/alexbieber/BrahmAstra) | 7       | 1       | Mining parameters from dark corners of Web Archive... | 2025-04-07   |
 | [posrare](https://github.com/raverrr/posrare) | 7       | 0       | "A tool for security researchers and bug bounty hu... | 2025-05-09   |
 | [Port_scanner](https://github.com/SaikethanPS/Port_scanner) | 7       | 0       | A fast port scanner written in go with a focus on ... | 2024-07-18   |
+| [XSS_payloads_list](https://github.com/devspidr/XSS_payloads_list) | 7       | 0       | A curated list of common and advanced Cross-Site S... | 2026-03-22   |
 | [Hunting-With-L0WK3Y](https://github.com/L0WK3Y-IAAN/Hunting-With-L0WK3Y) | 7       | 1       | This repository documents my path from cybersecuri... | 2026-01-06   |
 | [XSS-Hunting-Automation](https://github.com/Ivarsatierf/XSS-Hunting-Automation) | 7       | 1       | Automação completa para caça de vulnerabilidade... | 2025-08-15   |
-| [Hexstrike-AI](https://github.com/netcuter/Hexstrike-AI) | 7       | 3       | HexStrike AI MCP Agents is an advanced MCP server ... | 2026-02-16   |
 | [R3CON-X](https://github.com/saurabhsingh-26/R3CON-X) | 7       | 0       | R3CON-X is a Python-based automated recon tool for... | 2026-03-05   |
+| [Ultimate-openai-gemini-claude-api-key-scraper](https://github.com/shjee-afridi/Ultimate-openai-gemini-claude-api-key-scraper) | 7       | 2       | 🔑 Enterprise-grade async API key scanner for Gi... | 2026-03-20   |
 | [LinkHub](https://github.com/ACK-J/LinkHub) | 7       | 0       | This program takes in the Html of an organization'... | 2024-09-18   |
 | [Bug-Bounty-3](https://github.com/polling-repo-continua/Bug-Bounty-3) | 6       | 33      | Here Are Some Collected resource from twitter | 2025-09-04   |
 | [tts-bug-bounty-dashboard](https://github.com/18F/tts-bug-bounty-dashboard) | 6       | 6       | A prototype dashboard for the TTS bug bounty progr... | 2024-03-12   |
@@ -1890,7 +1894,6 @@
 | [bug-bounty-hunting-ai](https://github.com/uebelack/bug-bounty-hunting-ai) | 6       | 2       | Demo code and presentation materials for the talk ... | 2026-03-13   |
 | [Web-Application-Hacks](https://github.com/effortlessdevsec/Web-Application-Hacks) | 6       | 2       | Web Application Vulnerabilities, Bug Bounty | 2023-08-24   |
 | [intigriti-slack-announce](https://github.com/hazcod/intigriti-slack-announce) | 6       | 4       | Go bot that publishes new intigriti bug bounty fin... | 2024-01-31   |
-| [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 6       | 3       | 18 Claude Code skill files for smart contract secu... | 2026-03-15   |
 | [bug-hunting-toolkit](https://github.com/mhdgning131/bug-hunting-toolkit) | 6       | 3       | Sleek command generator and resource hub for bug b... | 2026-01-13   |
 | [infosec-notes](https://github.com/anibalardid/infosec-notes) | 6       | 2       | Notes about web application security, pentesting, ... | 2023-02-20   |
 | [PsychomongAUTOVAPT](https://github.com/psychomongpartho/PsychomongAUTOVAPT) | 6       | 0       | Bug Bounty Automation           | 2024-07-08   |
@@ -1918,18 +1921,16 @@
 | [VulnHawk](https://github.com/RoguePayload/VulnHawk) | 6       | 0       | Welcome to VulnHawk, the cutting-edge tool designe... | 2025-07-27   |
 | [ChatGPT-Pentesting-Personality](https://github.com/pentestfunctions/ChatGPT-Pentesting-Personality) | 6       | 1       | Collection of resources to make a more optimized C... | 2024-06-29   |
 | [Endpoints-Monitor](https://github.com/dd060606/Endpoints-Monitor) | 6       | 0       | A tool designed to help bug bounty hunters monitor... | 2025-12-01   |
-| [Audityzer](https://github.com/romanchaa997/Audityzer) | 6       | 3       | Comprehensive Web3 Security Platform - Advanced dA... | 2026-03-13   |
+| [Audityzer](https://github.com/romanchaa997/Audityzer) | 6       | 3       | Comprehensive Web3 Security Platform - Advanced dA... | 2026-03-22   |
 | [Subdomain-Takeover-Methodology-Guide](https://github.com/kawinduwijewardhane/Subdomain-Takeover-Methodology-Guide) | 6       | 2       | A comprehensive guide covering automatic, manual, ... | 2025-10-02   |
 | [S3-Checker](https://github.com/zapstiko/S3-Checker) | 6       | 2       | S3-Checker is a fast, concurrent AWS S3 bucket dis... | 2026-03-06   |
-| [ProjectDork](https://github.com/anmolksachan/ProjectDork) | 6       | 1       | The Dork Search Tools are designed to help bug bou... | 2025-09-06   |
 | [pentesting-checklists-2025](https://github.com/HxH404/pentesting-checklists-2025) | 6       | 1       | A practical, atomic pentesting checklist for 2025 ... | 2026-02-16   |
-| [ReconNinja](https://github.com/ExploitCraft/ReconNinja) | 6       | 2       | ⚡ ReconNinja v5 — Automated recon framework fo... | 2026-03-14   |
+| [ProjectDork](https://github.com/anmolksachan/ProjectDork) | 6       | 1       | The Dork Search Tools are designed to help bug bou... | 2025-09-06   |
 | [DorkSearch](https://github.com/Tobi-45/DorkSearch) | 6       | 2       | DorkSearch is a sleek web tool for bug bounty hunt... | 2026-03-09   |
 | [BurpShot](https://github.com/ShubhamDubeyy/BurpShot) | 6       | 0       | 🚀 BurpShot – A high-performance Burp Suite ex... | 2026-02-23   |
 | [SubProbe](https://github.com/devploit/SubProbe) | 6       | 0       | ⚡ JavaScript-aware crawler for security research... | 2026-03-15   |
 | [JXSS](https://github.com/John-A0/JXSS) | 6       | 2       | JXSS is a Python-based tool designed to detect and... | 2024-12-21   |
 | [GitSeeker-V.1](https://github.com/ved4vyasan/GitSeeker-V.1) | 6       | 1       | The ultimate automation tool for bug bounty hunter... | 2026-02-20   |
-| [XSS_payloads_list](https://github.com/devspidr/XSS_payloads_list) | 6       | 0       | A curated list of common and advanced Cross-Site S... | 2026-02-05   |
 | [ReconHound](https://github.com/s-r-e-e-r-a-j/ReconHound) | 6       | 0       | ReconHound is a Python-based web reconnaissance to... | 2025-11-19   |
 | [iismap](https://github.com/ibrahmsql/iismap) | 6       | 0       | IIS Vulnerability Scanner and Misconfiguration Map... | 2025-11-28   |
 | [pyintruder_cli](https://github.com/hsagnik/pyintruder_cli) | 6       | 0       | PyIntruder CLI is a powerful command-line web fuzz... | 2025-12-23   |
@@ -1951,7 +1952,7 @@
 | [BB-Disco](https://github.com/R-s0n/BB-Disco) | 5       | 7       | Automation script that monitors for new Bug Bounty... | 2026-01-16   |
 | [bug-bounty-automation](https://github.com/geeknik/bug-bounty-automation) | 5       | 2       | WIP Bug Bounty Automation       | 2026-02-26   |
 | [Bug-Bounty-Browser-Extension](https://github.com/DevDungeon/Bug-Bounty-Browser-Extension) | 5       | 2       | Tool for assisting in bug bounty hunting process | 2024-09-10   |
-| [glow-finance-bug-bounty](https://github.com/code-423n4/glow-finance-bug-bounty) | 5       | 2       | No description                  | 2026-02-26   |
+| [glow-finance-bug-bounty](https://github.com/code-423n4/glow-finance-bug-bounty) | 5       | 2       | No description                  | 2026-03-17   |
 | [The-Complete-Guide-to-Android-Bug-Bounty-Penetration-Tests](https://github.com/PacktPublishing/The-Complete-Guide-to-Android-Bug-Bounty-Penetration-Tests) | 5       | 3       | The Complete Guide to Android Bug Bounty Penetrati... | 2025-09-13   |
 | [wordlists](https://github.com/oxgreyhound/wordlists) | 5       | 3       | My personal wordlists from WebApp Hacking and Bug ... | 2025-11-21   |
 | [bug-chan](https://github.com/swarooppatilx/bug-chan) | 5       | 2       | Bugchan, trustless bug bounties powered by smart c... | 2026-01-31   |
@@ -1965,20 +1966,19 @@
 | [BugBounty_beginner_Roadmap](https://github.com/PYMaster-ft/BugBounty_beginner_Roadmap) | 5       | 0       | This is a resource factory for anyone looking forw... | 2023-10-23   |
 | [bug-bounty](https://github.com/fullstop125/bug-bounty) | 5       | 0       | No description                  | 2023-02-03   |
 | [bug-bounty](https://github.com/volmexfinance/bug-bounty) | 5       | 0       | No description                  | 2025-09-05   |
-| [bug-bounty-ctf](https://github.com/hackthebox/bug-bounty-ctf) | 5       | 1       | Writeups for Hack The Box Bug Bounty CTF 2025 | 2026-01-09   |
 | [bug_bounty_notes](https://github.com/Dyst0rti0n/bug_bounty_notes) | 5       | 0       | This is brief beginning to Bug Bounties/Bug Huntin... | 2025-09-14   |
 | [All-In-One-Bug-Hunting-Setup](https://github.com/CTFxShubh/All-In-One-Bug-Hunting-Setup) | 5       | 0       | Bug Bounty Setup Tool           | 2025-04-02   |
 | [Bug-Bounty-Methodology](https://github.com/h33raj/Bug-Bounty-Methodology) | 5       | 0       | No description                  | 2022-02-01   |
 | [pawb](https://github.com/Zian25/pawb) | 5       | 2       | A blazing fast secret-hunting tool for bug bounty ... | 2026-01-13   |
+| [termux-bug-bounty-guide](https://github.com/encrypter15/termux-bug-bounty-guide) | 5       | 1       | No description                  | 2026-03-22   |
 | [Bug-Bounty-Vulnerability-Scenarios](https://github.com/Karanxa/Bug-Bounty-Vulnerability-Scenarios) | 5       | 1       | No description                  | 2023-12-16   |
+| [Bug-Bounty-Recon-Automation](https://github.com/Amangupta1234/Bug-Bounty-Recon-Automation) | 5       | 0       | A automation script that makes recon easy by runni... | 2023-02-05   |
 | [ultimate_bug_bounty_structure-](https://github.com/richardonyeka/ultimate_bug_bounty_structure-) | 5       | 0       | This repository provides a comprehensive setup scr... | 2025-05-01   |
 | [Bugs-bounty-tools-list](https://github.com/Jayantvishwakarma/Bugs-bounty-tools-list) | 5       | 1       | Bugs-bounty-tools-list 2023     | 2025-04-06   |
-| [Bug-Bounty-Recon-Automation](https://github.com/Amangupta1234/Bug-Bounty-Recon-Automation) | 5       | 0       | A automation script that makes recon easy by runni... | 2023-02-05   |
 | [Bug-Bounty-Hunter-Articles](https://github.com/Hacker-Fighter001/Bug-Bounty-Hunter-Articles) | 5       | 0       | A curated list of Bugbounty articles (Bug types) w... | 2024-04-16   |
 | [Bug-Bounty-Labs-Plataforma](https://github.com/CuriosidadesDeHackers/Bug-Bounty-Labs-Plataforma) | 5       | 0       | ¡Bienvenido a Bug Bounty Labs! 🚀 Una plataform... | 2026-03-13   |
 | [blockbounty](https://github.com/ankitnayan/blockbounty) | 5       | 0       | Blockchain based bug bounty platform | 2023-09-16   |
 | [Depcher](https://github.com/patuuh/Depcher) | 5       | 4       | Tool to quickly analyze bug bounty platforms targe... | 2023-05-06   |
-| [burpflow](https://github.com/karthi-the-hacker/burpflow) | 5       | 3       | BurpFlow is a powerful tool for bug bounty hunters... | 2025-11-09   |
 | [bugbounty](https://github.com/rbih-boulanouar/bugbounty) | 5       | 1       | collection of tricks and tips for bug bounty | 2025-12-07   |
 | [URL-Responder](https://github.com/codie-shiv/URL-Responder) | 5       | 3       | A handy tool for bug bounty hunters/pentesters to ... | 2025-06-03   |
 | [Bugbounty-Reports](https://github.com/0xr0hrncr7/Bugbounty-Reports) | 5       | 0       | My bug bounty write-ups and responsible disclosure... | 2025-11-04   |
@@ -1986,6 +1986,7 @@
 | [hacking-files](https://github.com/j4yd33/hacking-files) | 5       | 0       | Arquivos para estudo sobre Bug Bounty. | 2020-07-12   |
 | [DefSec-Hunter](https://github.com/darkz2trippy/DefSec-Hunter) | 5       | 0       | Bug bounty/Pentesting tool and etc | 2025-11-21   |
 | [CVE-2020-17453](https://github.com/karthi-the-hacker/CVE-2020-17453) | 5       | 3       | CVE-2020-17453 is a powerful scanner for bug bount... | 2025-08-27   |
+| [ReconHound](https://github.com/fahimalshihab/ReconHound) | 5       | 0       | Automated reconnaissance tool for bug bounty hunte... | 2026-03-17   |
 | [2026-01-pre-launch-bug-bounty-alignerz](https://github.com/dualguard/2026-01-pre-launch-bug-bounty-alignerz) | 5       | 0       | Pre-launch bug bounty program for the AlignerZ pro... | 2026-01-08   |
 | [check-list](https://github.com/khanjanny/check-list) | 5       | 5       | This checklist may help you to have a good methodo... | 2025-08-14   |
 | [BUGHunter](https://github.com/REDAOUZIDANE/BUGHunter) | 5       | 0       | his methodology is a basic guide to help you kicks... | 2025-06-28   |
@@ -1994,41 +1995,41 @@
 | [RecoMation](https://github.com/anmolksachan/RecoMation) | 5       | 3       | Recon Automation is a utility for automating recon... | 2025-01-25   |
 | [Z4GR3US](https://github.com/cyph3rryx/Z4GR3US) | 5       | 2       | Z4GR3US is an all-in-one repository containing the... | 2024-10-03   |
 | [Surface-Scanner](https://github.com/mirzaaghazadeh/Surface-Scanner) | 5       | 1       | An all-in-one scanning tool for bug bounty hunters... | 2025-08-06   |
+| [researchlab](https://github.com/sin99xx/researchlab) | 5       | 0       | Spec-driven bug bounty writeups  and real world se... | 2026-03-21   |
+| [advanced-bugbounty-mcp](https://github.com/Coding-with-Mayank/advanced-bugbounty-mcp) | 5       | 1       | 🔥 Advanced AI-Powered Bug Bounty Hunting Platfo... | 2026-03-17   |
 | [All-in-one-recon](https://github.com/PradyumnTiwareNexus/All-in-one-recon) | 5       | 0       | Advanced Bug Bounty Recon Tool by Pradyumn Tiware ... | 2026-03-13   |
+| [hxr](https://github.com/ruyynn/hxr) | 5       | 0       | Advanced security reconnaissance framework for bug... | 2026-03-21   |
 | [reconscan](https://github.com/binderlabs/reconscan) | 5       | 1       | Reconscan is a tool for pentesters and bug bounty ... | 2024-08-12   |
 | [NexVuln](https://github.com/John-Varghese-EH/NexVuln) | 5       | 0       | NexVuln: Next-generation AI-powered vulnerability ... | 2026-01-23   |
-| [assets-programs](https://github.com/pwnlaboratory/assets-programs) | 5       | 1       | Asset inventory of over 1 million public bug bount... | 2025-12-08   |
+| [assets-programs](https://github.com/pwnlaboratory/assets-programs) | 5       | 2       | Asset inventory of over 1 million public bug bount... | 2025-12-08   |
 | [Wies](https://github.com/H4t4way/Wies) | 5       | 1       | Wies is a bash script that automates the recon ste... | 2021-05-06   |
+| [burpflow](https://github.com/Cappricio-Securities/burpflow) | 5       | 3       | BurpFlow is one of the best Burp Suite automation ... | 2026-03-17   |
+| [0din.ai](https://github.com/0din-ai/0din.ai) | 5       | 2       | The zero day investigative network (0din) is a Gen... | 2026-03-21   |
 | [oldhost](https://github.com/topscoder/oldhost) | 5       | 3       | oldhost is a tool for bug bounty hunters to discov... | 2024-12-09   |
+| [DOM-Invader](https://github.com/MhnXp/DOM-Invader) | 5       | 0       | One of the great extensions you can definitely use... | 2026-03-20   |
 | [ShodanGUI](https://github.com/Mr-rakeshnaik/ShodanGUI) | 5       | 2       | An advanced, Tkinter-based GUI for the Shodan API ... | 2025-09-02   |
 | [IP-Morph](https://github.com/wselby12/IP-Morph) | 5       | 3       | A bug bounty and web application penetration testi... | 2024-02-20   |
 | [Lotus](https://github.com/micho0x/Lotus) | 5       | 0       | An automated bash script for maximum coverage web ... | 2026-02-26   |
+| [PHPUnit-GoScan](https://github.com/drcrypterdotru/PHPUnit-GoScan) | 5       | 1       | PHPUnit CVE-2017-9841 Scanner in Go  clean and fir... | 2026-03-17   |
 | [recon_automation_resources](https://github.com/bronxi47/recon_automation_resources) | 5       | 0       | Este es un repo con recursos que menciono en el m�... | 2025-10-24   |
 | [Mecca_X](https://github.com/ibdtech/Mecca_X) | 5       | 0       | penetration testing framework with automated vulne... | 2025-11-09   |
 | [Metahunter](https://github.com/Acorzo1983/Metahunter) | 5       | 0       | MetaHunter is a suite of tools designed to enhance... | 2026-03-09   |
+| [rebindx](https://github.com/baibhavanand/rebindx) | 5       | 0       | Rebindx is a DNS rebinding tool that is specially ... | 2026-03-20   |
+| [RYN27](https://github.com/ruyynn/RYN27) | 5       | 0       | Open source CLI tool for information gathering —... | 2026-03-21   |
 | [GoScope-AI](https://github.com/porgnope/GoScope-AI) | 5       | 1       | GoScope AI — High-performance web scanner with A... | 2026-02-16   |
-| [wshawk](https://github.com/regaan/wshawk) | 5       | 1       | Enterprise-grade WebSocket security scanner with S... | 2026-03-08   |
+| [wshawk](https://github.com/regaan/wshawk) | 5       | 1       | Enterprise-grade WebSocket security scanner with S... | 2026-03-17   |
 | [WEB3.0](https://github.com/cybersagor/WEB3.0) | 5       | 0       | Welcome to Learn WEB3.0 Bug Hunting in 3 Months! T... | 2026-02-12   |
 | [treasure-map](https://github.com/worldcoin/treasure-map) | 5       | 1       | Treasure map to provide a better understanding of ... | 2026-03-03   |
 | [FuzzForge](https://github.com/z3r0X0r/FuzzForge) | 5       | 1       | FuzzForge is a high-speed Go-based directory and p... | 2025-01-29   |
 | [Recon-Engine](https://github.com/haza-3301/Recon-Engine) | 5       | 2       | Recon-Engine adalah framework subdomain enumeratio... | 2025-10-18   |
 | [GoRecon](https://github.com/F2u0a0d3/GoRecon) | 5       | 1       | Next-generation, modular penetration testing frame... | 2025-12-21   |
-| [WebPentesting_Journey](https://github.com/thecyberdevvarun/WebPentesting_Journey) | 5       | 0       | A personal documentation repo focused on mastering... | 2026-03-13   |
+| [WebPentesting_Journey](https://github.com/thecyberdevvarun/WebPentesting_Journey) | 5       | 0       | A personal documentation repo focused on mastering... | 2026-03-22   |
 | [Automation](https://github.com/sanz111/Automation) | 5       | 0       | Automation is the latest trend in bug bounty hunti... | 2024-08-01   |
-| [Ultimate-openai-gemini-claude-api-key-scraper](https://github.com/shjee-afridi/Ultimate-openai-gemini-claude-api-key-scraper) | 5       | 1       | 🔑 Enterprise-grade async API key scanner for Gi... | 2026-03-08   |
 | [all-Dutchgov-domains](https://github.com/Rockpratapsingh/all-Dutchgov-domains) | 5       | 1       | Welcome to the "all-Dutchgov-domains" repository, ... | 2025-07-21   |
 | [ReconKit](https://github.com/Josekutty-K/ReconKit) | 5       | 0       | ReconKit is a custom bash script which I created t... | 2026-02-03   |
 | [LinkxDoxer](https://github.com/BilalAhmadKhanKhattak/LinkxDoxer) | 5       | 1       | LinkxDoxer is a Python script designed to efficien... | 2024-11-21   |
+| [GhostJS](https://github.com/lazy-sharaf/GhostJS) | 5       | 0       | GhostJS is a powerful reconnaissance tool designed... | 2026-03-17   |
 | [google-dorks-2018-2019](https://github.com/HanPac/google-dorks-2018-2019) | 5       | 0       | L’objectif des Dorks est de détecter si des fui... | 2025-08-16   |
 | [IP-checker](https://github.com/whalebone7/IP-checker) | 5       | 0       | IP Checker is a Bash tool that checks if an IP add... | 2024-01-25   |
 | [kobedork-app](https://github.com/cahyod/kobedork-app) | 5       | 0       | It is a powerful web-based tool designed for secur... | 2026-01-19   |
 | [bugbounty-starter-notes](https://github.com/La3B0z/bugbounty-starter-notes) | 4       | 19      | bug bounty hunters starter notes  | 2024-09-25   |
-| [bug_bounty_event](https://github.com/Cyberene/bug_bounty_event) | 4       | 13      | This is a bug bounty challenge to foster debugging... | 2025-12-31   |
-| [rauton](https://github.com/polling-repo-continua/rauton) | 4       | 15      | Advanced Bug Bounty Recon Tools | 2025-03-19   |
-| [BugBountyData](https://github.com/rix4uni/BugBountyData) | 4       | 7       | List of Public Bug Bounty and Responsible Disclosu... | 2026-03-06   |
-| [Bug-Bounty-Brigade-Main-Website](https://github.com/Bug-Bounty-Brigade/Bug-Bounty-Brigade-Main-Website) | 4       | 10      | Bug Bounty Brigade Main Website | 2023-11-08   |
-| [bug-bounty](https://github.com/flare-foundation/bug-bounty) | 4       | 7       | No description                  | 2025-05-14   |
-| [Fire_Starter](https://github.com/R-s0n/Fire_Starter) | 4       | 7       | Bug Bounty Recon Automation Script | 2024-11-02   |
-| [bug-bounty-box](https://github.com/0xPugal/bug-bounty-box) | 4       | 3       | A script to set up a quick Ubuntu box with tools n... | 2025-07-03   |
-| [Bug-Bounty-Reference](https://github.com/Muhammd/Bug-Bounty-Reference) | 4       | 3       | No description                  | 2024-02-03   |
-| [bug-hunting-web-security](https://github.com/Apress/bug-hunting-web-security) | 4       | 4       | Source Code for 'Bug Bounty Hunting for Web Securi... | 2023-10-04   |
